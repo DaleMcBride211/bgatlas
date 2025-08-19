@@ -1,0 +1,1310 @@
+{
+  "hunt_area": {
+    "1": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 83,
+        "first_choice_applicants": 942,
+        "second_choice_applicants": 158,
+        "third_choice_applicants": 71
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 63,
+        "first_choice_applicants": 92,
+        "second_choice_applicants": 143,
+        "third_choice_applicants": 47
+      }
+    ],
+    "6": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 40,
+        "first_choice_applicants": 368,
+        "second_choice_applicants": 106,
+        "third_choice_applicants": 47
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 21,
+        "first_choice_applicants": 37,
+        "second_choice_applicants": 97,
+        "third_choice_applicants": 15
+      }
+    ],
+    "7": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 1003,
+        "first_choice_applicants": 3669,
+        "second_choice_applicants": 529,
+        "third_choice_applicants": 286
+      },
+      {
+        "hunt_description": "ANTLERED ELK FIVE",
+        "hunt_type": 2,
+        "total_quota": 294,
+        "first_choice_applicants": 69,
+        "second_choice_applicants": 550,
+        "third_choice_applicants": 116
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 672,
+        "first_choice_applicants": 30,
+        "second_choice_applicants": 515,
+        "third_choice_applicants": 265
+      }
+    ],
+    "8": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 117,
+        "first_choice_applicants": 168,
+        "second_choice_applicants": 39,
+        "third_choice_applicants": 28
+      }
+    ],
+    "11": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 150,
+        "first_choice_applicants": 913,
+        "second_choice_applicants": 189,
+        "third_choice_applicants": 101
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 84,
+        "first_choice_applicants": 45,
+        "second_choice_applicants": 247,
+        "third_choice_applicants": 37
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 62,
+        "first_choice_applicants": 145,
+        "second_choice_applicants": 36,
+        "third_choice_applicants": 16
+      }
+    ],
+    "16": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 189,
+        "first_choice_applicants": 1818,
+        "second_choice_applicants": 537,
+        "third_choice_applicants": 261
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 74,
+        "first_choice_applicants": 722,
+        "second_choice_applicants": 389,
+        "third_choice_applicants": 135
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 250,
+        "first_choice_applicants": 254,
+        "second_choice_applicants": 387,
+        "third_choice_applicants": 151
+      }
+    ],
+    "19": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 104,
+        "first_choice_applicants": 484,
+        "second_choice_applicants": 222,
+        "third_choice_applicants": 127
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 139,
+        "first_choice_applicants": 349,
+        "second_choice_applicants": 175,
+        "third_choice_applicants": 51
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 106,
+        "first_choice_applicants": 10,
+        "second_choice_applicants": 95,
+        "third_choice_applicants": 72
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 5,
+        "total_quota": 118,
+        "first_choice_applicants": 11,
+        "second_choice_applicants": 44,
+        "third_choice_applicants": 42
+      }
+    ],
+    "22": [
+      {
+        "hunt_description": "ANY ELK;",
+        "hunt_type": 1,
+        "total_quota": 57,
+        "first_choice_applicants": 605,
+        "second_choice_applicants": 176,
+        "third_choice_applicants": 95
+      }
+    ],
+    "23": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 115,
+        "first_choice_applicants": 535,
+        "second_choice_applicants": 94,
+        "third_choice_applicants": 73
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK;",
+        "hunt_type": 4,
+        "total_quota": 178,
+        "first_choice_applicants": 8,
+        "second_choice_applicants": 173,
+        "third_choice_applicants": 32
+      }
+    ],
+    "24": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 155,
+        "first_choice_applicants": 1071,
+        "second_choice_applicants": 263,
+        "third_choice_applicants": 151
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK;",
+        "hunt_type": 4,
+        "total_quota": 63,
+        "first_choice_applicants": 73,
+        "second_choice_applicants": 125,
+        "third_choice_applicants": 54
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 5,
+        "total_quota": 147,
+        "first_choice_applicants": 110,
+        "second_choice_applicants": 145,
+        "third_choice_applicants": 85
+      }
+    ],
+    "25": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 141,
+        "first_choice_applicants": 771,
+        "second_choice_applicants": 273,
+        "third_choice_applicants": 101
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 84,
+        "first_choice_applicants": 42,
+        "second_choice_applicants": 143,
+        "third_choice_applicants": 44
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 5,
+        "total_quota": 63,
+        "first_choice_applicants": 10,
+        "second_choice_applicants": 92,
+        "third_choice_applicants": 56
+      }
+    ],
+    "27": [
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 63,
+        "first_choice_applicants": 59,
+        "second_choice_applicants": 86,
+        "third_choice_applicants": 39
+      }
+    ],
+    "28": [
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 147,
+        "first_choice_applicants": 178,
+        "second_choice_applicants": 68,
+        "third_choice_applicants": 28
+      }
+    ],
+    "30": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 24,
+        "first_choice_applicants": 600,
+        "second_choice_applicants": 389,
+        "third_choice_applicants": 281
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 84,
+        "first_choice_applicants": 139,
+        "second_choice_applicants": 101,
+        "third_choice_applicants": 77
+      }
+    ],
+    "31": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 40,
+        "first_choice_applicants": 1096,
+        "second_choice_applicants": 555,
+        "third_choice_applicants": 302
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 147,
+        "first_choice_applicants": 253,
+        "second_choice_applicants": 163,
+        "third_choice_applicants": 76
+      }
+    ],
+    "32": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 31,
+        "first_choice_applicants": 626,
+        "second_choice_applicants": 335,
+        "third_choice_applicants": 319
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 126,
+        "first_choice_applicants": 151,
+        "second_choice_applicants": 225,
+        "third_choice_applicants": 70
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 9,
+        "total_quota": 21,
+        "first_choice_applicants": 1,
+        "second_choice_applicants": 6,
+        "third_choice_applicants": 13
+      }
+    ],
+    "33": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 163,
+        "first_choice_applicants": 141,
+        "second_choice_applicants": 84,
+        "third_choice_applicants": 47
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 142,
+        "first_choice_applicants": 1,
+        "second_choice_applicants": 19,
+        "third_choice_applicants": 7
+      }
+    ],
+    "34": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 648,
+        "first_choice_applicants": 624,
+        "second_choice_applicants": 265,
+        "third_choice_applicants": 103
+      }
+    ],
+    "35": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 122,
+        "first_choice_applicants": 507,
+        "second_choice_applicants": 241,
+        "third_choice_applicants": 108
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 147,
+        "first_choice_applicants": 102,
+        "second_choice_applicants": 205,
+        "third_choice_applicants": 36
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 63,
+        "first_choice_applicants": 190,
+        "second_choice_applicants": 76,
+        "third_choice_applicants": 50
+      }
+    ],
+    "36": [
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 273,
+        "first_choice_applicants": 22,
+        "second_choice_applicants": 40,
+        "third_choice_applicants": 30
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 63,
+        "first_choice_applicants": 23,
+        "second_choice_applicants": 48,
+        "third_choice_applicants": 19
+      }
+    ],
+    "37": [
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 126,
+        "first_choice_applicants": 149,
+        "second_choice_applicants": 172,
+        "third_choice_applicants": 76
+      }
+    ],
+    "38": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 333,
+        "first_choice_applicants": 1076,
+        "second_choice_applicants": 348,
+        "third_choice_applicants": 178
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 459,
+        "first_choice_applicants": 461,
+        "second_choice_applicants": 449,
+        "third_choice_applicants": 113
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 210,
+        "first_choice_applicants": 997,
+        "second_choice_applicants": 131,
+        "third_choice_applicants": 75
+      }
+    ],
+    "39": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 163,
+        "first_choice_applicants": 420,
+        "second_choice_applicants": 122,
+        "third_choice_applicants": 68
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 126,
+        "first_choice_applicants": 153,
+        "second_choice_applicants": 230,
+        "third_choice_applicants": 42
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 84,
+        "first_choice_applicants": 227,
+        "second_choice_applicants": 80,
+        "third_choice_applicants": 47
+      }
+    ],
+    "40": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 188,
+        "first_choice_applicants": 411,
+        "second_choice_applicants": 160,
+        "third_choice_applicants": 149
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 105,
+        "first_choice_applicants": 56,
+        "second_choice_applicants": 316,
+        "third_choice_applicants": 66
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 84,
+        "first_choice_applicants": 114,
+        "second_choice_applicants": 82,
+        "third_choice_applicants": 83
+      }
+    ],
+    "41": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 226,
+        "first_choice_applicants": 380,
+        "second_choice_applicants": 187,
+        "third_choice_applicants": 96
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 79,
+        "first_choice_applicants": 102,
+        "second_choice_applicants": 111,
+        "third_choice_applicants": 48
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 3,
+        "total_quota": 26,
+        "first_choice_applicants": 38,
+        "second_choice_applicants": 19,
+        "third_choice_applicants": 8
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 294,
+        "first_choice_applicants": 52,
+        "second_choice_applicants": 209,
+        "third_choice_applicants": 108
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 104,
+        "first_choice_applicants": 255,
+        "second_choice_applicants": 65,
+        "third_choice_applicants": 50
+      }
+    ],
+    "45": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 268,
+        "first_choice_applicants": 919,
+        "second_choice_applicants": 279,
+        "third_choice_applicants": 199
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 210,
+        "first_choice_applicants": 84,
+        "second_choice_applicants": 285,
+        "third_choice_applicants": 76
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 5,
+        "total_quota": 168,
+        "first_choice_applicants": 132,
+        "second_choice_applicants": 129,
+        "third_choice_applicants": 90
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 143,
+        "first_choice_applicants": 441,
+        "second_choice_applicants": 87,
+        "third_choice_applicants": 43
+      }
+    ],
+    "47": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 102,
+        "first_choice_applicants": 72,
+        "second_choice_applicants": 24,
+        "third_choice_applicants": 9
+      }
+    ],
+    "48": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 306,
+        "first_choice_applicants": 273,
+        "second_choice_applicants": 127,
+        "third_choice_applicants": 60
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 120,
+        "first_choice_applicants": 6,
+        "second_choice_applicants": 39,
+        "third_choice_applicants": 24
+      }
+    ],
+    "49": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 258,
+        "first_choice_applicants": 327,
+        "second_choice_applicants": 102,
+        "third_choice_applicants": 56
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 86,
+        "first_choice_applicants": 18,
+        "second_choice_applicants": 53,
+        "third_choice_applicants": 21
+      }
+    ],
+    "51": [
+      {
+        "hunt_description": "ANY ELK SOUTH",
+        "hunt_type": 1,
+        "total_quota": 100,
+        "first_choice_applicants": 297,
+        "second_choice_applicants": 72,
+        "third_choice_applicants": 48
+      },
+      {
+        "hunt_description": "ANY ELK NORTH",
+        "hunt_type": 2,
+        "total_quota": 34,
+        "first_choice_applicants": 76,
+        "second_choice_applicants": 53,
+        "third_choice_applicants": 27
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 42,
+        "first_choice_applicants": 113,
+        "second_choice_applicants": 45,
+        "third_choice_applicants": 22
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 67,
+        "first_choice_applicants": 77,
+        "second_choice_applicants": 31,
+        "third_choice_applicants": 15
+      }
+    ],
+    "54": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 50,
+        "first_choice_applicants": 180,
+        "second_choice_applicants": 81,
+        "third_choice_applicants": 36
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 21,
+        "first_choice_applicants": 63,
+        "second_choice_applicants": 20,
+        "third_choice_applicants": 13
+      },
+      {
+        "hunt_description": "Any elk",
+        "hunt_type": 3,
+        "total_quota": 2,
+        "first_choice_applicants": 78,
+        "second_choice_applicants": 42,
+        "third_choice_applicants": 19
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 34,
+        "first_choice_applicants": 44,
+        "second_choice_applicants": 21,
+        "third_choice_applicants": 11
+      }
+    ],
+    "55": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 50,
+        "first_choice_applicants": 185,
+        "second_choice_applicants": 65,
+        "third_choice_applicants": 37
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 21,
+        "first_choice_applicants": 22,
+        "second_choice_applicants": 41,
+        "third_choice_applicants": 5
+      }
+    ],
+    "56": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 8,
+        "first_choice_applicants": 205,
+        "second_choice_applicants": 76,
+        "third_choice_applicants": 54
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 25,
+        "first_choice_applicants": 2,
+        "second_choice_applicants": 3,
+        "third_choice_applicants": 5
+      }
+    ],
+    "58": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 21,
+        "first_choice_applicants": 225,
+        "second_choice_applicants": 54,
+        "third_choice_applicants": 37
+      }
+    ],
+    "59": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 8,
+        "first_choice_applicants": 191,
+        "second_choice_applicants": 55,
+        "third_choice_applicants": 20
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 21,
+        "first_choice_applicants": 0,
+        "second_choice_applicants": 2,
+        "third_choice_applicants": 1
+      }
+    ],
+    "60": [
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 17,
+        "first_choice_applicants": 2,
+        "second_choice_applicants": 3,
+        "third_choice_applicants": 4
+      }
+    ],
+    "61": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 126,
+        "first_choice_applicants": 398,
+        "second_choice_applicants": 145,
+        "third_choice_applicants": 49
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 34,
+        "first_choice_applicants": 314,
+        "second_choice_applicants": 93,
+        "third_choice_applicants": 37
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 171,
+        "first_choice_applicants": 27,
+        "second_choice_applicants": 102,
+        "third_choice_applicants": 47
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 23,
+        "first_choice_applicants": 22,
+        "second_choice_applicants": 22,
+        "third_choice_applicants": 5
+      }
+    ],
+    "62": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 100,
+        "first_choice_applicants": 597,
+        "second_choice_applicants": 145,
+        "third_choice_applicants": 78
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 63,
+        "first_choice_applicants": 11,
+        "second_choice_applicants": 87,
+        "third_choice_applicants": 32
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 5,
+        "total_quota": 146,
+        "first_choice_applicants": 114,
+        "second_choice_applicants": 99,
+        "third_choice_applicants": 56
+      }
+    ],
+    "63": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 140,
+        "first_choice_applicants": 622,
+        "second_choice_applicants": 121,
+        "third_choice_applicants": 51
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 29,
+        "first_choice_applicants": 86,
+        "second_choice_applicants": 30,
+        "third_choice_applicants": 17
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 3,
+        "total_quota": 56,
+        "first_choice_applicants": 299,
+        "second_choice_applicants": 80,
+        "third_choice_applicants": 25
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 82,
+        "first_choice_applicants": 14,
+        "second_choice_applicants": 96,
+        "third_choice_applicants": 14
+      }
+    ],
+    "65": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 17,
+        "first_choice_applicants": 54,
+        "second_choice_applicants": 26,
+        "third_choice_applicants": 19
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 96,
+        "first_choice_applicants": 9,
+        "second_choice_applicants": 13,
+        "third_choice_applicants": 7
+      }
+    ],
+    "67": [
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 336,
+        "first_choice_applicants": 360,
+        "second_choice_applicants": 88,
+        "third_choice_applicants": 53
+      },
+      {
+        "hunt_description": "ANY ELK, ARCHERY",
+        "hunt_type": 9,
+        "total_quota": 126,
+        "first_choice_applicants": 34,
+        "second_choice_applicants": 31,
+        "third_choice_applicants": 22
+      }
+    ],
+    "75": [
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 17,
+        "first_choice_applicants": 46,
+        "second_choice_applicants": 10,
+        "third_choice_applicants": 13
+      }
+    ],
+    "78": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 60,
+        "first_choice_applicants": 117,
+        "second_choice_applicants": 30,
+        "third_choice_applicants": 11
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 42,
+        "first_choice_applicants": 12,
+        "second_choice_applicants": 20,
+        "third_choice_applicants": 0
+      }
+    ],
+    "82": [
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 42,
+        "first_choice_applicants": 47,
+        "second_choice_applicants": 17,
+        "third_choice_applicants": 15
+      }
+    ],
+    "84": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 42,
+        "first_choice_applicants": 49,
+        "second_choice_applicants": 23,
+        "third_choice_applicants": 21
+      }
+    ],
+    "87": [
+      {
+        "hunt_description": "ANTLERED ELK",
+        "hunt_type": 1,
+        "total_quota": 8,
+        "first_choice_applicants": 28,
+        "second_choice_applicants": 15,
+        "third_choice_applicants": 9
+      }
+    ],
+    "88": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 34,
+        "first_choice_applicants": 87,
+        "second_choice_applicants": 21,
+        "third_choice_applicants": 5
+      }
+    ],
+    "91": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 84,
+        "first_choice_applicants": 323,
+        "second_choice_applicants": 73,
+        "third_choice_applicants": 30
+      }
+    ],
+    "93": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 165,
+        "first_choice_applicants": 178,
+        "second_choice_applicants": 50,
+        "third_choice_applicants": 19
+      }
+    ],
+    "95": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 189,
+        "first_choice_applicants": 363,
+        "second_choice_applicants": 78,
+        "third_choice_applicants": 26
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 25,
+        "first_choice_applicants": 10,
+        "second_choice_applicants": 21,
+        "third_choice_applicants": 6
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 127,
+        "first_choice_applicants": 9,
+        "second_choice_applicants": 74,
+        "third_choice_applicants": 15
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 5,
+        "total_quota": 21,
+        "first_choice_applicants": 0,
+        "second_choice_applicants": 2,
+        "third_choice_applicants": 1
+      }
+    ],
+    "96": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 231,
+        "first_choice_applicants": 74,
+        "second_choice_applicants": 74,
+        "third_choice_applicants": 54
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 146,
+        "first_choice_applicants": 5,
+        "second_choice_applicants": 8,
+        "third_choice_applicants": 7
+      }
+    ],
+    "97": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 189,
+        "first_choice_applicants": 72,
+        "second_choice_applicants": 72,
+        "third_choice_applicants": 28
+      }
+    ],
+    "98": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 294,
+        "first_choice_applicants": 329,
+        "second_choice_applicants": 162,
+        "third_choice_applicants": 60
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 67,
+        "first_choice_applicants": 4,
+        "second_choice_applicants": 43,
+        "third_choice_applicants": 28
+      }
+    ],
+    "99": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 123,
+        "first_choice_applicants": 440,
+        "second_choice_applicants": 131,
+        "third_choice_applicants": 83
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 147,
+        "first_choice_applicants": 42,
+        "second_choice_applicants": 186,
+        "third_choice_applicants": 31
+      }
+    ],
+    "100": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 138,
+        "first_choice_applicants": 3948,
+        "second_choice_applicants": 976,
+        "third_choice_applicants": 471
+      },
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 2,
+        "total_quota": 84,
+        "first_choice_applicants": 311,
+        "second_choice_applicants": 248,
+        "third_choice_applicants": 52
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 147,
+        "first_choice_applicants": 307,
+        "second_choice_applicants": 288,
+        "third_choice_applicants": 197
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 5,
+        "total_quota": 210,
+        "first_choice_applicants": 389,
+        "second_choice_applicants": 230,
+        "third_choice_applicants": 163
+      }
+    ],
+    "106": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 42,
+        "first_choice_applicants": 171,
+        "second_choice_applicants": 61,
+        "third_choice_applicants": 32
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 126,
+        "first_choice_applicants": 84,
+        "second_choice_applicants": 89,
+        "third_choice_applicants": 42
+      }
+    ],
+    "107": [
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 179,
+        "first_choice_applicants": 33,
+        "second_choice_applicants": 81,
+        "third_choice_applicants": 48
+      }
+    ],
+    "108": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 79,
+        "first_choice_applicants": 273,
+        "second_choice_applicants": 137,
+        "third_choice_applicants": 62
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 63,
+        "first_choice_applicants": 12,
+        "second_choice_applicants": 20,
+        "third_choice_applicants": 10
+      }
+    ],
+    "111": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 59,
+        "first_choice_applicants": 469,
+        "second_choice_applicants": 148,
+        "third_choice_applicants": 75
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 135,
+        "first_choice_applicants": 10,
+        "second_choice_applicants": 68,
+        "third_choice_applicants": 16
+      }
+    ],
+    "113": [
+      {
+        "hunt_description": "SPIKE OR ANTLERLES",
+        "hunt_type": 3,
+        "total_quota": 102,
+        "first_choice_applicants": 365,
+        "second_choice_applicants": 93,
+        "third_choice_applicants": 45
+      }
+    ],
+    "116": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 84,
+        "first_choice_applicants": 56,
+        "second_choice_applicants": 16,
+        "third_choice_applicants": 27
+      }
+    ],
+    "117": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 324,
+        "first_choice_applicants": 638,
+        "second_choice_applicants": 275,
+        "third_choice_applicants": 123
+      },
+      {
+        "hunt_description": "LIMITED QUOTA, SΡΙΚΕ",
+        "hunt_type": 3,
+        "total_quota": 339,
+        "first_choice_applicants": 25,
+        "second_choice_applicants": 267,
+        "third_choice_applicants": 78
+      }
+    ],
+    "118": [
+      {
+        "hunt_description": "ANTLERED ELK",
+        "hunt_type": 1,
+        "total_quota": 56,
+        "first_choice_applicants": 194,
+        "second_choice_applicants": 68,
+        "third_choice_applicants": 77
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 48,
+        "first_choice_applicants": 10,
+        "second_choice_applicants": 51,
+        "third_choice_applicants": 8
+      }
+    ],
+    "120": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 126,
+        "first_choice_applicants": 574,
+        "second_choice_applicants": 114,
+        "third_choice_applicants": 59
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 105,
+        "first_choice_applicants": 42,
+        "second_choice_applicants": 168,
+        "third_choice_applicants": 26
+      }
+    ],
+    "122": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 118,
+        "first_choice_applicants": 73,
+        "second_choice_applicants": 63,
+        "third_choice_applicants": 7
+      },
+      {
+        "hunt_description": "ANTLERED ELK FIVE",
+        "hunt_type": 2,
+        "total_quota": 97,
+        "first_choice_applicants": 6,
+        "second_choice_applicants": 10,
+        "third_choice_applicants": 5
+      }
+    ],
+    "123": [
+      {
+        "hunt_description": "ANTLERED ELK FIVE",
+        "hunt_type": 2,
+        "total_quota": 35,
+        "first_choice_applicants": 122,
+        "second_choice_applicants": 65,
+        "third_choice_applicants": 25
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 63,
+        "first_choice_applicants": 30,
+        "second_choice_applicants": 66,
+        "third_choice_applicants": 19
+      }
+    ],
+    "124": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 35,
+        "first_choice_applicants": 905,
+        "second_choice_applicants": 385,
+        "third_choice_applicants": 198
+      },
+      {
+        "hunt_description": "ANTLERLESS ELK",
+        "hunt_type": 4,
+        "total_quota": 84,
+        "first_choice_applicants": 117,
+        "second_choice_applicants": 80,
+        "third_choice_applicants": 47
+      }
+    ],
+    "125": [
+      {
+        "hunt_description": "ANY ELK",
+        "hunt_type": 1,
+        "total_quota": 167,
+        "first_choice_applicants": 66,
+        "second_choice_applicants": 41,
+        "third_choice_applicants": 31
+      }
+    ],
+    "GEN": [
+      {
+        "hunt_description": "GENERAL",
+        "hunt_type": null,
+        "total_quota": 22265,
+        "first_choice_applicants": 1253,
+        "second_choice_applicants": 2012,
+        "third_choice_applicants": 1492
+      }
+    ]
+  }
+}

@@ -1,0 +1,5016 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "Black Hills",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 90,
+          "BULL": 40,
+          "SPIKE": 7,
+          "COW": 7,
+          "CALF": 0,
+          "TOTAL": 54,
+          "HUNTER_SUCCESS": 0.6,
+          "DAYS_HARVEST": 18.4,
+          "HUNTER_DAYS": 995,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 102
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 73,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 39,
+          "CALF": 0,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 0.534,
+          "DAYS_HARVEST": 10.1,
+          "HUNTER_DAYS": 392,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "Fortification",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 132,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 53,
+          "CALF": 8,
+          "TOTAL": 61,
+          "HUNTER_SUCCESS": 0.462,
+          "DAYS_HARVEST": 10.4,
+          "HUNTER_DAYS": 635,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 904
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 284,
+          "BULL": 112,
+          "SPIKE": 3,
+          "COW": 9,
+          "CALF": 0,
+          "TOTAL": 124,
+          "HUNTER_SUCCESS": 0.437,
+          "DAYS_HARVEST": 11,
+          "HUNTER_DAYS": 1365,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "Rawhide",
+      "data": [
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 172,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 47,
+          "CALF": 9,
+          "TOTAL": 56,
+          "HUNTER_SUCCESS": 0.326,
+          "DAYS_HARVEST": 34.7,
+          "HUNTER_DAYS": 1945,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 223
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 482,
+          "BULL": 175,
+          "SPIKE": 9,
+          "COW": 14,
+          "CALF": 0,
+          "TOTAL": 198,
+          "HUNTER_SUCCESS": 0.411,
+          "DAYS_HARVEST": 25.5,
+          "HUNTER_DAYS": 5043,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 6,
+      "Name": "Iron Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 53,
+          "BULL": 27,
+          "SPIKE": 0,
+          "COW": 5,
+          "CALF": 0,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 0.604,
+          "DAYS_HARVEST": 18.9,
+          "HUNTER_DAYS": 605,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 54
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 22,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.091,
+          "DAYS_HARVEST": 110.5,
+          "HUNTER_DAYS": 221,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 24
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 596,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 267,
+          "CALF": 22,
+          "TOTAL": 289,
+          "HUNTER_SUCCESS": 0.485,
+          "DAYS_HARVEST": 11.8,
+          "HUNTER_DAYS": 3424,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 718
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 664,
+          "BULL": 257,
+          "SPIKE": 9,
+          "COW": 34,
+          "CALF": 0,
+          "TOTAL": 300,
+          "HUNTER_SUCCESS": 0.452,
+          "DAYS_HARVEST": 12.8,
+          "HUNTER_DAYS": 3839,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 7,
+      "Name": "Laramie Peak",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 1455,
+          "BULL": 772,
+          "SPIKE": 52,
+          "COW": 56,
+          "CALF": 21,
+          "TOTAL": 901,
+          "HUNTER_SUCCESS": 0.619,
+          "DAYS_HARVEST": 16.2,
+          "HUNTER_DAYS": 14570,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 1513
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 308,
+          "BULL": 140,
+          "SPIKE": 25,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 165,
+          "HUNTER_SUCCESS": 0.536,
+          "DAYS_HARVEST": 11.5,
+          "HUNTER_DAYS": 1894,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 351
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 643,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 139,
+          "CALF": 15,
+          "TOTAL": 154,
+          "HUNTER_SUCCESS": 0.24,
+          "DAYS_HARVEST": 39,
+          "HUNTER_DAYS": 6002,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 800
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 816,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 293,
+          "CALF": 38,
+          "TOTAL": 331,
+          "HUNTER_SUCCESS": 0.406,
+          "DAYS_HARVEST": 23.5,
+          "HUNTER_DAYS": 7769,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 1000
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 2038,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 914,
+          "CALF": 113,
+          "TOTAL": 1027,
+          "HUNTER_SUCCESS": 0.504,
+          "DAYS_HARVEST": 23.8,
+          "HUNTER_DAYS": 24468,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 2204
+        }
+      ]
+    },
+    {
+      "Area": 8,
+      "Name": "Boulder Ridge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 138,
+          "BULL": 27,
+          "SPIKE": 4,
+          "COW": 9,
+          "CALF": 0,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 0.29,
+          "DAYS_HARVEST": 31.2,
+          "HUNTER_DAYS": 1248,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 152
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 411,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 108,
+          "CALF": 34,
+          "TOTAL": 142,
+          "HUNTER_SUCCESS": 0.345,
+          "DAYS_HARVEST": 18.1,
+          "HUNTER_DAYS": 2577,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 498
+        }
+      ]
+    },
+    {
+      "Area": 9,
+      "Name": "South Snowy Range",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 211,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 24,
+          "CALF": 15,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 0.185,
+          "DAYS_HARVEST": 51.1,
+          "HUNTER_DAYS": 1993,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 250
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 235,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 77,
+          "CALF": 16,
+          "TOTAL": 93,
+          "HUNTER_SUCCESS": 0.396,
+          "DAYS_HARVEST": 18,
+          "HUNTER_DAYS": 1678,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 351
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1124,
+          "BULL": 117,
+          "SPIKE": 17,
+          "COW": 47,
+          "CALF": 11,
+          "TOTAL": 192,
+          "HUNTER_SUCCESS": 0.171,
+          "DAYS_HARVEST": 39.9,
+          "HUNTER_DAYS": 7652,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 10,
+      "Name": "Rock Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 265,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 75,
+          "CALF": 3,
+          "TOTAL": 78,
+          "HUNTER_SUCCESS": 0.294,
+          "DAYS_HARVEST": 29,
+          "HUNTER_DAYS": 2261,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 302
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 102,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 42,
+          "CALF": 0,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 0.412,
+          "DAYS_HARVEST": 13.6,
+          "HUNTER_DAYS": 571,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 351
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 924,
+          "BULL": 149,
+          "SPIKE": 21,
+          "COW": 26,
+          "CALF": 8,
+          "TOTAL": 204,
+          "HUNTER_SUCCESS": 0.221,
+          "DAYS_HARVEST": 31.7,
+          "HUNTER_DAYS": 6459,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 11,
+      "Name": "Medicine Bow River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 172,
+          "BULL": 118,
+          "SPIKE": 0,
+          "COW": 8,
+          "CALF": 0,
+          "TOTAL": 126,
+          "HUNTER_SUCCESS": 0.733,
+          "DAYS_HARVEST": 11.6,
+          "HUNTER_DAYS": 1466,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 203
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 89,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 24,
+          "CALF": 3,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 0.303,
+          "DAYS_HARVEST": 33.1,
+          "HUNTER_DAYS": 893,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 102
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 77,
+          "BULL": 20,
+          "SPIKE": 1,
+          "COW": 0,
+          "CALF": 2,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 0.299,
+          "DAYS_HARVEST": 36.1,
+          "HUNTER_DAYS": 831,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 377,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 188,
+          "CALF": 13,
+          "TOTAL": 201,
+          "HUNTER_SUCCESS": 0.533,
+          "DAYS_HARVEST": 12.8,
+          "HUNTER_DAYS": 2575,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 450
+        }
+      ]
+    },
+    {
+      "Area": 12,
+      "Name": "Kennaday Peak",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 271,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 127,
+          "CALF": 27,
+          "TOTAL": 154,
+          "HUNTER_SUCCESS": 0.568,
+          "DAYS_HARVEST": 16,
+          "HUNTER_DAYS": 2457,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 298
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 244,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 162,
+          "CALF": 8,
+          "TOTAL": 170,
+          "HUNTER_SUCCESS": 0.697,
+          "DAYS_HARVEST": 8.3,
+          "HUNTER_DAYS": 1413,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 350
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1059,
+          "BULL": 240,
+          "SPIKE": 53,
+          "COW": 82,
+          "CALF": 14,
+          "TOTAL": 389,
+          "HUNTER_SUCCESS": 0.367,
+          "DAYS_HARVEST": 20.3,
+          "HUNTER_DAYS": 7910,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 13,
+      "Name": "Encampment River",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 135,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 45,
+          "CALF": 8,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 0.393,
+          "DAYS_HARVEST": 20.6,
+          "HUNTER_DAYS": 1091,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 7,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 7,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 350
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 968,
+          "BULL": 157,
+          "SPIKE": 32,
+          "COW": 51,
+          "CALF": 12,
+          "TOTAL": 252,
+          "HUNTER_SUCCESS": 0.26,
+          "DAYS_HARVEST": 24.9,
+          "HUNTER_DAYS": 6265,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 15,
+      "Name": "Spring Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 176,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 71,
+          "CALF": 10,
+          "TOTAL": 81,
+          "HUNTER_SUCCESS": 0.46,
+          "DAYS_HARVEST": 15.9,
+          "HUNTER_DAYS": 1289,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 200
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 30,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 21,
+          "CALF": 0,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 0.7,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 72,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 350
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 976,
+          "BULL": 150,
+          "SPIKE": 43,
+          "COW": 79,
+          "CALF": 38,
+          "TOTAL": 310,
+          "HUNTER_SUCCESS": 0.318,
+          "DAYS_HARVEST": 20.8,
+          "HUNTER_DAYS": 6452,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 16,
+      "Name": "Shirley Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 250,
+          "BULL": 178,
+          "SPIKE": 0,
+          "COW": 4,
+          "CALF": 0,
+          "TOTAL": 182,
+          "HUNTER_SUCCESS": 0.728,
+          "DAYS_HARVEST": 12.2,
+          "HUNTER_DAYS": 2219,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 259
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 108,
+          "BULL": 84,
+          "SPIKE": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 89,
+          "HUNTER_SUCCESS": 0.824,
+          "DAYS_HARVEST": 11.6,
+          "HUNTER_DAYS": 1035,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 110
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 276,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 121,
+          "CALF": 16,
+          "TOTAL": 137,
+          "HUNTER_SUCCESS": 0.496,
+          "DAYS_HARVEST": 14.5,
+          "HUNTER_DAYS": 1989,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 300
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 249,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 80,
+          "CALF": 13,
+          "TOTAL": 93,
+          "HUNTER_SUCCESS": 0.373,
+          "DAYS_HARVEST": 15,
+          "HUNTER_DAYS": 1394,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 302
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 141,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 56,
+          "CALF": 5,
+          "TOTAL": 61,
+          "HUNTER_SUCCESS": 0.433,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 686,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 200
+        }
+      ]
+    },
+    {
+      "Area": 19,
+      "Name": "Muddy Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 148,
+          "BULL": 85,
+          "SPIKE": 12,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 97,
+          "HUNTER_SUCCESS": 0.655,
+          "DAYS_HARVEST": 11.4,
+          "HUNTER_DAYS": 1110,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 152
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 174,
+          "BULL": 106,
+          "SPIKE": 0,
+          "COW": 4,
+          "CALF": 0,
+          "TOTAL": 110,
+          "HUNTER_SUCCESS": 0.632,
+          "DAYS_HARVEST": 14.1,
+          "HUNTER_DAYS": 1554,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 178
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 97,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 33,
+          "CALF": 0,
+          "TOTAL": 33,
+          "HUNTER_SUCCESS": 0.34,
+          "DAYS_HARVEST": 18.5,
+          "HUNTER_DAYS": 612,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 125
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 90,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 28,
+          "CALF": 6,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 0.378,
+          "DAYS_HARVEST": 18.7,
+          "HUNTER_DAYS": 636,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 127
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 186,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 62,
+          "CALF": 12,
+          "TOTAL": 74,
+          "HUNTER_SUCCESS": 0.398,
+          "DAYS_HARVEST": 16.5,
+          "HUNTER_DAYS": 1222,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 225
+        }
+      ]
+    },
+    {
+      "Area": 21,
+      "Name": "Baggs",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 171,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 70,
+          "CALF": 11,
+          "TOTAL": 81,
+          "HUNTER_SUCCESS": 0.474,
+          "DAYS_HARVEST": 15.4,
+          "HUNTER_DAYS": 1245,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 201
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 17,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 11,
+          "CALF": 1,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.706,
+          "DAYS_HARVEST": 7.2,
+          "HUNTER_DAYS": 87,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 3270,
+          "BULL": 506,
+          "SPIKE": 253,
+          "COW": 299,
+          "CALF": 72,
+          "TOTAL": 1130,
+          "HUNTER_SUCCESS": 0.346,
+          "DAYS_HARVEST": 19.4,
+          "HUNTER_DAYS": 21974,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 22,
+      "Name": "Ferris",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 98,
+          "BULL": 63,
+          "SPIKE": 0,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 0.663,
+          "DAYS_HARVEST": 16.2,
+          "HUNTER_DAYS": 1055,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 164
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 86,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 48,
+          "CALF": 0,
+          "TOTAL": 48,
+          "HUNTER_SUCCESS": 0.558,
+          "DAYS_HARVEST": 8.1,
+          "HUNTER_DAYS": 388,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        }
+      ]
+    },
+    {
+      "Area": 23,
+      "Name": "Rattlesnake",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 172,
+          "BULL": 100,
+          "SPIKE": 8,
+          "COW": 3,
+          "CALF": 6,
+          "TOTAL": 117,
+          "HUNTER_SUCCESS": 0.68,
+          "DAYS_HARVEST": 15.9,
+          "HUNTER_DAYS": 1863,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 177
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 173,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 55,
+          "CALF": 3,
+          "TOTAL": 58,
+          "HUNTER_SUCCESS": 0.335,
+          "DAYS_HARVEST": 23.4,
+          "HUNTER_DAYS": 1358,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 201
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 181,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 88,
+          "CALF": 28,
+          "TOTAL": 116,
+          "HUNTER_SUCCESS": 0.641,
+          "DAYS_HARVEST": 12.4,
+          "HUNTER_DAYS": 1441,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 200
+        }
+      ]
+    },
+    {
+      "Area": 24,
+      "Name": "Green Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 199,
+          "BULL": 124,
+          "SPIKE": 0,
+          "COW": 13,
+          "CALF": 0,
+          "TOTAL": 137,
+          "HUNTER_SUCCESS": 0.688,
+          "DAYS_HARVEST": 11.3,
+          "HUNTER_DAYS": 1548,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 202
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 71,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 22,
+          "CALF": 8,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 0.423,
+          "DAYS_HARVEST": 14.2,
+          "HUNTER_DAYS": 425,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 153,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 75,
+          "CALF": 9,
+          "TOTAL": 84,
+          "HUNTER_SUCCESS": 0.549,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 943,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 174
+        }
+      ]
+    },
+    {
+      "Area": 25,
+      "Name": "South Pass",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 188,
+          "BULL": 102,
+          "SPIKE": 14,
+          "COW": 9,
+          "CALF": 3,
+          "TOTAL": 128,
+          "HUNTER_SUCCESS": 0.681,
+          "DAYS_HARVEST": 11.9,
+          "HUNTER_DAYS": 1518,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 207
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 93,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 44,
+          "CALF": 9,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 0.57,
+          "DAYS_HARVEST": 9.9,
+          "HUNTER_DAYS": 527,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 60,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 23,
+          "CALF": 5,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 0.467,
+          "DAYS_HARVEST": 12.5,
+          "HUNTER_DAYS": 350,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 78
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 85,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 33,
+          "CALF": 3,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 0.424,
+          "DAYS_HARVEST": 11.3,
+          "HUNTER_DAYS": 408,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        }
+      ]
+    },
+    {
+      "Area": 27,
+      "Name": "Upper Sweetwater",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 96,
+          "BULL": 16,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 0.167,
+          "DAYS_HARVEST": 53,
+          "HUNTER_DAYS": 848,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 207
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 72,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 31,
+          "CALF": 4,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.486,
+          "DAYS_HARVEST": 15.7,
+          "HUNTER_DAYS": 550,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        }
+      ]
+    },
+    {
+      "Area": 28,
+      "Name": "Cony Mountain",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 162,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 57,
+          "CALF": 6,
+          "TOTAL": 63,
+          "HUNTER_SUCCESS": 0.389,
+          "DAYS_HARVEST": 13.8,
+          "HUNTER_DAYS": 870,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 175
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1184,
+          "BULL": 210,
+          "SPIKE": 30,
+          "COW": 126,
+          "CALF": 22,
+          "TOTAL": 388,
+          "HUNTER_SUCCESS": 0.328,
+          "DAYS_HARVEST": 21,
+          "HUNTER_DAYS": 8155,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 30,
+      "Name": "Aspen Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 50,
+          "BULL": 38,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 0.76,
+          "DAYS_HARVEST": 14.2,
+          "HUNTER_DAYS": 540,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 90,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 60,
+          "CALF": 8,
+          "TOTAL": 68,
+          "HUNTER_SUCCESS": 0.756,
+          "DAYS_HARVEST": 8.3,
+          "HUNTER_DAYS": 565,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        }
+      ]
+    },
+    {
+      "Area": 31,
+      "Name": "Little Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 52,
+          "BULL": 32,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 0.615,
+          "DAYS_HARVEST": 22.1,
+          "HUNTER_DAYS": 706,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 52
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 177,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 88,
+          "CALF": 5,
+          "TOTAL": 93,
+          "HUNTER_SUCCESS": 0.525,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 1037,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 177
+        }
+      ]
+    },
+    {
+      "Area": 32,
+      "Name": "Pine Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 42,
+          "BULL": 28,
+          "SPIKE": 1,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 31,
+          "HUNTER_SUCCESS": 0.738,
+          "DAYS_HARVEST": 12.7,
+          "HUNTER_DAYS": 393,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 42
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 146,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 82,
+          "CALF": 4,
+          "TOTAL": 86,
+          "HUNTER_SUCCESS": 0.589,
+          "DAYS_HARVEST": 10.8,
+          "HUNTER_DAYS": 926,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 152
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 15,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.133,
+          "DAYS_HARVEST": 53.5,
+          "HUNTER_DAYS": 107,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 33,
+      "Name": "Middle Fork",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 187,
+          "BULL": 45,
+          "SPIKE": 0,
+          "COW": 3,
+          "CALF": 0,
+          "TOTAL": 48,
+          "HUNTER_SUCCESS": 0.257,
+          "DAYS_HARVEST": 36.4,
+          "HUNTER_DAYS": 1746,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 202
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 103,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 23,
+          "CALF": 5,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 0.272,
+          "DAYS_HARVEST": 24.6,
+          "HUNTER_DAYS": 689,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 113
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 201,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 41,
+          "CALF": 2,
+          "TOTAL": 43,
+          "HUNTER_SUCCESS": 0.214,
+          "DAYS_HARVEST": 29.6,
+          "HUNTER_DAYS": 1273,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 251
+        }
+      ]
+    },
+    {
+      "Area": 34,
+      "Name": "Upper Powder River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 725,
+          "BULL": 193,
+          "SPIKE": 28,
+          "COW": 16,
+          "CALF": 0,
+          "TOTAL": 237,
+          "HUNTER_SUCCESS": 0.327,
+          "DAYS_HARVEST": 39.6,
+          "HUNTER_DAYS": 9374,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 800
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 605,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 188,
+          "CALF": 23,
+          "TOTAL": 211,
+          "HUNTER_SUCCESS": 0.349,
+          "DAYS_HARVEST": 23.8,
+          "HUNTER_DAYS": 5016,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 682
+        }
+      ]
+    },
+    {
+      "Area": 35,
+      "Name": "Hunter Mesa",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 146,
+          "BULL": 60,
+          "SPIKE": 4,
+          "COW": 8,
+          "CALF": 4,
+          "TOTAL": 76,
+          "HUNTER_SUCCESS": 0.521,
+          "DAYS_HARVEST": 20.3,
+          "HUNTER_DAYS": 1540,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 156
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 143,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 5,
+          "CALF": 8,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 0.091,
+          "DAYS_HARVEST": 83,
+          "HUNTER_DAYS": 1079,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 175
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 77,
+          "BULL": 12,
+          "SPIKE": 3,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 0.208,
+          "DAYS_HARVEST": 59.1,
+          "HUNTER_DAYS": 946,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 80
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 273,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 86,
+          "CALF": 9,
+          "TOTAL": 95,
+          "HUNTER_SUCCESS": 0.348,
+          "DAYS_HARVEST": 22.3,
+          "HUNTER_DAYS": 2121,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 322
+        }
+      ]
+    },
+    {
+      "Area": 36,
+      "Name": "Rock Creek",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 213,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 23,
+          "CALF": 7,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 0.141,
+          "DAYS_HARVEST": 47.7,
+          "HUNTER_DAYS": 1430,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 296
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 60,
+          "BULL": 6,
+          "SPIKE": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 7,
+          "HUNTER_SUCCESS": 0.117,
+          "DAYS_HARVEST": 82.1,
+          "HUNTER_DAYS": 575,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 172,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 24,
+          "CALF": 0,
+          "TOTAL": 24,
+          "HUNTER_SUCCESS": 0.14,
+          "DAYS_HARVEST": 39.7,
+          "HUNTER_DAYS": 952,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 247
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 513,
+          "BULL": 85,
+          "SPIKE": 7,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 92,
+          "HUNTER_SUCCESS": 0.179,
+          "DAYS_HARVEST": 31.8,
+          "HUNTER_DAYS": 2924,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 37,
+      "Name": "Goose",
+      "data": [
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 143,
+          "BULL": 16,
+          "SPIKE": 3,
+          "COW": 8,
+          "CALF": 0,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 0.189,
+          "DAYS_HARVEST": 54,
+          "HUNTER_DAYS": 1459,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 154
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 305,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 103,
+          "CALF": 7,
+          "TOTAL": 110,
+          "HUNTER_SUCCESS": 0.361,
+          "DAYS_HARVEST": 16.2,
+          "HUNTER_DAYS": 1780,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 486
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 741,
+          "BULL": 58,
+          "SPIKE": 0,
+          "COW": 22,
+          "CALF": 0,
+          "TOTAL": 80,
+          "HUNTER_SUCCESS": 0.108,
+          "DAYS_HARVEST": 53.9,
+          "HUNTER_DAYS": 4312,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 38,
+      "Name": "Tongue",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 56,
+          "BULL": 49,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 7,
+          "TOTAL": 56,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 2,
+          "HUNTER_DAYS": 110,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 83
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 263,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 143,
+          "CALF": 8,
+          "TOTAL": 151,
+          "HUNTER_SUCCESS": 0.574,
+          "DAYS_HARVEST": 6.1,
+          "HUNTER_DAYS": 916,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 323
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 241,
+          "BULL": 78,
+          "SPIKE": 7,
+          "COW": 7,
+          "CALF": 0,
+          "TOTAL": 92,
+          "HUNTER_SUCCESS": 0.382,
+          "DAYS_HARVEST": 27.5,
+          "HUNTER_DAYS": 2532,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 252
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 45,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 25,
+          "CALF": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 0.556,
+          "DAYS_HARVEST": 9.8,
+          "HUNTER_DAYS": 245,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 68
+        }
+      ]
+    },
+    {
+      "Area": 39,
+      "Name": "Deer Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 146,
+          "BULL": 57,
+          "SPIKE": 12,
+          "COW": 19,
+          "CALF": 8,
+          "TOTAL": 96,
+          "HUNTER_SUCCESS": 0.658,
+          "DAYS_HARVEST": 10.2,
+          "HUNTER_DAYS": 982,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 162
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 130,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 54,
+          "CALF": 12,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 0.508,
+          "DAYS_HARVEST": 9.8,
+          "HUNTER_DAYS": 648,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 142
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 100,
+          "BULL": 21,
+          "SPIKE": 4,
+          "COW": 8,
+          "CALF": 3,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 0.36,
+          "DAYS_HARVEST": 31.2,
+          "HUNTER_DAYS": 1125,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 64,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 28,
+          "CALF": 11,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 0.609,
+          "DAYS_HARVEST": 9,
+          "HUNTER_DAYS": 352,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        }
+      ]
+    },
+    {
+      "Area": 40,
+      "Name": "Horse Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 201,
+          "BULL": 77,
+          "SPIKE": 9,
+          "COW": 3,
+          "CALF": 1,
+          "TOTAL": 90,
+          "HUNTER_SUCCESS": 0.448,
+          "DAYS_HARVEST": 16.5,
+          "HUNTER_DAYS": 1484,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 207
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 104,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 30,
+          "CALF": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 0.288,
+          "DAYS_HARVEST": 22.1,
+          "HUNTER_DAYS": 664,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 117
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 93,
+          "BULL": 8,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 0.086,
+          "DAYS_HARVEST": 129.2,
+          "HUNTER_DAYS": 1034,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 95,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 23,
+          "CALF": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 0.242,
+          "DAYS_HARVEST": 36.7,
+          "HUNTER_DAYS": 843,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 125
+        }
+      ]
+    },
+    {
+      "Area": 41,
+      "Name": "Medicine Lodge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 268,
+          "BULL": 75,
+          "SPIKE": 8,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 0.31,
+          "DAYS_HARVEST": 19,
+          "HUNTER_DAYS": 1580,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 276
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 89,
+          "BULL": 27,
+          "SPIKE": 5,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 0.382,
+          "DAYS_HARVEST": 16.1,
+          "HUNTER_DAYS": 548,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 99
+        },
+        {
+          "TYPE": "Full 3",
+          "ACTIVE_LICS_HTRS": 29,
+          "BULL": 21,
+          "SPIKE": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.759,
+          "DAYS_HARVEST": 6.7,
+          "HUNTER_DAYS": 147,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 36
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 263,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 31,
+          "CALF": 12,
+          "TOTAL": 43,
+          "HUNTER_SUCCESS": 0.163,
+          "DAYS_HARVEST": 57.7,
+          "HUNTER_DAYS": 2480,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 349
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 119,
+          "BULL": 40,
+          "SPIKE": 0,
+          "COW": 3,
+          "CALF": 0,
+          "TOTAL": 43,
+          "HUNTER_SUCCESS": 0.361,
+          "DAYS_HARVEST": 24.4,
+          "HUNTER_DAYS": 1049,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 125
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 304,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 153,
+          "CALF": 17,
+          "TOTAL": 170,
+          "HUNTER_SUCCESS": 0.559,
+          "DAYS_HARVEST": 7.4,
+          "HUNTER_DAYS": 1263,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 349
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 107,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 43,
+          "CALF": 4,
+          "TOTAL": 47,
+          "HUNTER_SUCCESS": 0.439,
+          "DAYS_HARVEST": 10.7,
+          "HUNTER_DAYS": 505,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        }
+      ]
+    },
+    {
+      "Area": 45,
+      "Name": "Paint Rock Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 336,
+          "BULL": 88,
+          "SPIKE": 7,
+          "COW": 12,
+          "CALF": 4,
+          "TOTAL": 111,
+          "HUNTER_SUCCESS": 0.33,
+          "DAYS_HARVEST": 25.2,
+          "HUNTER_DAYS": 2794,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 351
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 229,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 40,
+          "CALF": 8,
+          "TOTAL": 48,
+          "HUNTER_SUCCESS": 0.21,
+          "DAYS_HARVEST": 48.5,
+          "HUNTER_DAYS": 2328,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 254
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 182,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 74,
+          "CALF": 2,
+          "TOTAL": 76,
+          "HUNTER_SUCCESS": 0.418,
+          "DAYS_HARVEST": 13.3,
+          "HUNTER_DAYS": 1009,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 201
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 167,
+          "BULL": 43,
+          "SPIKE": 6,
+          "COW": 3,
+          "CALF": 0,
+          "TOTAL": 52,
+          "HUNTER_SUCCESS": 0.311,
+          "DAYS_HARVEST": 33.2,
+          "HUNTER_DAYS": 1726,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 178
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 122,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 28,
+          "CALF": 0,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 0.23,
+          "DAYS_HARVEST": 52.4,
+          "HUNTER_DAYS": 1467,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 89,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 42,
+          "CALF": 5,
+          "TOTAL": 47,
+          "HUNTER_SUCCESS": 0.528,
+          "DAYS_HARVEST": 8.9,
+          "HUNTER_DAYS": 420,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        }
+      ]
+    },
+    {
+      "Area": 47,
+      "Name": "Copper Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 132,
+          "BULL": 32,
+          "SPIKE": 3,
+          "COW": 7,
+          "CALF": 0,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 0.318,
+          "DAYS_HARVEST": 22.7,
+          "HUNTER_DAYS": 954,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 151
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 49,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 8,
+          "CALF": 4,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.245,
+          "DAYS_HARVEST": 25,
+          "HUNTER_DAYS": 300,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        }
+      ]
+    },
+    {
+      "Area": 48,
+      "Name": "Upper Nowood",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 367,
+          "BULL": 198,
+          "SPIKE": 15,
+          "COW": 16,
+          "CALF": 4,
+          "TOTAL": 233,
+          "HUNTER_SUCCESS": 0.635,
+          "DAYS_HARVEST": 9.8,
+          "HUNTER_DAYS": 2293,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 402
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 75,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 36,
+          "CALF": 3,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 0.52,
+          "DAYS_HARVEST": 11,
+          "HUNTER_DAYS": 428,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 110
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 504,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 196,
+          "CALF": 43,
+          "TOTAL": 239,
+          "HUNTER_SUCCESS": 0.474,
+          "DAYS_HARVEST": 12,
+          "HUNTER_DAYS": 2865,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 580
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 220,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 80,
+          "CALF": 14,
+          "TOTAL": 94,
+          "HUNTER_SUCCESS": 0.427,
+          "DAYS_HARVEST": 9.4,
+          "HUNTER_DAYS": 887,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 265
+        }
+      ]
+    },
+    {
+      "Area": 49,
+      "Name": "Otter Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 332,
+          "BULL": 188,
+          "SPIKE": 9,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 197,
+          "HUNTER_SUCCESS": 0.593,
+          "DAYS_HARVEST": 15,
+          "HUNTER_DAYS": 2954,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 353
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 82,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 10,
+          "CALF": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 0.122,
+          "DAYS_HARVEST": 59.9,
+          "HUNTER_DAYS": 599,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 303,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 57,
+          "CALF": 0,
+          "TOTAL": 57,
+          "HUNTER_SUCCESS": 0.188,
+          "DAYS_HARVEST": 36.1,
+          "HUNTER_DAYS": 2055,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 328
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 323,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 84,
+          "CALF": 25,
+          "TOTAL": 109,
+          "HUNTER_SUCCESS": 0.337,
+          "DAYS_HARVEST": 19,
+          "HUNTER_DAYS": 2070,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 407
+        }
+      ]
+    },
+    {
+      "Area": 51,
+      "Name": "Sunlight-Crandall",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 102,
+          "BULL": 29,
+          "SPIKE": 0,
+          "COW": 8,
+          "CALF": 0,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 0.363,
+          "DAYS_HARVEST": 19.3,
+          "HUNTER_DAYS": 713,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 122
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 35,
+          "BULL": 20,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.571,
+          "DAYS_HARVEST": 17.2,
+          "HUNTER_DAYS": 345,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 40
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 50,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 16,
+          "CALF": 0,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 0.32,
+          "DAYS_HARVEST": 21.5,
+          "HUNTER_DAYS": 344,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 54
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 77,
+          "BULL": 10,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 0.13,
+          "DAYS_HARVEST": 81.9,
+          "HUNTER_DAYS": 819,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 80
+        }
+      ]
+    },
+    {
+      "Area": 54,
+      "Name": "Bald Ridge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 63,
+          "BULL": 37,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 0.587,
+          "DAYS_HARVEST": 12,
+          "HUNTER_DAYS": 445,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 68
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 25,
+          "BULL": 14,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 0.56,
+          "DAYS_HARVEST": 9.4,
+          "HUNTER_DAYS": 132,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "Full 3",
+          "ACTIVE_LICS_HTRS": 10,
+          "BULL": 6,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 0.6,
+          "DAYS_HARVEST": 8.3,
+          "HUNTER_DAYS": 50,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 10
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 41,
+          "BULL": 21,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 0.512,
+          "DAYS_HARVEST": 18.6,
+          "HUNTER_DAYS": 391,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 41
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 90,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 33,
+          "CALF": 2,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.389,
+          "DAYS_HARVEST": 14.1,
+          "HUNTER_DAYS": 493,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 54,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 31,
+          "CALF": 4,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.648,
+          "DAYS_HARVEST": 6.7,
+          "HUNTER_DAYS": 234,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        }
+      ]
+    },
+    {
+      "Area": 55,
+      "Name": "Grinnell",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 66,
+          "BULL": 22,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.333,
+          "DAYS_HARVEST": 28.2,
+          "HUNTER_DAYS": 620,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 80
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 24,
+          "BULL": 9,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 9,
+          "HUNTER_SUCCESS": 0.375,
+          "DAYS_HARVEST": 25.2,
+          "HUNTER_DAYS": 227,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 26
+        }
+      ]
+    },
+    {
+      "Area": 56,
+      "Name": "Wapiti Ridge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 18,
+          "BULL": 5,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": 0.278,
+          "DAYS_HARVEST": 29.6,
+          "HUNTER_DAYS": 148,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 18
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 23,
+          "BULL": 3,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.13,
+          "DAYS_HARVEST": 63.7,
+          "HUNTER_DAYS": 191,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 29
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 139,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 45,
+          "CALF": 5,
+          "TOTAL": 50,
+          "HUNTER_SUCCESS": 0.36,
+          "DAYS_HARVEST": 19.3,
+          "HUNTER_DAYS": 965,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 134,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 40,
+          "CALF": 6,
+          "TOTAL": 46,
+          "HUNTER_SUCCESS": 0.343,
+          "DAYS_HARVEST": 26.2,
+          "HUNTER_DAYS": 1207,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 149
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 326,
+          "BULL": 63,
+          "SPIKE": 7,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 70,
+          "HUNTER_SUCCESS": 0.215,
+          "DAYS_HARVEST": 31.6,
+          "HUNTER_DAYS": 2215,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 58,
+      "Name": "Sage Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 33,
+          "BULL": 20,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.606,
+          "DAYS_HARVEST": 19.6,
+          "HUNTER_DAYS": 391,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 38
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 170,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 76,
+          "CALF": 7,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 0.488,
+          "DAYS_HARVEST": 10.5,
+          "HUNTER_DAYS": 873,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 200
+        }
+      ]
+    },
+    {
+      "Area": 59,
+      "Name": "Boulder Basin",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 15,
+          "BULL": 10,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 0.667,
+          "DAYS_HARVEST": 11.4,
+          "HUNTER_DAYS": 114,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 15
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 25,
+          "BULL": 5,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": 0.2,
+          "DAYS_HARVEST": 33.6,
+          "HUNTER_DAYS": 168,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 27
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 128,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 44,
+          "CALF": 2,
+          "TOTAL": 46,
+          "HUNTER_SUCCESS": 0.359,
+          "DAYS_HARVEST": 22.1,
+          "HUNTER_DAYS": 1018,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 177
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 43,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 15,
+          "CALF": 2,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 0.395,
+          "DAYS_HARVEST": 10.6,
+          "HUNTER_DAYS": 181,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 52
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 439,
+          "BULL": 129,
+          "SPIKE": 7,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 136,
+          "HUNTER_SUCCESS": 0.31,
+          "DAYS_HARVEST": 17.1,
+          "HUNTER_DAYS": 2328,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 60,
+      "Name": "Thorofare",
+      "data": [
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 12,
+          "BULL": 6,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 12.8,
+          "HUNTER_DAYS": 77,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 20
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 219,
+          "BULL": 136,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 136,
+          "HUNTER_SUCCESS": 0.621,
+          "DAYS_HARVEST": 10.6,
+          "HUNTER_DAYS": 1448,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 61,
+      "Name": "North Greybull River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 131,
+          "BULL": 91,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 91,
+          "HUNTER_SUCCESS": 0.695,
+          "DAYS_HARVEST": 8.8,
+          "HUNTER_DAYS": 801,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 151
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 47,
+          "BULL": 22,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.468,
+          "DAYS_HARVEST": 9.1,
+          "HUNTER_DAYS": 200,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 49
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 161,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 59,
+          "CALF": 0,
+          "TOTAL": 59,
+          "HUNTER_SUCCESS": 0.366,
+          "DAYS_HARVEST": 16,
+          "HUNTER_DAYS": 942,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 198
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 23,
+          "BULL": 7,
+          "SPIKE": 0,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 9,
+          "HUNTER_SUCCESS": 0.391,
+          "DAYS_HARVEST": 15.7,
+          "HUNTER_DAYS": 141,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 298,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 80,
+          "CALF": 0,
+          "TOTAL": 80,
+          "HUNTER_SUCCESS": 0.268,
+          "DAYS_HARVEST": 19.1,
+          "HUNTER_DAYS": 1529,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 401
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 366,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 69,
+          "CALF": 11,
+          "TOTAL": 80,
+          "HUNTER_SUCCESS": 0.219,
+          "DAYS_HARVEST": 18.2,
+          "HUNTER_DAYS": 1460,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 497
+        }
+      ]
+    },
+    {
+      "Area": 62,
+      "Name": "South Greybull River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 116,
+          "BULL": 53,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 0.457,
+          "DAYS_HARVEST": 18.6,
+          "HUNTER_DAYS": 986,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 274
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 72,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 11,
+          "CALF": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.153,
+          "DAYS_HARVEST": 41.1,
+          "HUNTER_DAYS": 452,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 78
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 166,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 71,
+          "CALF": 12,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 16.9,
+          "HUNTER_DAYS": 1400,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 176
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 0,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 63,
+      "Name": "Wood River-Gooseberry Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 184,
+          "BULL": 112,
+          "SPIKE": 6,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 118,
+          "HUNTER_SUCCESS": 0.641,
+          "DAYS_HARVEST": 9.7,
+          "HUNTER_DAYS": 1142,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 203
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 30,
+          "BULL": 18,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 0.6,
+          "DAYS_HARVEST": 11.9,
+          "HUNTER_DAYS": 214,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 33
+        },
+        {
+          "TYPE": "Full 3",
+          "ACTIVE_LICS_HTRS": 69,
+          "BULL": 44,
+          "SPIKE": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 46,
+          "HUNTER_SUCCESS": 0.667,
+          "DAYS_HARVEST": 10.4,
+          "HUNTER_DAYS": 478,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 82,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 27,
+          "CALF": 2,
+          "TOTAL": 29,
+          "HUNTER_SUCCESS": 0.354,
+          "DAYS_HARVEST": 18.6,
+          "HUNTER_DAYS": 539,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 104
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 36,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 385,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 176
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 160,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 50,
+          "CALF": 3,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 0.331,
+          "DAYS_HARVEST": 18.5,
+          "HUNTER_DAYS": 981,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 202
+        }
+      ]
+    },
+    {
+      "Area": 64,
+      "Name": "Owl Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 50,
+          "BULL": 9,
+          "SPIKE": 0,
+          "COW": 3,
+          "CALF": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.24,
+          "DAYS_HARVEST": 20.4,
+          "HUNTER_DAYS": 245,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 203
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 2,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 3,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 33
+        },
+        {
+          "TYPE": "Full 3",
+          "ACTIVE_LICS_HTRS": 26,
+          "BULL": 5,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": 0.192,
+          "DAYS_HARVEST": 24,
+          "HUNTER_DAYS": 120,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 225,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 105,
+          "CALF": 15,
+          "TOTAL": 120,
+          "HUNTER_SUCCESS": 0.533,
+          "DAYS_HARVEST": 11.7,
+          "HUNTER_DAYS": 1399,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 250
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 255,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 98,
+          "CALF": 20,
+          "TOTAL": 118,
+          "HUNTER_SUCCESS": 0.463,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 1319,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 304
+        }
+      ]
+    },
+    {
+      "Area": 65,
+      "Name": "Heart Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 33,
+          "BULL": 18,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 0.545,
+          "DAYS_HARVEST": 11.3,
+          "HUNTER_DAYS": 203,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 97
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 77,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 17,
+          "CALF": 0,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 0.221,
+          "DAYS_HARVEST": 33.9,
+          "HUNTER_DAYS": 576,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 98
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 8,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 76,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 41
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 125,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 25,
+          "CALF": 5,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 0.24,
+          "DAYS_HARVEST": 24.1,
+          "HUNTER_DAYS": 724,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 134
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 182,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 68,
+          "CALF": 7,
+          "TOTAL": 75,
+          "HUNTER_SUCCESS": 0.412,
+          "DAYS_HARVEST": 14.5,
+          "HUNTER_DAYS": 1087,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 249
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 85,
+          "BULL": 3,
+          "SPIKE": 0,
+          "COW": 8,
+          "CALF": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.129,
+          "DAYS_HARVEST": 42.2,
+          "HUNTER_DAYS": 464,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 66,
+      "Name": "Basin",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 124,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 34,
+          "CALF": 3,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 0.298,
+          "DAYS_HARVEST": 18.9,
+          "HUNTER_DAYS": 699,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 185,
+          "BULL": 38,
+          "SPIKE": 10,
+          "COW": 3,
+          "CALF": 4,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 0.297,
+          "DAYS_HARVEST": 23.4,
+          "HUNTER_DAYS": 1288,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 67,
+      "Name": "Wiggins Fork",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 355,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 114,
+          "CALF": 12,
+          "TOTAL": 126,
+          "HUNTER_SUCCESS": 0.355,
+          "DAYS_HARVEST": 33.7,
+          "HUNTER_DAYS": 4242,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 401
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 127,
+          "BULL": 31,
+          "SPIKE": 1,
+          "COW": 3,
+          "CALF": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.276,
+          "DAYS_HARVEST": 28.9,
+          "HUNTER_DAYS": 1012,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 375,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 71,
+          "CALF": 7,
+          "TOTAL": 78,
+          "HUNTER_SUCCESS": 0.208,
+          "DAYS_HARVEST": 40.5,
+          "HUNTER_DAYS": 3159,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 449
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 385,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 93,
+          "CALF": 18,
+          "TOTAL": 111,
+          "HUNTER_SUCCESS": 0.288,
+          "DAYS_HARVEST": 27.7,
+          "HUNTER_DAYS": 3080,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 448
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1255,
+          "BULL": 261,
+          "SPIKE": 3,
+          "COW": 13,
+          "CALF": 0,
+          "TOTAL": 277,
+          "HUNTER_SUCCESS": 0.221,
+          "DAYS_HARVEST": 35.1,
+          "HUNTER_DAYS": 9719,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 68,
+      "Name": "Warm Springs",
+      "data": [
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 27,
+          "BULL": 1,
+          "SPIKE": 1,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.111,
+          "DAYS_HARVEST": 103.7,
+          "HUNTER_DAYS": 311,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 78,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 30,
+          "CALF": 2,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 0.41,
+          "DAYS_HARVEST": 16.3,
+          "HUNTER_DAYS": 523,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 98
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 398,
+          "BULL": 78,
+          "SPIKE": 4,
+          "COW": 8,
+          "CALF": 0,
+          "TOTAL": 90,
+          "HUNTER_SUCCESS": 0.226,
+          "DAYS_HARVEST": 29.6,
+          "HUNTER_DAYS": 2661,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 69,
+      "Name": "Whiskey Mountain",
+      "data": [
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 4,
+          "BULL": 3,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.75,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 13,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 34,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 12,
+          "CALF": 5,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 13.2,
+          "HUNTER_DAYS": 225,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 189,
+          "BULL": 57,
+          "SPIKE": 0,
+          "COW": 8,
+          "CALF": 3,
+          "TOTAL": 68,
+          "HUNTER_SUCCESS": 0.36,
+          "DAYS_HARVEST": 12.1,
+          "HUNTER_DAYS": 820,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 70,
+      "Name": "Buffalo Fork",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 0,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 519,
+          "BULL": 205,
+          "SPIKE": 0,
+          "COW": 9,
+          "CALF": 0,
+          "TOTAL": 214,
+          "HUNTER_SUCCESS": 0.412,
+          "DAYS_HARVEST": 15.1,
+          "HUNTER_DAYS": 3228,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 71,
+      "Name": "Pacific Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 239,
+          "BULL": 102,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 102,
+          "HUNTER_SUCCESS": 0.427,
+          "DAYS_HARVEST": 14.4,
+          "HUNTER_DAYS": 1470,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 73,
+      "Name": "Targhee-Alta",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 27,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 10,
+          "CALF": 2,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.444,
+          "DAYS_HARVEST": 28.8,
+          "HUNTER_DAYS": 346,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 36
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 155,
+          "BULL": 40,
+          "SPIKE": 4,
+          "COW": 16,
+          "CALF": 0,
+          "TOTAL": 60,
+          "HUNTER_SUCCESS": 0.387,
+          "DAYS_HARVEST": 17.4,
+          "HUNTER_DAYS": 1042,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 75,
+      "Name": "Snake River",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 9,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 4,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 0.444,
+          "DAYS_HARVEST": 12.2,
+          "HUNTER_DAYS": 49,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 20
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 16,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 7,
+          "CALF": 1,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 90,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 20
+        }
+      ]
+    },
+    {
+      "Area": 77,
+      "Name": "National Elk Refuge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 6,
+          "BULL": null,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 13,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 4,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 6,
+          "HUNTER_DAYS": 12,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Full 3",
+          "ACTIVE_LICS_HTRS": 0,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 22,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 3,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.136,
+          "DAYS_HARVEST": 19.7,
+          "HUNTER_DAYS": 59,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 0,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 0,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 150,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 11,
+          "CALF": 2,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 0.087,
+          "DAYS_HARVEST": 37.3,
+          "HUNTER_DAYS": 485,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 17,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.118,
+          "DAYS_HARVEST": 27.5,
+          "HUNTER_DAYS": 55,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 5,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 5,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 15,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 0
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 147,
+          "BULL": 25,
+          "SPIKE": 0,
+          "COW": 11,
+          "CALF": 0,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 0.245,
+          "DAYS_HARVEST": 13.6,
+          "HUNTER_DAYS": 489,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 78,
+      "Name": "Wilson",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 70,
+          "BULL": 46,
+          "SPIKE": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 49,
+          "HUNTER_SUCCESS": 0.7,
+          "DAYS_HARVEST": 19.9,
+          "HUNTER_DAYS": 975,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 79
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 42,
+          "BULL": 24,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 24,
+          "HUNTER_SUCCESS": 0.571,
+          "DAYS_HARVEST": 11.4,
+          "HUNTER_DAYS": 273,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 54
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 139,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 51,
+          "CALF": 4,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 0.396,
+          "DAYS_HARVEST": 23,
+          "HUNTER_DAYS": 1266,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 175
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 45,
+          "BULL": 6,
+          "SPIKE": 0,
+          "COW": 4,
+          "CALF": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 0.222,
+          "DAYS_HARVEST": 31.3,
+          "HUNTER_DAYS": 313,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 80,
+      "Name": "Sheep Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 223,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 30,
+          "CALF": 6,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 0.161,
+          "DAYS_HARVEST": 32.9,
+          "HUNTER_DAYS": 1183,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 300
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 121,
+          "BULL": 8,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 0.066,
+          "DAYS_HARVEST": 115.8,
+          "HUNTER_DAYS": 926,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 81,
+      "Name": "Spread Creek",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 0,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 343,
+          "BULL": 81,
+          "SPIKE": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 84,
+          "HUNTER_SUCCESS": 0.245,
+          "DAYS_HARVEST": 24.7,
+          "HUNTER_DAYS": 2076,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 82,
+      "Name": "Crystal Peak",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 37,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 22,
+          "CALF": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.595,
+          "DAYS_HARVEST": 4.8,
+          "HUNTER_DAYS": 106,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 215,
+          "BULL": 61,
+          "SPIKE": 0,
+          "COW": 5,
+          "CALF": 0,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 0.307,
+          "DAYS_HARVEST": 17.4,
+          "HUNTER_DAYS": 1147,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 83,
+      "Name": "Fish Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 207,
+          "BULL": 42,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 0.203,
+          "DAYS_HARVEST": 30.8,
+          "HUNTER_DAYS": 1295,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 84,
+      "Name": "Lower Hoback",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 26,
+          "BULL": 16,
+          "SPIKE": 0,
+          "COW": 6,
+          "CALF": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.846,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 112,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 51
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 286,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 73,
+          "CALF": 20,
+          "TOTAL": 93,
+          "HUNTER_SUCCESS": 0.325,
+          "DAYS_HARVEST": 19.8,
+          "HUNTER_DAYS": 1840,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 352
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 167,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 118,
+          "CALF": 10,
+          "TOTAL": 128,
+          "HUNTER_SUCCESS": 0.766,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 579,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 250
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1033,
+          "BULL": 248,
+          "SPIKE": 8,
+          "COW": 90,
+          "CALF": 15,
+          "TOTAL": 361,
+          "HUNTER_SUCCESS": 0.349,
+          "DAYS_HARVEST": 14,
+          "HUNTER_DAYS": 5057,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 85,
+      "Name": "Fall Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 85,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 24,
+          "CALF": 14,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 0.447,
+          "DAYS_HARVEST": 17.8,
+          "HUNTER_DAYS": 676,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 5,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 5,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 250
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 770,
+          "BULL": 119,
+          "SPIKE": 0,
+          "COW": 47,
+          "CALF": 17,
+          "TOTAL": 183,
+          "HUNTER_SUCCESS": 0.238,
+          "DAYS_HARVEST": 27.1,
+          "HUNTER_DAYS": 4961,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 86,
+      "Name": "Monument Ridge",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 125,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 43,
+          "CALF": 5,
+          "TOTAL": 48,
+          "HUNTER_SUCCESS": 0.384,
+          "DAYS_HARVEST": 24.1,
+          "HUNTER_DAYS": 1158,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 597,
+          "BULL": 123,
+          "SPIKE": 17,
+          "COW": 54,
+          "CALF": 0,
+          "TOTAL": 194,
+          "HUNTER_SUCCESS": 0.325,
+          "DAYS_HARVEST": 19.5,
+          "HUNTER_DAYS": 3780,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 87,
+      "Name": "Raspberry Ridge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 7,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 42,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 10
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 33,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 7,
+          "CALF": 1,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 0.242,
+          "DAYS_HARVEST": 17.5,
+          "HUNTER_DAYS": 140,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 120,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 28,
+          "CALF": 20,
+          "TOTAL": 48,
+          "HUNTER_SUCCESS": 0.4,
+          "DAYS_HARVEST": 15.1,
+          "HUNTER_DAYS": 724,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 148
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 447,
+          "BULL": 50,
+          "SPIKE": 0,
+          "COW": 48,
+          "CALF": 9,
+          "TOTAL": 107,
+          "HUNTER_SUCCESS": 0.239,
+          "DAYS_HARVEST": 33.4,
+          "HUNTER_DAYS": 3570,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 88,
+      "Name": "Greys Feedground",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 34,
+          "BULL": 9,
+          "SPIKE": 2,
+          "COW": 7,
+          "CALF": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 0.529,
+          "DAYS_HARVEST": 17.6,
+          "HUNTER_DAYS": 317,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 41
+        }
+      ]
+    },
+    {
+      "Area": 89,
+      "Name": "Lower Greys River",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 879,
+          "BULL": 159,
+          "SPIKE": 7,
+          "COW": 54,
+          "CALF": 11,
+          "TOTAL": 231,
+          "HUNTER_SUCCESS": 0.263,
+          "DAYS_HARVEST": 22.8,
+          "HUNTER_DAYS": 5278,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 90,
+      "Name": "Upper Greys River",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 41,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 7,
+          "CALF": 4,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.268,
+          "DAYS_HARVEST": 26,
+          "HUNTER_DAYS": 286,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 48
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 552,
+          "BULL": 98,
+          "SPIKE": 3,
+          "COW": 15,
+          "CALF": 3,
+          "TOTAL": 119,
+          "HUNTER_SUCCESS": 0.216,
+          "DAYS_HARVEST": 27.5,
+          "HUNTER_DAYS": 3274,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 91,
+      "Name": "Salt River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 91,
+          "BULL": 37,
+          "SPIKE": 0,
+          "COW": 23,
+          "CALF": 3,
+          "TOTAL": 63,
+          "HUNTER_SUCCESS": 0.692,
+          "DAYS_HARVEST": 15.9,
+          "HUNTER_DAYS": 999,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 102
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 267,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 105,
+          "CALF": 37,
+          "TOTAL": 142,
+          "HUNTER_SUCCESS": 0.532,
+          "DAYS_HARVEST": 10.7,
+          "HUNTER_DAYS": 1515,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 300
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 101,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 43,
+          "CALF": 10,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 0.525,
+          "DAYS_HARVEST": 16.5,
+          "HUNTER_DAYS": 875,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 773,
+          "BULL": 160,
+          "SPIKE": 6,
+          "COW": 25,
+          "CALF": 13,
+          "TOTAL": 204,
+          "HUNTER_SUCCESS": 0.264,
+          "DAYS_HARVEST": 21.6,
+          "HUNTER_DAYS": 4413,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 92,
+      "Name": "Piney-Horse Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 450,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 147,
+          "CALF": 32,
+          "TOTAL": 179,
+          "HUNTER_SUCCESS": 0.398,
+          "DAYS_HARVEST": 21.9,
+          "HUNTER_DAYS": 3921,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 500
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1131,
+          "BULL": 179,
+          "SPIKE": 37,
+          "COW": 97,
+          "CALF": 21,
+          "TOTAL": 334,
+          "HUNTER_SUCCESS": 0.295,
+          "DAYS_HARVEST": 24.7,
+          "HUNTER_DAYS": 8247,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 93,
+      "Name": "Waterdog Lakes",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 197,
+          "BULL": 37,
+          "SPIKE": 9,
+          "COW": 12,
+          "CALF": 3,
+          "TOTAL": 61,
+          "HUNTER_SUCCESS": 0.31,
+          "DAYS_HARVEST": 38.6,
+          "HUNTER_DAYS": 2357,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 203
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 230,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 82,
+          "CALF": 12,
+          "TOTAL": 94,
+          "HUNTER_SUCCESS": 0.409,
+          "DAYS_HARVEST": 21.9,
+          "HUNTER_DAYS": 2058,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 278
+        }
+      ]
+    },
+    {
+      "Area": 94,
+      "Name": "South Piney",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 453,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 181,
+          "CALF": 30,
+          "TOTAL": 211,
+          "HUNTER_SUCCESS": 0.466,
+          "DAYS_HARVEST": 24,
+          "HUNTER_DAYS": 5063,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 500
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 126,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 45,
+          "CALF": 12,
+          "TOTAL": 57,
+          "HUNTER_SUCCESS": 0.452,
+          "DAYS_HARVEST": 14.2,
+          "HUNTER_DAYS": 807,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 148
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1377,
+          "BULL": 160,
+          "SPIKE": 47,
+          "COW": 172,
+          "CALF": 29,
+          "TOTAL": 408,
+          "HUNTER_SUCCESS": 0.296,
+          "DAYS_HARVEST": 26.3,
+          "HUNTER_DAYS": 10734,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 95,
+      "Name": "Green River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 150,
+          "BULL": 40,
+          "SPIKE": 3,
+          "COW": 13,
+          "CALF": 5,
+          "TOTAL": 61,
+          "HUNTER_SUCCESS": 0.407,
+          "DAYS_HARVEST": 24.5,
+          "HUNTER_DAYS": 1497,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 174
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 29,
+          "BULL": 4,
+          "SPIKE": 2,
+          "COW": 4,
+          "CALF": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 0.345,
+          "DAYS_HARVEST": 23,
+          "HUNTER_DAYS": 230,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 34
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 110,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 53,
+          "CALF": 6,
+          "TOTAL": 59,
+          "HUNTER_SUCCESS": 0.536,
+          "DAYS_HARVEST": 16.1,
+          "HUNTER_DAYS": 948,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 127
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 11,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 1,
+          "CALF": 1,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.182,
+          "DAYS_HARVEST": 39.5,
+          "HUNTER_DAYS": 79,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 24
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 16,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 9,
+          "CALF": 2,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.688,
+          "DAYS_HARVEST": 12.5,
+          "HUNTER_DAYS": 138,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 23
+        }
+      ]
+    },
+    {
+      "Area": 96,
+      "Name": "New Fork",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 254,
+          "BULL": 42,
+          "SPIKE": 6,
+          "COW": 27,
+          "CALF": 3,
+          "TOTAL": 78,
+          "HUNTER_SUCCESS": 0.307,
+          "DAYS_HARVEST": 30.8,
+          "HUNTER_DAYS": 2403,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 277
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 116,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 28,
+          "CALF": 8,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 0.31,
+          "DAYS_HARVEST": 20.8,
+          "HUNTER_DAYS": 747,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 120,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 37,
+          "CALF": 3,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 0.333,
+          "DAYS_HARVEST": 29.3,
+          "HUNTER_DAYS": 1172,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 257,
+          "BULL": 21,
+          "SPIKE": 3,
+          "COW": 27,
+          "CALF": 10,
+          "TOTAL": 61,
+          "HUNTER_SUCCESS": 0.237,
+          "DAYS_HARVEST": 24.4,
+          "HUNTER_DAYS": 1491,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 97,
+      "Name": "Pinedale",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 196,
+          "BULL": 49,
+          "SPIKE": 6,
+          "COW": 50,
+          "CALF": 6,
+          "TOTAL": 111,
+          "HUNTER_SUCCESS": 0.566,
+          "DAYS_HARVEST": 15.1,
+          "HUNTER_DAYS": 1679,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 229
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 134,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 50,
+          "CALF": 18,
+          "TOTAL": 68,
+          "HUNTER_SUCCESS": 0.507,
+          "DAYS_HARVEST": 12.1,
+          "HUNTER_DAYS": 825,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 176
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 158,
+          "BULL": 9,
+          "SPIKE": 0,
+          "COW": 21,
+          "CALF": 5,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.222,
+          "DAYS_HARVEST": 32.5,
+          "HUNTER_DAYS": 1136,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 98,
+      "Name": "Boulder",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 308,
+          "BULL": 122,
+          "SPIKE": 8,
+          "COW": 43,
+          "CALF": 8,
+          "TOTAL": 181,
+          "HUNTER_SUCCESS": 0.588,
+          "DAYS_HARVEST": 14.6,
+          "HUNTER_DAYS": 2647,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 356
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 54,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 11,
+          "CALF": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.204,
+          "DAYS_HARVEST": 43.5,
+          "HUNTER_DAYS": 479,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 278,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 103,
+          "CALF": 22,
+          "TOTAL": 125,
+          "HUNTER_SUCCESS": 0.45,
+          "DAYS_HARVEST": 17.9,
+          "HUNTER_DAYS": 2238,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 302
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 480,
+          "BULL": 64,
+          "SPIKE": 21,
+          "COW": 31,
+          "CALF": 13,
+          "TOTAL": 129,
+          "HUNTER_SUCCESS": 0.269,
+          "DAYS_HARVEST": 24.8,
+          "HUNTER_DAYS": 3203,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 99,
+      "Name": "Big Sandy",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 153,
+          "BULL": 57,
+          "SPIKE": 7,
+          "COW": 13,
+          "CALF": 0,
+          "TOTAL": 77,
+          "HUNTER_SUCCESS": 0.503,
+          "DAYS_HARVEST": 18.5,
+          "HUNTER_DAYS": 1428,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 153
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 151,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 45,
+          "CALF": 11,
+          "TOTAL": 56,
+          "HUNTER_SUCCESS": 0.371,
+          "DAYS_HARVEST": 26.1,
+          "HUNTER_DAYS": 1463,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 176
+        }
+      ]
+    },
+    {
+      "Area": 100,
+      "Name": "Steamboat",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 202,
+          "BULL": 176,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 176,
+          "HUNTER_SUCCESS": 0.871,
+          "DAYS_HARVEST": 9.2,
+          "HUNTER_DAYS": 1614,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 205
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 94,
+          "BULL": 62,
+          "SPIKE": 11,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 73,
+          "HUNTER_SUCCESS": 0.777,
+          "DAYS_HARVEST": 10.1,
+          "HUNTER_DAYS": 739,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 168,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 103,
+          "CALF": 11,
+          "TOTAL": 114,
+          "HUNTER_SUCCESS": 0.679,
+          "DAYS_HARVEST": 6.2,
+          "HUNTER_DAYS": 711,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 178
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 219,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 133,
+          "CALF": 13,
+          "TOTAL": 146,
+          "HUNTER_SUCCESS": 0.667,
+          "DAYS_HARVEST": 6.6,
+          "HUNTER_DAYS": 957,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 252
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 21,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 4,
+          "CALF": 2,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 0.286,
+          "DAYS_HARVEST": 18.2,
+          "HUNTER_DAYS": 109,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 26
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 97,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 44,
+          "CALF": 7,
+          "TOTAL": 51,
+          "HUNTER_SUCCESS": 0.526,
+          "DAYS_HARVEST": 10.7,
+          "HUNTER_DAYS": 545,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 98
+        }
+      ]
+    },
+    {
+      "Area": 102,
+      "Name": "West Green River",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 220,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 66,
+          "CALF": 10,
+          "TOTAL": 76,
+          "HUNTER_SUCCESS": 0.345,
+          "DAYS_HARVEST": 22.4,
+          "HUNTER_DAYS": 1702,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 250
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 91,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 23,
+          "CALF": 5,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 0.308,
+          "DAYS_HARVEST": 15.2,
+          "HUNTER_DAYS": 427,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 125
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1282,
+          "BULL": 205,
+          "SPIKE": 25,
+          "COW": 153,
+          "CALF": 22,
+          "TOTAL": 405,
+          "HUNTER_SUCCESS": 0.316,
+          "DAYS_HARVEST": 20.4,
+          "HUNTER_DAYS": 8261,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 103,
+      "Name": "Raymond Mountain",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 154,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 71,
+          "CALF": 20,
+          "TOTAL": 91,
+          "HUNTER_SUCCESS": 0.591,
+          "DAYS_HARVEST": 9.1,
+          "HUNTER_DAYS": 824,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 200
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 666,
+          "BULL": 103,
+          "SPIKE": 13,
+          "COW": 81,
+          "CALF": 8,
+          "TOTAL": 205,
+          "HUNTER_SUCCESS": 0.308,
+          "DAYS_HARVEST": 19.1,
+          "HUNTER_DAYS": 3920,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 104,
+      "Name": "Lincoln",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 334,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 103,
+          "CALF": 20,
+          "TOTAL": 123,
+          "HUNTER_SUCCESS": 0.368,
+          "DAYS_HARVEST": 16.2,
+          "HUNTER_DAYS": 1994,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 403
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 173,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 65,
+          "CALF": 18,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 0.48,
+          "DAYS_HARVEST": 10.7,
+          "HUNTER_DAYS": 890,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 203
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1255,
+          "BULL": 203,
+          "SPIKE": 37,
+          "COW": 81,
+          "CALF": 31,
+          "TOTAL": 352,
+          "HUNTER_SUCCESS": 0.28,
+          "DAYS_HARVEST": 21.2,
+          "HUNTER_DAYS": 7471,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 105,
+      "Name": "Carter Lease",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 2,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 2,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 54
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 101,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 12,
+          "CALF": 3,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 0.149,
+          "DAYS_HARVEST": 56,
+          "HUNTER_DAYS": 840,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 453
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 34,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 11,
+          "CALF": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.324,
+          "DAYS_HARVEST": 6.2,
+          "HUNTER_DAYS": 68,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 203
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 729,
+          "BULL": 71,
+          "SPIKE": 32,
+          "COW": 42,
+          "CALF": 15,
+          "TOTAL": 160,
+          "HUNTER_SUCCESS": 0.219,
+          "DAYS_HARVEST": 35.2,
+          "HUNTER_DAYS": 5640,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 106,
+      "Name": "Uinta",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 47,
+          "BULL": 24,
+          "SPIKE": 7,
+          "COW": 4,
+          "CALF": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.745,
+          "DAYS_HARVEST": 13.2,
+          "HUNTER_DAYS": 462,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 54
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 123,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 67,
+          "CALF": 9,
+          "TOTAL": 76,
+          "HUNTER_SUCCESS": 0.618,
+          "DAYS_HARVEST": 15.7,
+          "HUNTER_DAYS": 1190,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 319,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 186,
+          "CALF": 19,
+          "TOTAL": 205,
+          "HUNTER_SUCCESS": 0.643,
+          "DAYS_HARVEST": 13.9,
+          "HUNTER_DAYS": 2845,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 350
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 809,
+          "BULL": 151,
+          "SPIKE": 24,
+          "COW": 95,
+          "CALF": 19,
+          "TOTAL": 289,
+          "HUNTER_SUCCESS": 0.357,
+          "DAYS_HARVEST": 19.7,
+          "HUNTER_DAYS": 5684,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 107,
+      "Name": "Hickey Mountain",
+      "data": [
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 156,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 95,
+          "CALF": 20,
+          "TOTAL": 115,
+          "HUNTER_SUCCESS": 0.737,
+          "DAYS_HARVEST": 9.6,
+          "HUNTER_DAYS": 1101,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 201
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 34,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 14,
+          "CALF": 3,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 19.2,
+          "HUNTER_DAYS": 326,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 617,
+          "BULL": 74,
+          "SPIKE": 11,
+          "COW": 61,
+          "CALF": 21,
+          "TOTAL": 167,
+          "HUNTER_SUCCESS": 0.271,
+          "DAYS_HARVEST": 25.9,
+          "HUNTER_DAYS": 4330,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 108,
+      "Name": "South Rawlins",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 106,
+          "BULL": 73,
+          "SPIKE": 7,
+          "COW": 3,
+          "CALF": 0,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 0.783,
+          "DAYS_HARVEST": 12.5,
+          "HUNTER_DAYS": 1038,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 107
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 67,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 33,
+          "CALF": 5,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 0.567,
+          "DAYS_HARVEST": 11,
+          "HUNTER_DAYS": 418,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 207,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 126,
+          "CALF": 16,
+          "TOTAL": 142,
+          "HUNTER_SUCCESS": 0.686,
+          "DAYS_HARVEST": 10.6,
+          "HUNTER_DAYS": 1508,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 250
+        }
+      ]
+    },
+    {
+      "Area": 110,
+      "Name": "Upper Platte River",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 277,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 114,
+          "CALF": 22,
+          "TOTAL": 136,
+          "HUNTER_SUCCESS": 0.491,
+          "DAYS_HARVEST": 16.8,
+          "HUNTER_DAYS": 2287,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 299
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 25,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 7,
+          "CALF": 0,
+          "TOTAL": 7,
+          "HUNTER_SUCCESS": 0.28,
+          "DAYS_HARVEST": 8.7,
+          "HUNTER_DAYS": 61,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 350
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1908,
+          "BULL": 261,
+          "SPIKE": 50,
+          "COW": 142,
+          "CALF": 13,
+          "TOTAL": 466,
+          "HUNTER_SUCCESS": 0.244,
+          "DAYS_HARVEST": 26.1,
+          "HUNTER_DAYS": 12185,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 111,
+      "Name": "Seminoe",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 84,
+          "BULL": 65,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 0.774,
+          "DAYS_HARVEST": 11.3,
+          "HUNTER_DAYS": 733,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 164
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 112,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 35,
+          "CALF": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.312,
+          "DAYS_HARVEST": 22.6,
+          "HUNTER_DAYS": 790,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 151
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 195,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 41,
+          "CALF": 0,
+          "TOTAL": 41,
+          "HUNTER_SUCCESS": 0.21,
+          "DAYS_HARVEST": 28.1,
+          "HUNTER_DAYS": 1152,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 249
+        }
+      ]
+    },
+    {
+      "Area": 113,
+      "Name": "Rochelle Hills",
+      "data": [
+        {
+          "TYPE": "Full 3",
+          "ACTIVE_LICS_HTRS": 140,
+          "BULL": 0,
+          "SPIKE": 23,
+          "COW": 87,
+          "CALF": 12,
+          "TOTAL": 122,
+          "HUNTER_SUCCESS": 0.871,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 412,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 152
+        }
+      ]
+    },
+    {
+      "Area": 116,
+      "Name": "North Black Hills",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 72,
+          "BULL": 33,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 2,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.486,
+          "DAYS_HARVEST": 26.9,
+          "HUNTER_DAYS": 941,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 351,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 143,
+          "CALF": 18,
+          "TOTAL": 161,
+          "HUNTER_SUCCESS": 0.459,
+          "DAYS_HARVEST": 20.7,
+          "HUNTER_DAYS": 3329,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 400
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 677,
+          "BULL": 176,
+          "SPIKE": 25,
+          "COW": 0,
+          "CALF": 26,
+          "TOTAL": 227,
+          "HUNTER_SUCCESS": 0.335,
+          "DAYS_HARVEST": 25.6,
+          "HUNTER_DAYS": 5811,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 117,
+      "Name": "South Black Hills",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 449,
+          "BULL": 185,
+          "SPIKE": 25,
+          "COW": 20,
+          "CALF": 0,
+          "TOTAL": 230,
+          "HUNTER_SUCCESS": 0.512,
+          "DAYS_HARVEST": 19.8,
+          "HUNTER_DAYS": 4563,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 503
+        },
+        {
+          "TYPE": "Full 3",
+          "ACTIVE_LICS_HTRS": 290,
+          "BULL": 0,
+          "SPIKE": 47,
+          "COW": 18,
+          "CALF": 47,
+          "TOTAL": 112,
+          "HUNTER_SUCCESS": 0.386,
+          "DAYS_HARVEST": 35.3,
+          "HUNTER_DAYS": 3959,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 344
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 137,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 13,
+          "CALF": 34,
+          "TOTAL": 47,
+          "HUNTER_SUCCESS": 0.343,
+          "DAYS_HARVEST": 27.1,
+          "HUNTER_DAYS": 1272,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 151
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 686,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 381,
+          "CALF": 63,
+          "TOTAL": 444,
+          "HUNTER_SUCCESS": 0.647,
+          "DAYS_HARVEST": 12.2,
+          "HUNTER_DAYS": 5400,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 1209
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 53,
+          "BULL": 4,
+          "SPIKE": 0,
+          "COW": 5,
+          "CALF": 4,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 0.245,
+          "DAYS_HARVEST": 17.1,
+          "HUNTER_DAYS": 222,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 118,
+      "Name": "Shamrock Hills",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 75,
+          "BULL": 52,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 52,
+          "HUNTER_SUCCESS": 0.693,
+          "DAYS_HARVEST": 9.3,
+          "HUNTER_DAYS": 486,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 78
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 39,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 7,
+          "CALF": 4,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.282,
+          "DAYS_HARVEST": 21.7,
+          "HUNTER_DAYS": 239,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 78,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 23,
+          "CALF": 8,
+          "TOTAL": 31,
+          "HUNTER_SUCCESS": 0.397,
+          "DAYS_HARVEST": 18.2,
+          "HUNTER_DAYS": 564,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        }
+      ]
+    },
+    {
+      "Area": 120,
+      "Name": "Buffalo Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 173,
+          "BULL": 84,
+          "SPIKE": 12,
+          "COW": 15,
+          "CALF": 7,
+          "TOTAL": 118,
+          "HUNTER_SUCCESS": 0.682,
+          "DAYS_HARVEST": 11.8,
+          "HUNTER_DAYS": 1393,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 180
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 112,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 6,
+          "CALF": 34,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 0.357,
+          "DAYS_HARVEST": 27.2,
+          "HUNTER_DAYS": 1088,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 128
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 105,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 43,
+          "CALF": 6,
+          "TOTAL": 49,
+          "HUNTER_SUCCESS": 0.467,
+          "DAYS_HARVEST": 14,
+          "HUNTER_DAYS": 685,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 126
+        }
+      ]
+    },
+    {
+      "Area": 122,
+      "Name": "Pine Ridge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 124,
+          "BULL": 66,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 12,
+          "TOTAL": 78,
+          "HUNTER_SUCCESS": 0.629,
+          "DAYS_HARVEST": 12.7,
+          "HUNTER_DAYS": 993,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 152
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 63,
+          "BULL": 34,
+          "SPIKE": 2,
+          "COW": 0,
+          "CALF": 2,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 0.603,
+          "DAYS_HARVEST": 5.4,
+          "HUNTER_DAYS": 207,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 98
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 127,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 73,
+          "CALF": 17,
+          "TOTAL": 90,
+          "HUNTER_SUCCESS": 0.709,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 347,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 150
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 114,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 98,
+          "CALF": 6,
+          "TOTAL": 104,
+          "HUNTER_SUCCESS": 0.912,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 488,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 131
+        }
+      ]
+    },
+    {
+      "Area": 123,
+      "Name": "Black Thunder",
+      "data": [
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 47,
+          "BULL": 27,
+          "SPIKE": 8,
+          "COW": 4,
+          "CALF": 0,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 0.83,
+          "DAYS_HARVEST": 7.2,
+          "HUNTER_DAYS": 281,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 53
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 62,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 39,
+          "CALF": 0,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 0.629,
+          "DAYS_HARVEST": 7.2,
+          "HUNTER_DAYS": 282,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 64,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 29,
+          "CALF": 4,
+          "TOTAL": 33,
+          "HUNTER_SUCCESS": 0.516,
+          "DAYS_HARVEST": 8.9,
+          "HUNTER_DAYS": 293,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 184,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 29,
+          "CALF": 130,
+          "TOTAL": 159,
+          "HUNTER_SUCCESS": 0.864,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 626,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 207
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 36,
+          "BULL": 23,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 0.639,
+          "DAYS_HARVEST": 5.6,
+          "HUNTER_DAYS": 129,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 124,
+      "Name": "Powder Rim",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 73,
+          "BULL": 64,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 3,
+          "TOTAL": 67,
+          "HUNTER_SUCCESS": 0.918,
+          "DAYS_HARVEST": 13.1,
+          "HUNTER_DAYS": 877,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 103,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 6,
+          "CALF": 75,
+          "TOTAL": 81,
+          "HUNTER_SUCCESS": 0.786,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 416,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 108
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 22,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 14,
+          "CALF": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 0.636,
+          "DAYS_HARVEST": 6.8,
+          "HUNTER_DAYS": 95,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 26
+        }
+      ]
+    },
+    {
+      "Area": 125,
+      "Name": "Elk Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 170,
+          "BULL": 91,
+          "SPIKE": 8,
+          "COW": 10,
+          "CALF": 2,
+          "TOTAL": 111,
+          "HUNTER_SUCCESS": 0.653,
+          "DAYS_HARVEST": 6.2,
+          "HUNTER_DAYS": 686,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 201
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 168,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 12,
+          "CALF": 88,
+          "TOTAL": 100,
+          "HUNTER_SUCCESS": 0.595,
+          "DAYS_HARVEST": 7.2,
+          "HUNTER_DAYS": 724,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 200
+        }
+      ]
+    },
+    {
+      "Area": 126,
+      "Name": "Lost Springs",
+      "data": [
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 346,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 9,
+          "CALF": 97,
+          "TOTAL": 106,
+          "HUNTER_SUCCESS": 0.306,
+          "DAYS_HARVEST": 32.3,
+          "HUNTER_DAYS": 3427,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 405
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 619,
+          "BULL": 139,
+          "SPIKE": 12,
+          "COW": 60,
+          "CALF": 5,
+          "TOTAL": 216,
+          "HUNTER_SUCCESS": 0.349,
+          "DAYS_HARVEST": 23.5,
+          "HUNTER_DAYS": 5076,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 127,
+      "Name": "Crowheart Butte",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 108,
+          "BULL": 17,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 11,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 0.259,
+          "DAYS_HARVEST": 18.9,
+          "HUNTER_DAYS": 529,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 128,
+      "Name": "Muskrat",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 8,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 15,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 177
+        },
+        {
+          "TYPE": "Full 4",
+          "ACTIVE_LICS_HTRS": 13,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 50,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 201
+        },
+        {
+          "TYPE": "Full 5",
+          "ACTIVE_LICS_HTRS": 23,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 79,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 174
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 18,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 2,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.111,
+          "DAYS_HARVEST": 17.5,
+          "HUNTER_DAYS": 35,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 200
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 365,
+          "BULL": 70,
+          "SPIKE": 18,
+          "COW": 17,
+          "CALF": 5,
+          "TOTAL": 110,
+          "HUNTER_SUCCESS": 0.301,
+          "DAYS_HARVEST": 16.9,
+          "HUNTER_DAYS": 1858,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 129,
+      "Name": "Non-Herd Unit",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 657,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 319,
+          "CALF": 26,
+          "TOTAL": 345,
+          "HUNTER_SUCCESS": 0.525,
+          "DAYS_HARVEST": 9.7,
+          "HUNTER_DAYS": 3361,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 724
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 287,
+          "BULL": 0,
+          "SPIKE": 0,
+          "COW": 189,
+          "CALF": 52,
+          "TOTAL": 241,
+          "HUNTER_SUCCESS": 0.84,
+          "DAYS_HARVEST": 6.9,
+          "HUNTER_DAYS": 1661,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 322
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1410,
+          "BULL": 444,
+          "SPIKE": 48,
+          "COW": 138,
+          "CALF": 5,
+          "TOTAL": 635,
+          "HUNTER_SUCCESS": 0.45,
+          "DAYS_HARVEST": 16.8,
+          "HUNTER_DAYS": 10698,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    },
+    {
+      "Area": 130,
+      "Name": "Bolten Rim",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 23,
+          "BULL": 5,
+          "SPIKE": 0,
+          "COW": 5,
+          "CALF": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 0.435,
+          "DAYS_HARVEST": 18.3,
+          "HUNTER_DAYS": 183,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": null
+        }
+      ]
+    }
+  ]
+}
