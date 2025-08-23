@@ -1,0 +1,1672 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "GOOSE CREEK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 6,
+          "ACTIVE_HUNTERS": 6,
+          "BULL": 6,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.7,
+          "REC_DAYS": 22
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.0,
+          "REC_DAYS": 6
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 2,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 1.0,
+          "REC_DAYS": 2
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 10,
+          "ACTIVE_HUNTERS": 10,
+          "BULL": 8,
+          "COW": 0,
+          "CALF": 2,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.0,
+          "REC_DAYS": 30
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "LANDER",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 9,
+          "ACTIVE_HUNTERS": 8,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "50.0%",
+          "DAYS_HARVEST": 20.0,
+          "REC_DAYS": 80
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 13.0,
+          "REC_DAYS": 13
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 10,
+          "ACTIVE_HUNTERS": 9,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "55.6%",
+          "DAYS_HARVEST": 18.6,
+          "REC_DAYS": 93
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "PINEDALE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 13,
+          "ACTIVE_HUNTERS": 13,
+          "BULL": 13,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.1,
+          "REC_DAYS": 79
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 4.5,
+          "REC_DAYS": 9
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 15,
+          "ACTIVE_HUNTERS": 15,
+          "BULL": 15,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.9,
+          "REC_DAYS": 88
+        }
+      ]
+    },
+    {
+      "Area": 5,
+      "Name": "UPPER GREEN RIVER",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 18,
+          "ACTIVE_HUNTERS": 18,
+          "BULL": 17,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": "94.4%",
+          "DAYS_HARVEST": 5.5,
+          "REC_DAYS": 93
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.0,
+          "REC_DAYS": 6
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 19,
+          "ACTIVE_HUNTERS": 19,
+          "BULL": 18,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": "94.7%",
+          "DAYS_HARVEST": 5.5,
+          "REC_DAYS": 99
+        }
+      ]
+    },
+    {
+      "Area": 6,
+      "Name": "WIND RIVER",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 11.8,
+          "REC_DAYS": 47
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.0,
+          "REC_DAYS": 3
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 10.0,
+          "REC_DAYS": 50
+        }
+      ]
+    },
+    {
+      "Area": 7,
+      "Name": "BUFFALO RIVER",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.0,
+          "REC_DAYS": 48
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.0,
+          "REC_DAYS": 3
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 10.2,
+          "REC_DAYS": 51
+        }
+      ]
+    },
+    {
+      "Area": 8,
+      "Name": "THOROFARE - YELLOWSTONE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 8.0,
+          "REC_DAYS": 24
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 8.0,
+          "REC_DAYS": 24
+        }
+      ]
+    },
+    {
+      "Area": 9,
+      "Name": "GREYBULL-OWL CREEK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 8,
+          "ACTIVE_HUNTERS": 8,
+          "BULL": 7,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 7,
+          "HUNTER_SUCCESS": "87.5%",
+          "DAYS_HARVEST": 11.3,
+          "REC_DAYS": 79
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.0,
+          "REC_DAYS": 3
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 9,
+          "ACTIVE_HUNTERS": 9,
+          "BULL": 8,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": "88.9%",
+          "DAYS_HARVEST": 10.2,
+          "REC_DAYS": 82
+        }
+      ]
+    },
+    {
+      "Area": 10,
+      "Name": "SOUTH HOBACK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 15.2,
+          "REC_DAYS": 61
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.0,
+          "REC_DAYS": 12
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 14.6,
+          "REC_DAYS": 73
+        }
+      ]
+    },
+    {
+      "Area": 11,
+      "Name": "ABSAROKA",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 14.8,
+          "REC_DAYS": 59
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 11.0,
+          "REC_DAYS": 11
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 14.0,
+          "REC_DAYS": 70
+        }
+      ]
+    },
+    {
+      "Area": 14,
+      "Name": "FOX PARK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.0,
+          "REC_DAYS": 48
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.0,
+          "REC_DAYS": 3
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 10.2,
+          "REC_DAYS": 51
+        }
+      ]
+    },
+    {
+      "Area": 15,
+      "Name": "GLADE-PILGRIM CREEK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 15.2,
+          "REC_DAYS": 61
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.0,
+          "REC_DAYS": 12
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 14.6,
+          "REC_DAYS": 73
+        }
+      ]
+    },
+    {
+      "Area": 16,
+      "Name": "ALTA",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 14.8,
+          "REC_DAYS": 59
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 11.0,
+          "REC_DAYS": 11
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 14.0,
+          "REC_DAYS": 70
+        }
+      ]
+    },
+    {
+      "Area": 17,
+      "Name": "LOWER GROS VENTRE- SPREAD CREEK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.0,
+          "REC_DAYS": 12
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.0,
+          "REC_DAYS": 12
+        }
+      ]
+    },
+    {
+      "Area": 18,
+      "Name": "FISH CREEK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 5
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 0,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 5
+        }
+      ]
+    },
+    {
+      "Area": 19,
+      "Name": "WILSON",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": null,
+          "ACTIVE_HUNTERS": null,
+          "BULL": null,
+          "COW": null,
+          "CALF": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": null
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": null,
+          "ACTIVE_HUNTERS": null,
+          "BULL": null,
+          "COW": null,
+          "CALF": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": null
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": null,
+          "ACTIVE_HUNTERS": null,
+          "BULL": null,
+          "COW": null,
+          "CALF": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": null
+        }
+      ]
+    },
+    {
+      "Area": 20,
+      "Name": "FALL CREEK-TARGHEE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 14,
+          "ACTIVE_HUNTERS": 14,
+          "BULL": 14,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 7.1,
+          "REC_DAYS": 99
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 3.0,
+          "REC_DAYS": 3
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 15,
+          "ACTIVE_HUNTERS": 15,
+          "BULL": 15,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.8,
+          "REC_DAYS": 102
+        }
+      ]
+    },
+    {
+      "Area": 21,
+      "Name": "NORTH HOBACK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "50.0%",
+          "DAYS_HARVEST": 24.0,
+          "REC_DAYS": 24
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "50.0%",
+          "DAYS_HARVEST": 24.0,
+          "REC_DAYS": 24
+        }
+      ]
+    },
+    {
+      "Area": 22,
+      "Name": "RASPBERRY RIDGE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 6,
+          "ACTIVE_HUNTERS": 6,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "83.3%",
+          "DAYS_HARVEST": 8.4,
+          "REC_DAYS": 42
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.0,
+          "REC_DAYS": 5
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 7,
+          "ACTIVE_HUNTERS": 7,
+          "BULL": 6,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": "85.7%",
+          "DAYS_HARVEST": 7.8,
+          "REC_DAYS": 47
+        }
+      ]
+    },
+    {
+      "Area": 23,
+      "Name": "GREY'S RIVER-SALT RIVER",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 9,
+          "ACTIVE_HUNTERS": 8,
+          "BULL": 8,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.0,
+          "REC_DAYS": 96
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 4.0,
+          "REC_DAYS": 4
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 10,
+          "ACTIVE_HUNTERS": 9,
+          "BULL": 9,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 9,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 11.1,
+          "REC_DAYS": 100
+        }
+      ]
+    },
+    {
+      "Area": 24,
+      "Name": "BIG PINEY-ON NAT'L FOREST",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 18,
+          "ACTIVE_HUNTERS": 18,
+          "BULL": 14,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": "77.8%",
+          "DAYS_HARVEST": 12.8,
+          "REC_DAYS": 179
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.5,
+          "REC_DAYS": 13
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 20,
+          "ACTIVE_HUNTERS": 20,
+          "BULL": 16,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": "80.0%",
+          "DAYS_HARVEST": 12.0,
+          "REC_DAYS": 192
+        }
+      ]
+    },
+    {
+      "Area": 25,
+      "Name": "BIG PINEY-OFF NAT'L FOREST",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 41,
+          "ACTIVE_HUNTERS": 41,
+          "BULL": 40,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": "97.6%",
+          "DAYS_HARVEST": 7.3,
+          "REC_DAYS": 293
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": "66.7%",
+          "DAYS_HARVEST": 10.5,
+          "REC_DAYS": 21
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 1,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "33.3%",
+          "DAYS_HARVEST": 23.0,
+          "REC_DAYS": 23
+        },
+        {
+          "TYPE": "TYPE 4 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 49,
+          "ACTIVE_HUNTERS": 47,
+          "BULL": 42,
+          "COW": 0,
+          "CALF": 1,
+          "TOTAL": 43,
+          "HUNTER_SUCCESS": "91.5%",
+          "DAYS_HARVEST": 7.8,
+          "REC_DAYS": 337
+        }
+      ]
+    },
+    {
+      "Area": 26,
+      "Name": "LINCOLN",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 37,
+          "ACTIVE_HUNTERS": 37,
+          "BULL": 35,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": "94.6%",
+          "DAYS_HARVEST": 12.5,
+          "REC_DAYS": 438
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.3,
+          "REC_DAYS": 16
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 3,
+          "COW": 2,
+          "CALF": 2,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 8.0,
+          "REC_DAYS": 32
+        },
+        {
+          "TYPE": "TYPE 4 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 0,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 1.0,
+          "REC_DAYS": 1
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 45,
+          "ACTIVE_HUNTERS": 45,
+          "BULL": 38,
+          "COW": 3,
+          "CALF": 2,
+          "TOTAL": 43,
+          "HUNTER_SUCCESS": "95.6%",
+          "DAYS_HARVEST": 11.3,
+          "REC_DAYS": 487
+        }
+      ]
+    },
+    {
+      "Area": 27,
+      "Name": "UINTA",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 13,
+          "ACTIVE_HUNTERS": 13,
+          "BULL": 13,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 13.5,
+          "REC_DAYS": 175
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 2.0,
+          "REC_DAYS": 2
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 14,
+          "ACTIVE_HUNTERS": 14,
+          "BULL": 14,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.6,
+          "REC_DAYS": 177
+        }
+      ]
+    },
+    {
+      "Area": 28,
+      "Name": "CRYSTALIFLAT CREEK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        }
+      ]
+    },
+    {
+      "Area": 30,
+      "Name": "SWEETWATER",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 9,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.0,
+          "REC_DAYS": 6
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 10,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.0,
+          "REC_DAYS": 6
+        }
+      ]
+    },
+    {
+      "Area": 32,
+      "Name": "ENOS LAKE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": null,
+          "ACTIVE_HUNTERS": null,
+          "BULL": null,
+          "COW": null,
+          "CALF": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": null
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": null,
+          "ACTIVE_HUNTERS": null,
+          "BULL": null,
+          "COW": null,
+          "CALF": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": null
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": null,
+          "ACTIVE_HUNTERS": null,
+          "BULL": null,
+          "COW": null,
+          "CALF": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": null
+        }
+      ]
+    },
+    {
+      "Area": 33,
+      "Name": "LOWER GREEN RIVER",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 8.0,
+          "REC_DAYS": 24
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 8.0,
+          "REC_DAYS": 24
+        }
+      ]
+    },
+    {
+      "Area": 34,
+      "Name": "HUNTER MESA",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "75.0%",
+          "DAYS_HARVEST": 13.0,
+          "REC_DAYS": 39
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 10.0,
+          "REC_DAYS": 10
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 1,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "50.0%",
+          "DAYS_HARVEST": 4.0,
+          "REC_DAYS": 4
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 7,
+          "ACTIVE_HUNTERS": 7,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 1,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "71.4%",
+          "DAYS_HARVEST": 10.6,
+          "REC_DAYS": 53
+        }
+      ]
+    },
+    {
+      "Area": 35,
+      "Name": "HENRY'S FORK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.2,
+          "REC_DAYS": 61
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 12.2,
+          "REC_DAYS": 61
+        }
+      ]
+    },
+    {
+      "Area": 36,
+      "Name": "BEAR RIVER DIVIDE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.7,
+          "REC_DAYS": 17
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.0,
+          "REC_DAYS": 5
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 6,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.5,
+          "REC_DAYS": 22
+        }
+      ]
+    },
+    {
+      "Area": 37,
+      "Name": "GRASSY LAKE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        }
+      ]
+    },
+    {
+      "Area": 38,
+      "Name": "SNOWY RANGE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 23,
+          "ACTIVE_HUNTERS": 23,
+          "BULL": 23,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 13.6,
+          "REC_DAYS": 312
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 9,
+          "ACTIVE_HUNTERS": 9,
+          "BULL": 8,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": "88.9%",
+          "DAYS_HARVEST": 8.6,
+          "REC_DAYS": 69
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 28,
+          "ACTIVE_HUNTERS": 24,
+          "BULL": 0,
+          "COW": 17,
+          "CALF": 1,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": "75.0%",
+          "DAYS_HARVEST": 10.4,
+          "REC_DAYS": 187
+        },
+        {
+          "TYPE": "TYPE 4 Nonresident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 3,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 6.0,
+          "REC_DAYS": 18
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 63,
+          "ACTIVE_HUNTERS": 59,
+          "BULL": 31,
+          "COW": 17,
+          "CALF": 4,
+          "TOTAL": 52,
+          "HUNTER_SUCCESS": "88.1%",
+          "DAYS_HARVEST": 11.3,
+          "REC_DAYS": 586
+        }
+      ]
+    },
+    {
+      "Area": 40,
+      "Name": "LOWER HAMS FORK",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 3,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 8.0,
+          "REC_DAYS": 24
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 3,
+          "BULL": 0,
+          "COW": 1,
+          "CALF": 2,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 2.0,
+          "REC_DAYS": 6
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 6,
+          "ACTIVE_HUNTERS": 6,
+          "BULL": 3,
+          "COW": 1,
+          "CALF": 2,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.0,
+          "REC_DAYS": 30
+        }
+      ]
+    },
+    {
+      "Area": 41,
+      "Name": "SIERRA MADRES",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 4,
+          "ACTIVE_HUNTERS": 4,
+          "BULL": 4,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 18.2,
+          "REC_DAYS": 73
+        },
+        {
+          "TYPE": "TYPE 1 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 1,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 2.0,
+          "REC_DAYS": 2
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 28,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 0,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 27.0,
+          "REC_DAYS": 27
+        },
+        {
+          "TYPE": "TYPE 4 Nonresident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 36,
+          "ACTIVE_HUNTERS": 6,
+          "BULL": 5,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 17.0,
+          "REC_DAYS": 102
+        }
+      ]
+    },
+    {
+      "Area": 42,
+      "Name": "WEST BIGHORN",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 5.6,
+          "REC_DAYS": 28
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 2,
+          "ACTIVE_HUNTERS": 2,
+          "BULL": 0,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "50.0%",
+          "DAYS_HARVEST": 43.0,
+          "REC_DAYS": 43
+        },
+        {
+          "TYPE": "TYPE 4 Nonresident",
+          "VALID_LICENSES": 1,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 7
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 8,
+          "ACTIVE_HUNTERS": 8,
+          "BULL": 5,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": "75.0%",
+          "DAYS_HARVEST": 13.0,
+          "REC_DAYS": 78
+        }
+      ]
+    },
+    {
+      "Area": 44,
+      "Name": "EAST FLAMING GORGE",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        }
+      ]
+    },
+    {
+      "Area": 45,
+      "Name": "POLE MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "TYPE 1 Resident",
+          "VALID_LICENSES": 5,
+          "ACTIVE_HUNTERS": 5,
+          "BULL": 5,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 2.0,
+          "REC_DAYS": 10
+        },
+        {
+          "TYPE": "TYPE 4 Resident",
+          "VALID_LICENSES": 28,
+          "ACTIVE_HUNTERS": 1,
+          "BULL": 0,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 44.0,
+          "REC_DAYS": 44
+        },
+        {
+          "TYPE": "TYPE 4 Nonresident",
+          "VALID_LICENSES": 3,
+          "ACTIVE_HUNTERS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": "0.0%",
+          "DAYS_HARVEST": null,
+          "REC_DAYS": 0
+        },
+        {
+          "TYPE": "All Total",
+          "VALID_LICENSES": 36,
+          "ACTIVE_HUNTERS": 6,
+          "BULL": 5,
+          "COW": 1,
+          "CALF": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": "100.0%",
+          "DAYS_HARVEST": 9.0,
+          "REC_DAYS": 54
+        }
+      ]
+    }
+  ]
+}

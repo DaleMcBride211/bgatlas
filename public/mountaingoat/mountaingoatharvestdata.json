@@ -1,0 +1,121 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "BEARTOOTH",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 9,
+          "BILLY": 7,
+          "NANNY": 2,
+          "KID": 0,
+          "TOTAL": 9,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 6.7,
+          "HUNTER_DAYS": 60
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "BILLY": 0,
+          "NANNY": 1,
+          "KID": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 9,
+          "HUNTER_DAYS": 9
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 10,
+          "BILLY": 7,
+          "NANNY": 3,
+          "KID": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 6.9,
+          "HUNTER_DAYS": 69
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "PALISADES",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 5,
+          "BILLY": 2,
+          "NANNY": 1,
+          "KID": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.6,
+          "DAYS_HARVEST": 16,
+          "HUNTER_DAYS": 48
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "BILLY": 1,
+          "NANNY": 0,
+          "KID": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 3
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 6,
+          "BILLY": 3,
+          "NANNY": 1,
+          "KID": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 0.667,
+          "DAYS_HARVEST": 12.8,
+          "HUNTER_DAYS": 51
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "NORTH ABSAROKA",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 24,
+          "BILLY": 14,
+          "NANNY": 5,
+          "KID": 1,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.833,
+          "DAYS_HARVEST": 9.4,
+          "HUNTER_DAYS": 188
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "BILLY": 1,
+          "NANNY": 1,
+          "KID": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 5
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 26,
+          "BILLY": 15,
+          "NANNY": 6,
+          "KID": 1,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.846,
+          "DAYS_HARVEST": 8.8,
+          "HUNTER_DAYS": 193
+        }
+      ]
+    }
+  ]
+}

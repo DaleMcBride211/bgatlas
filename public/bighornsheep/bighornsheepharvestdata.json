@@ -1,0 +1,657 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "CLARK'S FORK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 14,
+          "RAM": 12,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.857,
+          "DAYS_HARVEST": 10.1,
+          "HUNTER_DAYS": 121
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 5,
+          "HUNTER_DAYS": 10
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 16,
+          "RAM": 14,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 0.875,
+          "DAYS_HARVEST": 9.4,
+          "HUNTER_DAYS": 131
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "TROUT PEAK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 23,
+          "RAM": 18,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 0.783,
+          "DAYS_HARVEST": 14.4,
+          "HUNTER_DAYS": 260
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 4,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 15.5,
+          "HUNTER_DAYS": 31
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 27,
+          "RAM": 20,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.741,
+          "DAYS_HARVEST": 14.6,
+          "HUNTER_DAYS": 291
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "WAPITI RIDGE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 18,
+          "RAM": 12,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.667,
+          "DAYS_HARVEST": 8.5,
+          "HUNTER_DAYS": 102
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 7,
+          "HUNTER_DAYS": 14
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 20,
+          "RAM": 14,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 0.7,
+          "DAYS_HARVEST": 8.3,
+          "HUNTER_DAYS": 116
+        }
+      ]
+    },
+    {
+      "Area": 4,
+      "Name": "YOUNT'S PEAK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 14,
+          "RAM": 13,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 0.929,
+          "DAYS_HARVEST": 5.8,
+          "HUNTER_DAYS": 76
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 4,
+          "RAM": 4,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 6,
+          "HUNTER_DAYS": 24
+        }
+      ]
+    },
+    {
+      "Area": 5,
+      "Name": "FRANC'S PEAK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 31,
+          "RAM": 27,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 0.871,
+          "DAYS_HARVEST": 9.1,
+          "HUNTER_DAYS": 246
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 8,
+          "RAM": 6,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 0.75,
+          "DAYS_HARVEST": 11,
+          "HUNTER_DAYS": 66
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 39,
+          "RAM": 33,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 33,
+          "HUNTER_SUCCESS": 0.846,
+          "DAYS_HARVEST": 9.5,
+          "HUNTER_DAYS": 312
+        }
+      ]
+    },
+    {
+      "Area": 6,
+      "Name": "TARGHEE",
+      "data": [
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 30.5,
+          "HUNTER_DAYS": 61
+        }
+      ]
+    },
+    {
+      "Area": 7,
+      "Name": "JACKSON",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 10,
+          "RAM": 6,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 0.6,
+          "DAYS_HARVEST": 21.8,
+          "HUNTER_DAYS": 131
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 6,
+          "HUNTER_DAYS": 12
+        },
+        {
+          "TYPE": "RESIDENT TYPE 6",
+          "ACTIVE_LICS_HTRS": 9,
+          "RAM": 0,
+          "EWE": 6,
+          "LAMB": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 0.667,
+          "DAYS_HARVEST": 10.3,
+          "HUNTER_DAYS": 62
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 0,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 9
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 22,
+          "RAM": 8,
+          "EWE": 6,
+          "LAMB": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 0.636,
+          "DAYS_HARVEST": 15.3,
+          "HUNTER_DAYS": 214
+        }
+      ]
+    },
+    {
+      "Area": 8,
+      "Name": "SHEEP MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 1,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 6,
+          "HUNTER_DAYS": 6
+        }
+      ]
+    },
+    {
+      "Area": 9,
+      "Name": "DINWOODY",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 5,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.4,
+          "DAYS_HARVEST": 29.5,
+          "HUNTER_DAYS": 59
+        }
+      ]
+    },
+    {
+      "Area": 10,
+      "Name": "JAKEY'S FORK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 4,
+          "RAM": 4,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 9.5,
+          "HUNTER_DAYS": 38
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 1,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 1,
+          "HUNTER_DAYS": 1
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 5,
+          "RAM": 5,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 7.8,
+          "HUNTER_DAYS": 39
+        }
+      ]
+    },
+    {
+      "Area": 12,
+      "Name": "PORCUPINE",
+      "data": [
+        {
+          "TYPE": "RESIDENT TYPE 1",
+          "ACTIVE_LICS_HTRS": 3,
+          "RAM": 3,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 2.7,
+          "HUNTER_DAYS": 8
+        },
+        {
+          "TYPE": "RESIDENT TYPE 2",
+          "ACTIVE_LICS_HTRS": 5,
+          "RAM": 5,
+          "EWE": 1,
+          "LAMB": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 1.2,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 18
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 8,
+          "RAM": 8,
+          "EWE": 1,
+          "LAMB": 0,
+          "TOTAL": 9,
+          "HUNTER_SUCCESS": 1.125,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 26
+        }
+      ]
+    },
+    {
+      "Area": 17,
+      "Name": "FERRIS-SEMINOE",
+      "data": [
+        {
+          "TYPE": "RESIDENT TYPE 1",
+          "ACTIVE_LICS_HTRS": 4,
+          "RAM": 4,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 4,
+          "HUNTER_DAYS": 16
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 1,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 19,
+          "HUNTER_DAYS": 19
+        },
+        {
+          "TYPE": "RESIDENT TYPE 2",
+          "ACTIVE_LICS_HTRS": 4,
+          "RAM": 4,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 13.8,
+          "HUNTER_DAYS": 55
+        },
+        {
+          "TYPE": "RESIDENT TYPE 6",
+          "ACTIVE_LICS_HTRS": 18,
+          "RAM": 0,
+          "EWE": 18,
+          "LAMB": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 2.3,
+          "HUNTER_DAYS": 42
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 0,
+          "EWE": 2,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 1,
+          "HUNTER_DAYS": 2
+        },
+        {
+          "TYPE": "RESIDENT TYPE 7",
+          "ACTIVE_LICS_HTRS": 6,
+          "RAM": 0,
+          "EWE": 6,
+          "LAMB": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 5.2,
+          "HUNTER_DAYS": 31
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 0,
+          "EWE": 1,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 2,
+          "HUNTER_DAYS": 2
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 36,
+          "RAM": 9,
+          "EWE": 27,
+          "LAMB": 0,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 167
+        }
+      ]
+    },
+    {
+      "Area": 18,
+      "Name": "DOUGLAS CREEK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 23.5,
+          "HUNTER_DAYS": 47
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 1,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 9,
+          "HUNTER_DAYS": 9
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 3,
+          "RAM": 3,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 18.7,
+          "HUNTER_DAYS": 56
+        }
+      ]
+    },
+    {
+      "Area": 19,
+      "Name": "LARAMIE PEAK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 8,
+          "RAM": 7,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 7,
+          "HUNTER_SUCCESS": 0.875,
+          "DAYS_HARVEST": 20.4,
+          "HUNTER_DAYS": 143
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 1,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 10,
+          "HUNTER_DAYS": 10
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 9,
+          "RAM": 8,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 0.889,
+          "DAYS_HARVEST": 19.1,
+          "HUNTER_DAYS": 153
+        }
+      ]
+    },
+    {
+      "Area": 20,
+      "Name": "KOUBA CANYON",
+      "data": [
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 1,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 18,
+          "HUNTER_DAYS": 18
+        }
+      ]
+    },
+    {
+      "Area": 21,
+      "Name": "ENCAMPMENT RIVER",
+      "data": [
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 2,
+          "RAM": 2,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 33,
+          "HUNTER_DAYS": 66
+        }
+      ]
+    },
+    {
+      "Area": 22,
+      "Name": "DUBOIS BADLANDS",
+      "data": [
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 4,
+          "RAM": 0,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 69
+        }
+      ]
+    },
+    {
+      "Area": 24,
+      "Name": "BIG PINEY",
+      "data": [
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 0,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 9
+        }
+      ]
+    },
+    {
+      "Area": 26,
+      "Name": "BENNETT MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT TYPE 1",
+          "ACTIVE_LICS_HTRS": 1,
+          "RAM": 1,
+          "EWE": 0,
+          "LAMB": 0,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 36,
+          "HUNTER_DAYS": 36
+        },
+        {
+          "TYPE": "RESIDENT TYPE 6",
+          "ACTIVE_LICS_HTRS": 3,
+          "RAM": 0,
+          "EWE": 3,
+          "LAMB": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 2.3,
+          "HUNTER_DAYS": 7
+        },
+        {
+          "TYPE": "TOTAL ALL",
+          "ACTIVE_LICS_HTRS": 4,
+          "RAM": 1,
+          "EWE": 3,
+          "LAMB": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 1,
+          "DAYS_HARVEST": 10.8,
+          "HUNTER_DAYS": 43
+        }
+      ]
+    }
+  ]
+}

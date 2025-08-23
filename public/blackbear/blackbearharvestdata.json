@@ -1,0 +1,1636 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "NORTHWEST BIGHORN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 97,
+          "SPRING_DAYS": 478,
+          "SPRING_HARVEST": 9,
+          "FALL_HUNTERS": 51,
+          "FALL_DAYS": 224,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 139,
+          "ANNUAL_DAYS": 702,
+          "ANNUAL_HARVEST": 16,
+          "DAYS_HARVEST": 43.9,
+          "HUNTER_SUCCESS": 11.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 9,
+          "SPRING_DAYS": 17,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 3,
+          "FALL_DAYS": 3,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_DAYS": 20,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 10.0,
+          "HUNTER_SUCCESS": 22.2
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 106,
+          "SPRING_DAYS": 495,
+          "SPRING_HARVEST": 10,
+          "FALL_HUNTERS": 54,
+          "FALL_DAYS": 227,
+          "FALL_HARVEST": 8,
+          "ANNUAL_HUNTERS": 148,
+          "ANNUAL_DAYS": 722,
+          "ANNUAL_HARVEST": 18,
+          "DAYS_HARVEST": 40.1,
+          "HUNTER_SUCCESS": 12.2
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "BURGESS JUNCTION",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 105,
+          "SPRING_DAYS": 601,
+          "SPRING_HARVEST": 11,
+          "FALL_HUNTERS": 74,
+          "FALL_DAYS": 347,
+          "FALL_HARVEST": 6,
+          "ANNUAL_HUNTERS": 151,
+          "ANNUAL_DAYS": 948,
+          "ANNUAL_HARVEST": 17,
+          "DAYS_HARVEST": 55.8,
+          "HUNTER_SUCCESS": 11.3
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 11,
+          "SPRING_DAYS": 38,
+          "SPRING_HARVEST": 8,
+          "FALL_HUNTERS": 9,
+          "FALL_DAYS": 44,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 17,
+          "ANNUAL_DAYS": 80,
+          "ANNUAL_HARVEST": 18,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_SUCCESS": 105.9
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 116,
+          "SPRING_DAYS": 637,
+          "SPRING_HARVEST": 19,
+          "FALL_HUNTERS": 83,
+          "FALL_DAYS": 391,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 168,
+          "ANNUAL_DAYS": 1028,
+          "ANNUAL_HARVEST": 35,
+          "DAYS_HARVEST": 29.4,
+          "HUNTER_SUCCESS": 20.8
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "PAINT ROCK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 58,
+          "SPRING_DAYS": 355,
+          "SPRING_HARVEST": 4,
+          "FALL_HUNTERS": 31,
+          "FALL_DAYS": 282,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 81,
+          "ANNUAL_DAYS": 637,
+          "ANNUAL_HARVEST": 8,
+          "DAYS_HARVEST": 79.6,
+          "HUNTER_SUCCESS": 9.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 6,
+          "SPRING_DAYS": 11,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 3,
+          "FALL_DAYS": 6,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 19,
+          "ANNUAL_DAYS": 17,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 8.5,
+          "HUNTER_SUCCESS": 22.2
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 64,
+          "SPRING_DAYS": 366,
+          "SPRING_HARVEST": 6,
+          "FALL_HUNTERS": 34,
+          "FALL_DAYS": 288,
+          "FALL_HARVEST": 4,
+          "ANNUAL_HUNTERS": 93,
+          "ANNUAL_DAYS": 654,
+          "ANNUAL_HARVEST": 10,
+          "DAYS_HARVEST": 65.4,
+          "HUNTER_SUCCESS": 11.1
+        }
+      ]
+    },
+    {
+      "Area": 4,
+      "Name": "STORY",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 151,
+          "SPRING_DAYS": 925,
+          "SPRING_HARVEST": 20,
+          "FALL_HUNTERS": 66,
+          "FALL_DAYS": 343,
+          "FALL_HARVEST": 9,
+          "ANNUAL_HUNTERS": 185,
+          "ANNUAL_DAYS": 1268,
+          "ANNUAL_HARVEST": 29,
+          "DAYS_HARVEST": 43.7,
+          "HUNTER_SUCCESS": 15.7
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 28,
+          "SPRING_DAYS": 134,
+          "SPRING_HARVEST": 5,
+          "FALL_HUNTERS": 28,
+          "FALL_DAYS": 371,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 36,
+          "ANNUAL_DAYS": 505,
+          "ANNUAL_HARVEST": 10,
+          "DAYS_HARVEST": 27.0,
+          "HUNTER_SUCCESS": 16.7
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 179,
+          "SPRING_DAYS": 1059,
+          "SPRING_HARVEST": 25,
+          "FALL_HUNTERS": 94,
+          "FALL_DAYS": 714,
+          "FALL_HARVEST": 10,
+          "ANNUAL_HUNTERS": 221,
+          "ANNUAL_DAYS": 1773,
+          "ANNUAL_HARVEST": 39,
+          "DAYS_HARVEST": 40.9,
+          "HUNTER_SUCCESS": 15.8
+        }
+      ]
+    },
+    {
+      "Area": 5,
+      "Name": "UPPER NORWOOD",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 12,
+          "SPRING_DAYS": 309,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 10,
+          "FALL_DAYS": 182,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 20,
+          "ANNUAL_DAYS": 491,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 491.0,
+          "HUNTER_SUCCESS": 5.0
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 28,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 0,
+          "FALL_DAYS": 0,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 3,
+          "ANNUAL_DAYS": 28,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 15,
+          "SPRING_DAYS": 337,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 16,
+          "FALL_DAYS": 182,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 23,
+          "ANNUAL_DAYS": 519,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 519.0,
+          "HUNTER_SUCCESS": 4.3
+        }
+      ]
+    },
+    {
+      "Area": 6,
+      "Name": "MAYOWORTH",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 16,
+          "SPRING_DAYS": 97,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 10,
+          "FALL_DAYS": 198,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 22,
+          "ANNUAL_DAYS": 295,
+          "ANNUAL_HARVEST": 3,
+          "DAYS_HARVEST": 99.0,
+          "HUNTER_SUCCESS": 8.3
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 9,
+          "SPRING_DAYS": 71,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 6,
+          "FALL_DAYS": 104,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 12,
+          "ANNUAL_DAYS": 175,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 104.0,
+          "HUNTER_SUCCESS": 11.1
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 25,
+          "SPRING_DAYS": 168,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 16,
+          "FALL_DAYS": 302,
+          "FALL_HARVEST": 3,
+          "ANNUAL_HUNTERS": 34,
+          "ANNUAL_DAYS": 477,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 100.7,
+          "HUNTER_SUCCESS": 9.1
+        }
+      ]
+    },
+    {
+      "Area": 7,
+      "Name": "LARAMIE PEAK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 108,
+          "SPRING_DAYS": 840,
+          "SPRING_HARVEST": 18,
+          "FALL_HUNTERS": 98,
+          "FALL_DAYS": 532,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 162,
+          "ANNUAL_DAYS": 1372,
+          "ANNUAL_HARVEST": 33,
+          "DAYS_HARVEST": 41.6,
+          "HUNTER_SUCCESS": 20.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 14,
+          "SPRING_DAYS": 63,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 5,
+          "FALL_DAYS": 36,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 18,
+          "ANNUAL_DAYS": 99,
+          "ANNUAL_HARVEST": 12,
+          "DAYS_HARVEST": 8.2,
+          "HUNTER_SUCCESS": 54.5
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 122,
+          "SPRING_DAYS": 903,
+          "SPRING_HARVEST": 28,
+          "FALL_HUNTERS": 103,
+          "FALL_DAYS": 568,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 184,
+          "ANNUAL_DAYS": 1471,
+          "ANNUAL_HARVEST": 45,
+          "DAYS_HARVEST": 32.7,
+          "HUNTER_SUCCESS": 24.5
+        }
+      ]
+    },
+    {
+      "Area": 8,
+      "Name": "SNOWY RANGE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 301,
+          "SPRING_DAYS": 2531,
+          "SPRING_HARVEST": 26,
+          "FALL_HUNTERS": 278,
+          "FALL_DAYS": 2216,
+          "FALL_HARVEST": 19,
+          "ANNUAL_HUNTERS": 478,
+          "ANNUAL_DAYS": 4747,
+          "ANNUAL_HARVEST": 45,
+          "DAYS_HARVEST": 105.5,
+          "HUNTER_SUCCESS": 9.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 61,
+          "SPRING_DAYS": 296,
+          "SPRING_HARVEST": 7,
+          "FALL_HUNTERS": 55,
+          "FALL_DAYS": 262,
+          "FALL_HARVEST": 8,
+          "ANNUAL_HUNTERS": 101,
+          "ANNUAL_DAYS": 560,
+          "ANNUAL_HARVEST": 15,
+          "DAYS_HARVEST": 37.3,
+          "HUNTER_SUCCESS": 14.9
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 362,
+          "SPRING_DAYS": 2829,
+          "SPRING_HARVEST": 33,
+          "FALL_HUNTERS": 333,
+          "FALL_DAYS": 2478,
+          "FALL_HARVEST": 27,
+          "ANNUAL_HUNTERS": 579,
+          "ANNUAL_DAYS": 5307,
+          "ANNUAL_HARVEST": 60,
+          "DAYS_HARVEST": 88.4,
+          "HUNTER_SUCCESS": 10.4
+        }
+      ]
+    },
+    {
+      "Area": 9,
+      "Name": "SIERRA MADRE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 205,
+          "SPRING_DAYS": 1541,
+          "SPRING_HARVEST": 29,
+          "FALL_HUNTERS": 259,
+          "FALL_DAYS": 2462,
+          "FALL_HARVEST": 24,
+          "ANNUAL_HUNTERS": 405,
+          "ANNUAL_DAYS": 4003,
+          "ANNUAL_HARVEST": 53,
+          "DAYS_HARVEST": 75.5,
+          "HUNTER_SUCCESS": 13.1
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 112,
+          "SPRING_DAYS": 625,
+          "SPRING_HARVEST": 16,
+          "FALL_HUNTERS": 58,
+          "FALL_DAYS": 295,
+          "FALL_HARVEST": 9,
+          "ANNUAL_HUNTERS": 153,
+          "ANNUAL_DAYS": 920,
+          "ANNUAL_HARVEST": 25,
+          "DAYS_HARVEST": 36.8,
+          "HUNTER_SUCCESS": 16.3
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 317,
+          "SPRING_DAYS": 2166,
+          "SPRING_HARVEST": 45,
+          "FALL_HUNTERS": 317,
+          "FALL_DAYS": 2757,
+          "FALL_HARVEST": 33,
+          "ANNUAL_HUNTERS": 558,
+          "ANNUAL_DAYS": 4923,
+          "ANNUAL_HARVEST": 78,
+          "DAYS_HARVEST": 63.1,
+          "HUNTER_SUCCESS": 14.0
+        }
+      ]
+    },
+    {
+      "Area": 10,
+      "Name": "UINTA",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 31,
+          "SPRING_DAYS": 262,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 27,
+          "FALL_DAYS": 289,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 51,
+          "ANNUAL_DAYS": 551,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 275.5,
+          "HUNTER_SUCCESS": 3.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 6,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 6,
+          "FALL_DAYS": 126,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_DAYS": 132,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 132.0,
+          "HUNTER_SUCCESS": 11.1
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 34,
+          "SPRING_DAYS": 268,
+          "SPRING_HARVEST": 3,
+          "FALL_HUNTERS": 33,
+          "FALL_DAYS": 415,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 60,
+          "ANNUAL_DAYS": 683,
+          "ANNUAL_HARVEST": 3,
+          "DAYS_HARVEST": 227.7,
+          "HUNTER_SUCCESS": 5.0
+        }
+      ]
+    },
+    {
+      "Area": 11,
+      "Name": "SMITH'S FORK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 97,
+          "SPRING_DAYS": 578,
+          "SPRING_HARVEST": 7,
+          "FALL_HUNTERS": 143,
+          "FALL_DAYS": 1214,
+          "FALL_HARVEST": 16,
+          "ANNUAL_HUNTERS": 212,
+          "ANNUAL_DAYS": 1792,
+          "ANNUAL_HARVEST": 20,
+          "DAYS_HARVEST": 89.6,
+          "HUNTER_SUCCESS": 9.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 17,
+          "SPRING_DAYS": 99,
+          "SPRING_HARVEST": 7,
+          "FALL_HUNTERS": 36,
+          "FALL_DAYS": 202,
+          "FALL_HARVEST": 10,
+          "ANNUAL_HUNTERS": 41,
+          "ANNUAL_DAYS": 301,
+          "ANNUAL_HARVEST": 10,
+          "DAYS_HARVEST": 30.1,
+          "HUNTER_SUCCESS": 24.4
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 114,
+          "SPRING_DAYS": 677,
+          "SPRING_HARVEST": 14,
+          "FALL_HUNTERS": 179,
+          "FALL_DAYS": 1416,
+          "FALL_HARVEST": 16,
+          "ANNUAL_HUNTERS": 253,
+          "ANNUAL_DAYS": 2093,
+          "ANNUAL_HARVEST": 30,
+          "DAYS_HARVEST": 69.8,
+          "HUNTER_SUCCESS": 11.9
+        }
+      ]
+    },
+    {
+      "Area": 12,
+      "Name": "PINE MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 20,
+          "SPRING_DAYS": 182,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 12,
+          "FALL_DAYS": 100,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 27,
+          "ANNUAL_DAYS": 229,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 114.5,
+          "HUNTER_SUCCESS": 7.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 14,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 6,
+          "FALL_DAYS": 0,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_DAYS": 66,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 23,
+          "SPRING_DAYS": 196,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 18,
+          "FALL_DAYS": 99,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 36,
+          "ANNUAL_DAYS": 295,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 147.5,
+          "HUNTER_SUCCESS": 5.6
+        }
+      ]
+    },
+    {
+      "Area": 13,
+      "Name": "LANDER",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 78,
+          "SPRING_DAYS": 444,
+          "SPRING_HARVEST": 8,
+          "FALL_HUNTERS": 101,
+          "FALL_DAYS": 601,
+          "FALL_HARVEST": 10,
+          "ANNUAL_HUNTERS": 151,
+          "ANNUAL_DAYS": 1045,
+          "ANNUAL_HARVEST": 18,
+          "DAYS_HARVEST": 58.1,
+          "HUNTER_SUCCESS": 11.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 17,
+          "FALL_DAYS": 82,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 17,
+          "ANNUAL_DAYS": 82,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 82.0,
+          "HUNTER_SUCCESS": 5.9
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 78,
+          "SPRING_DAYS": 444,
+          "SPRING_HARVEST": 8,
+          "FALL_HUNTERS": 118,
+          "FALL_DAYS": 683,
+          "FALL_HARVEST": 11,
+          "ANNUAL_HUNTERS": 168,
+          "ANNUAL_DAYS": 1127,
+          "ANNUAL_HARVEST": 19,
+          "DAYS_HARVEST": 59.3,
+          "HUNTER_SUCCESS": 11.3
+        }
+      ]
+    },
+    {
+      "Area": 14,
+      "Name": "SOUTH PINEY",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 58,
+          "SPRING_DAYS": 363,
+          "SPRING_HARVEST": 6,
+          "FALL_HUNTERS": 105,
+          "FALL_DAYS": 663,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 128,
+          "ANNUAL_DAYS": 1026,
+          "ANNUAL_HARVEST": 6,
+          "DAYS_HARVEST": 171.0,
+          "HUNTER_SUCCESS": 4.7
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 9,
+          "SPRING_DAYS": 39,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 3,
+          "FALL_DAYS": 6,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 11,
+          "ANNUAL_DAYS": 45,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 45.0,
+          "HUNTER_SUCCESS": 9.1
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 67,
+          "SPRING_DAYS": 402,
+          "SPRING_HARVEST": 7,
+          "FALL_HUNTERS": 108,
+          "FALL_DAYS": 669,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 139,
+          "ANNUAL_DAYS": 1071,
+          "ANNUAL_HARVEST": 7,
+          "DAYS_HARVEST": 153.0,
+          "HUNTER_SUCCESS": 5.0
+        }
+      ]
+    },
+    {
+      "Area": 15,
+      "Name": "PINEY-HORSE CREEK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 31,
+          "SPRING_DAYS": 243,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 66,
+          "FALL_DAYS": 567,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 89,
+          "ANNUAL_DAYS": 810,
+          "ANNUAL_HARVEST": 3,
+          "DAYS_HARVEST": 270.0,
+          "HUNTER_SUCCESS": 3.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 9,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 6,
+          "FALL_DAYS": 22,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 7,
+          "ANNUAL_DAYS": 37,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 18.5,
+          "HUNTER_SUCCESS": 33.3
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 34,
+          "SPRING_DAYS": 252,
+          "SPRING_HARVEST": 4,
+          "FALL_HUNTERS": 72,
+          "FALL_DAYS": 595,
+          "FALL_HARVEST": 3,
+          "ANNUAL_HUNTERS": 96,
+          "ANNUAL_DAYS": 847,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 169.4,
+          "HUNTER_SUCCESS": 5.3
+        }
+      ]
+    },
+    {
+      "Area": 16,
+      "Name": "GREYS RIVER",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 74,
+          "SPRING_DAYS": 382,
+          "SPRING_HARVEST": 4,
+          "FALL_HUNTERS": 105,
+          "FALL_DAYS": 594,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 143,
+          "ANNUAL_DAYS": 976,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 244.0,
+          "HUNTER_SUCCESS": 2.8
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 31,
+          "SPRING_DAYS": 192,
+          "SPRING_HARVEST": 10,
+          "FALL_HUNTERS": 50,
+          "FALL_DAYS": 342,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 71,
+          "ANNUAL_DAYS": 534,
+          "ANNUAL_HARVEST": 17,
+          "DAYS_HARVEST": 31.4,
+          "HUNTER_SUCCESS": 23.9
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 105,
+          "SPRING_DAYS": 574,
+          "SPRING_HARVEST": 14,
+          "FALL_HUNTERS": 155,
+          "FALL_DAYS": 936,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 214,
+          "ANNUAL_DAYS": 1510,
+          "ANNUAL_HARVEST": 21,
+          "DAYS_HARVEST": 71.9,
+          "HUNTER_SUCCESS": 9.8
+        }
+      ]
+    },
+    {
+      "Area": 17,
+      "Name": "HOBACK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 35,
+          "SPRING_DAYS": 101,
+          "SPRING_HARVEST": 6,
+          "FALL_HUNTERS": 43,
+          "FALL_DAYS": 201,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 78,
+          "ANNUAL_DAYS": 302,
+          "ANNUAL_HARVEST": 8,
+          "DAYS_HARVEST": 37.8,
+          "HUNTER_SUCCESS": 10.3
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 17,
+          "SPRING_DAYS": 101,
+          "SPRING_HARVEST": 5,
+          "FALL_HUNTERS": 9,
+          "FALL_DAYS": 52,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 25,
+          "ANNUAL_DAYS": 153,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 30.6,
+          "HUNTER_SUCCESS": 20.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 52,
+          "SPRING_DAYS": 202,
+          "SPRING_HARVEST": 11,
+          "FALL_HUNTERS": 52,
+          "FALL_DAYS": 253,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 103,
+          "ANNUAL_DAYS": 455,
+          "ANNUAL_HARVEST": 13,
+          "DAYS_HARVEST": 35.0,
+          "HUNTER_SUCCESS": 12.6
+        }
+      ]
+    },
+    {
+      "Area": 18,
+      "Name": "FALL CREEK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 35,
+          "SPRING_DAYS": 158,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 47,
+          "FALL_DAYS": 182,
+          "FALL_HARVEST": 3,
+          "ANNUAL_HUNTERS": 70,
+          "ANNUAL_DAYS": 340,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 85.0,
+          "HUNTER_SUCCESS": 5.7
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 11,
+          "SPRING_DAYS": 66,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 2,
+          "FALL_DAYS": 61,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 25,
+          "ANNUAL_DAYS": 127,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 31.8,
+          "HUNTER_SUCCESS": 16.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 46,
+          "SPRING_DAYS": 224,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 49,
+          "FALL_DAYS": 243,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 85,
+          "ANNUAL_DAYS": 467,
+          "ANNUAL_HARVEST": 8,
+          "DAYS_HARVEST": 58.4,
+          "HUNTER_SUCCESS": 8.4
+        }
+      ]
+    },
+    {
+      "Area": 19,
+      "Name": "GREEN RIVER",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 105,
+          "SPRING_DAYS": 898,
+          "SPRING_HARVEST": 5,
+          "FALL_HUNTERS": 116,
+          "FALL_DAYS": 1283,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 189,
+          "ANNUAL_DAYS": 2181,
+          "ANNUAL_HARVEST": 12,
+          "DAYS_HARVEST": 181.8,
+          "HUNTER_SUCCESS": 6.3
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 28,
+          "SPRING_DAYS": 88,
+          "SPRING_HARVEST": 13,
+          "FALL_HUNTERS": 11,
+          "FALL_DAYS": 69,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 39,
+          "ANNUAL_DAYS": 157,
+          "ANNUAL_HARVEST": 13,
+          "DAYS_HARVEST": 12.1,
+          "HUNTER_SUCCESS": 33.3
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 133,
+          "SPRING_DAYS": 986,
+          "SPRING_HARVEST": 18,
+          "FALL_HUNTERS": 127,
+          "FALL_DAYS": 1352,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 228,
+          "ANNUAL_DAYS": 2338,
+          "ANNUAL_HARVEST": 25,
+          "DAYS_HARVEST": 93.5,
+          "HUNTER_SUCCESS": 11.0
+        }
+      ]
+    },
+    {
+      "Area": 20,
+      "Name": "GROS VENTRE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 74,
+          "SPRING_DAYS": 351,
+          "SPRING_HARVEST": 14,
+          "FALL_HUNTERS": 54,
+          "FALL_DAYS": 301,
+          "FALL_HARVEST": 8,
+          "ANNUAL_HUNTERS": 116,
+          "ANNUAL_DAYS": 652,
+          "ANNUAL_HARVEST": 22,
+          "DAYS_HARVEST": 29.6,
+          "HUNTER_SUCCESS": 19.0
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 14,
+          "SPRING_DAYS": 44,
+          "SPRING_HARVEST": 6,
+          "FALL_HUNTERS": 9,
+          "FALL_DAYS": 47,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 22,
+          "ANNUAL_DAYS": 91,
+          "ANNUAL_HARVEST": 7,
+          "DAYS_HARVEST": 13.0,
+          "HUNTER_SUCCESS": 31.8
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 88,
+          "SPRING_DAYS": 395,
+          "SPRING_HARVEST": 20,
+          "FALL_HUNTERS": 63,
+          "FALL_DAYS": 348,
+          "FALL_HARVEST": 9,
+          "ANNUAL_HUNTERS": 138,
+          "ANNUAL_DAYS": 743,
+          "ANNUAL_HARVEST": 29,
+          "DAYS_HARVEST": 25.6,
+          "HUNTER_SUCCESS": 21.0
+        }
+      ]
+    },
+    {
+      "Area": 21,
+      "Name": "CONANT BASIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 24,
+          "SPRING_DAYS": 135,
+          "SPRING_HARVEST": 7,
+          "FALL_HUNTERS": 27,
+          "FALL_DAYS": 201,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 36,
+          "ANNUAL_DAYS": 336,
+          "ANNUAL_HARVEST": 12,
+          "DAYS_HARVEST": 28.0,
+          "HUNTER_SUCCESS": 25.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 9,
+          "SPRING_DAYS": 52,
+          "SPRING_HARVEST": 4,
+          "FALL_HUNTERS": 9,
+          "FALL_DAYS": 55,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 10,
+          "ANNUAL_DAYS": 107,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 26.8,
+          "HUNTER_SUCCESS": 28.6
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 33,
+          "SPRING_DAYS": 187,
+          "SPRING_HARVEST": 11,
+          "FALL_HUNTERS": 36,
+          "FALL_DAYS": 256,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 44,
+          "ANNUAL_DAYS": 443,
+          "ANNUAL_HARVEST": 16,
+          "DAYS_HARVEST": 27.7,
+          "HUNTER_SUCCESS": 26.2
+        }
+      ]
+    },
+    {
+      "Area": 22,
+      "Name": "PACIFIC CREEK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 12,
+          "SPRING_DAYS": 124,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 15,
+          "FALL_DAYS": 191,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 22,
+          "ANNUAL_DAYS": 282,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 282.0,
+          "HUNTER_SUCCESS": 2.6
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 11,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 3,
+          "FALL_DAYS": 19,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 4,
+          "ANNUAL_DAYS": 44,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": 326.0,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 15,
+          "SPRING_DAYS": 135,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 18,
+          "FALL_DAYS": 210,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 26,
+          "ANNUAL_DAYS": 326,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 326.0,
+          "HUNTER_SUCCESS": 2.1
+        }
+      ]
+    },
+    {
+      "Area": 23,
+      "Name": "RAMSHORN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 12,
+          "SPRING_DAYS": 85,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 13,
+          "FALL_DAYS": 440,
+          "FALL_HARVEST": 3,
+          "ANNUAL_HUNTERS": 22,
+          "ANNUAL_DAYS": 525,
+          "ANNUAL_HARVEST": 2,
+          "DAYS_HARVEST": 262.5,
+          "HUNTER_SUCCESS": 2.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 20,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 7,
+          "FALL_DAYS": 490,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 10,
+          "ANNUAL_DAYS": 70,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 70.0,
+          "HUNTER_SUCCESS": 9.1
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 15,
+          "SPRING_DAYS": 105,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 20,
+          "FALL_DAYS": 930,
+          "FALL_HARVEST": 3,
+          "ANNUAL_HUNTERS": 32,
+          "ANNUAL_DAYS": 595,
+          "ANNUAL_HARVEST": 3,
+          "DAYS_HARVEST": 198.3,
+          "HUNTER_SUCCESS": 3.1
+        }
+      ]
+    },
+    {
+      "Area": 24,
+      "Name": "DARBY CREEK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 4,
+          "SPRING_DAYS": 71,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 1,
+          "FALL_DAYS": 1,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 4,
+          "ANNUAL_DAYS": 72,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 6.4,
+          "HUNTER_SUCCESS": 45.0
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 11,
+          "SPRING_DAYS": 75,
+          "SPRING_HARVEST": 4,
+          "FALL_HUNTERS": 1,
+          "FALL_DAYS": 2,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 11,
+          "ANNUAL_DAYS": 129,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 129.0,
+          "HUNTER_SUCCESS": 9.1
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 15,
+          "SPRING_DAYS": 146,
+          "SPRING_HARVEST": 5,
+          "FALL_HUNTERS": 12,
+          "FALL_DAYS": 129,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 15,
+          "ANNUAL_DAYS": 187,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 18.7,
+          "HUNTER_SUCCESS": 32.3
+        }
+      ]
+    },
+    {
+      "Area": 25,
+      "Name": "NORTH ABSAROKA",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 151,
+          "SPRING_DAYS": 952,
+          "SPRING_HARVEST": 15,
+          "FALL_HUNTERS": 86,
+          "FALL_DAYS": 447,
+          "FALL_HARVEST": 4,
+          "ANNUAL_HUNTERS": 185,
+          "ANNUAL_DAYS": 1399,
+          "ANNUAL_HARVEST": 19,
+          "DAYS_HARVEST": 73.6,
+          "HUNTER_SUCCESS": 10.3
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 9,
+          "SPRING_DAYS": 74,
+          "SPRING_HARVEST": 3,
+          "FALL_HUNTERS": 1,
+          "FALL_DAYS": 3,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 11,
+          "ANNUAL_DAYS": 113,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 28.2,
+          "HUNTER_SUCCESS": 36.4
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 160,
+          "SPRING_DAYS": 1026,
+          "SPRING_HARVEST": 18,
+          "FALL_HUNTERS": 87,
+          "FALL_DAYS": 486,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 196,
+          "ANNUAL_DAYS": 1512,
+          "ANNUAL_HARVEST": 23,
+          "DAYS_HARVEST": 65.7,
+          "HUNTER_SUCCESS": 11.7
+        }
+      ]
+    },
+    {
+      "Area": 26,
+      "Name": "SOUTH ABSAROKA",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 85,
+          "SPRING_DAYS": 397,
+          "SPRING_HARVEST": 4,
+          "FALL_HUNTERS": 50,
+          "FALL_DAYS": 405,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 120,
+          "ANNUAL_DAYS": 902,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 180.4,
+          "HUNTER_SUCCESS": 4.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 14,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 1,
+          "FALL_DAYS": 2,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_DAYS": 34,
+          "ANNUAL_HARVEST": 3,
+          "DAYS_HARVEST": 34.0,
+          "HUNTER_SUCCESS": 16.7
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 88,
+          "SPRING_DAYS": 411,
+          "SPRING_HARVEST": 4,
+          "FALL_HUNTERS": 61,
+          "FALL_DAYS": 525,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 126,
+          "ANNUAL_DAYS": 938,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 156.0,
+          "HUNTER_SUCCESS": 4.8
+        }
+      ]
+    },
+    {
+      "Area": 27,
+      "Name": "GRASS CREEK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 97,
+          "SPRING_DAYS": 598,
+          "SPRING_HARVEST": 3,
+          "FALL_HUNTERS": 74,
+          "FALL_DAYS": 409,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 138,
+          "ANNUAL_DAYS": 1007,
+          "ANNUAL_HARVEST": 8,
+          "DAYS_HARVEST": 125.9,
+          "HUNTER_SUCCESS": 5.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 3,
+          "FALL_DAYS": 11,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 3,
+          "ANNUAL_DAYS": 11,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": 127.2,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 97,
+          "SPRING_DAYS": 598,
+          "SPRING_HARVEST": 3,
+          "FALL_HUNTERS": 77,
+          "FALL_DAYS": 420,
+          "FALL_HARVEST": 5,
+          "ANNUAL_HUNTERS": 141,
+          "ANNUAL_DAYS": 1018,
+          "ANNUAL_HARVEST": 8,
+          "DAYS_HARVEST": 127.2,
+          "HUNTER_SUCCESS": 5.8
+        }
+      ]
+    },
+    {
+      "Area": 28,
+      "Name": "WIND RIVER",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 4,
+          "SPRING_DAYS": 8,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 31,
+          "FALL_DAYS": 363,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 37,
+          "ANNUAL_DAYS": 420,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 107.0,
+          "HUNTER_SUCCESS": 11.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 2,
+          "FALL_DAYS": 47,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 2,
+          "ANNUAL_DAYS": 52,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": 120.0,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 4,
+          "SPRING_DAYS": 8,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 33,
+          "FALL_DAYS": 420,
+          "FALL_HARVEST": 2,
+          "ANNUAL_HUNTERS": 39,
+          "ANNUAL_DAYS": 480,
+          "ANNUAL_HARVEST": 4,
+          "DAYS_HARVEST": 120.0,
+          "HUNTER_SUCCESS": 9.8
+        }
+      ]
+    },
+    {
+      "Area": 29,
+      "Name": "SPREAD CREEK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 24,
+          "SPRING_DAYS": 170,
+          "SPRING_HARVEST": 3,
+          "FALL_HUNTERS": 39,
+          "FALL_DAYS": 209,
+          "FALL_HARVEST": 3,
+          "ANNUAL_HUNTERS": 49,
+          "ANNUAL_DAYS": 379,
+          "ANNUAL_HARVEST": 6,
+          "DAYS_HARVEST": 63.2,
+          "HUNTER_SUCCESS": 11.1
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 6,
+          "FALL_DAYS": 6,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_DAYS": 6,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": 64.2,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 24,
+          "SPRING_DAYS": 170,
+          "SPRING_HARVEST": 3,
+          "FALL_HUNTERS": 45,
+          "FALL_DAYS": 215,
+          "FALL_HARVEST": 3,
+          "ANNUAL_HUNTERS": 55,
+          "ANNUAL_DAYS": 385,
+          "ANNUAL_HARVEST": 6,
+          "DAYS_HARVEST": 64.2,
+          "HUNTER_SUCCESS": 10.5
+        }
+      ]
+    },
+    {
+      "Area": 30,
+      "Name": "STAR VALLEY",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 147,
+          "SPRING_DAYS": 1044,
+          "SPRING_HARVEST": 7,
+          "FALL_HUNTERS": 147,
+          "FALL_DAYS": 1002,
+          "FALL_HARVEST": 4,
+          "ANNUAL_HUNTERS": 220,
+          "ANNUAL_DAYS": 2046,
+          "ANNUAL_HARVEST": 11,
+          "DAYS_HARVEST": 186.0,
+          "HUNTER_SUCCESS": 5.0
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 11,
+          "SPRING_DAYS": 28,
+          "SPRING_HARVEST": 7,
+          "FALL_HUNTERS": 14,
+          "FALL_DAYS": 44,
+          "FALL_HARVEST": 8,
+          "ANNUAL_HUNTERS": 12,
+          "ANNUAL_DAYS": 72,
+          "ANNUAL_HARVEST": 12,
+          "DAYS_HARVEST": 6.0,
+          "HUNTER_SUCCESS": 54.5
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 158,
+          "SPRING_DAYS": 1072,
+          "SPRING_HARVEST": 14,
+          "FALL_HUNTERS": 161,
+          "FALL_DAYS": 1046,
+          "FALL_HARVEST": 12,
+          "ANNUAL_HUNTERS": 232,
+          "ANNUAL_DAYS": 2118,
+          "ANNUAL_HARVEST": 23,
+          "DAYS_HARVEST": 92.1,
+          "HUNTER_SUCCESS": 9.5
+        }
+      ]
+    },
+    {
+      "Area": 31,
+      "Name": "CROWHEART BUTTE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 8,
+          "FALL_DAYS": 62,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 8,
+          "ANNUAL_DAYS": 62,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 62.0,
+          "HUNTER_SUCCESS": 12.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 0,
+          "FALL_DAYS": 0,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 0,
+          "ANNUAL_DAYS": 0,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 8,
+          "FALL_DAYS": 62,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 8,
+          "ANNUAL_DAYS": 62,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 62.0,
+          "HUNTER_SUCCESS": 12.5
+        }
+      ]
+    },
+    {
+      "Area": 32,
+      "Name": "CODY",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 12,
+          "SPRING_DAYS": 105,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 20,
+          "FALL_DAYS": 190,
+          "FALL_HARVEST": 4,
+          "ANNUAL_HUNTERS": 35,
+          "ANNUAL_DAYS": 295,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 40.8,
+          "HUNTER_SUCCESS": 18.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 0,
+          "SPRING_DAYS": 0,
+          "SPRING_HARVEST": 0,
+          "FALL_HUNTERS": 0,
+          "FALL_DAYS": 0,
+          "FALL_HARVEST": 0,
+          "ANNUAL_HUNTERS": 0,
+          "ANNUAL_DAYS": 0,
+          "ANNUAL_HARVEST": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 12,
+          "SPRING_DAYS": 105,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 20,
+          "FALL_DAYS": 190,
+          "FALL_HARVEST": 4,
+          "ANNUAL_HUNTERS": 35,
+          "ANNUAL_DAYS": 295,
+          "ANNUAL_HARVEST": 5,
+          "DAYS_HARVEST": 40.8,
+          "HUNTER_SUCCESS": 18.5
+        }
+      ]
+    },
+    {
+      "Area": 33,
+      "Name": "CASPER MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 24,
+          "SPRING_DAYS": 131,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 27,
+          "FALL_DAYS": 187,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 33,
+          "ANNUAL_DAYS": 356,
+          "ANNUAL_HARVEST": 8,
+          "DAYS_HARVEST": 24.6,
+          "HUNTER_SUCCESS": 22.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 17,
+          "SPRING_HARVEST": 1,
+          "FALL_HUNTERS": 3,
+          "FALL_DAYS": 10,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 7,
+          "ANNUAL_DAYS": 20,
+          "ANNUAL_HARVEST": 1,
+          "DAYS_HARVEST": 20.0,
+          "HUNTER_SUCCESS": 16.7
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 27,
+          "SPRING_DAYS": 148,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 30,
+          "FALL_DAYS": 197,
+          "FALL_HARVEST": 8,
+          "ANNUAL_HUNTERS": 40,
+          "ANNUAL_DAYS": 376,
+          "ANNUAL_HARVEST": 9,
+          "DAYS_HARVEST": 24.1,
+          "HUNTER_SUCCESS": 22.0
+        }
+      ]
+    },
+    {
+      "Area": 35,
+      "Name": "THE REST OF THE STATE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "SPRING_HUNTERS": 93,
+          "SPRING_DAYS": 636,
+          "SPRING_HARVEST": 11,
+          "FALL_HUNTERS": 81,
+          "FALL_DAYS": 921,
+          "FALL_HARVEST": 6,
+          "ANNUAL_HUNTERS": 143,
+          "ANNUAL_DAYS": 1557,
+          "ANNUAL_HARVEST": 17,
+          "DAYS_HARVEST": 91.6,
+          "HUNTER_SUCCESS": 11.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "SPRING_HUNTERS": 3,
+          "SPRING_DAYS": 6,
+          "SPRING_HARVEST": 2,
+          "FALL_HUNTERS": 9,
+          "FALL_DAYS": 20,
+          "FALL_HARVEST": 1,
+          "ANNUAL_HUNTERS": 11,
+          "ANNUAL_DAYS": 26,
+          "ANNUAL_HARVEST": 3,
+          "DAYS_HARVEST": 8.7,
+          "HUNTER_SUCCESS": 27.3
+        },
+        {
+          "TYPE": "TOTAL",
+          "SPRING_HUNTERS": 96,
+          "SPRING_DAYS": 642,
+          "SPRING_HARVEST": 13,
+          "FALL_HUNTERS": 90,
+          "FALL_DAYS": 941,
+          "FALL_HARVEST": 7,
+          "ANNUAL_HUNTERS": 154,
+          "ANNUAL_DAYS": 1583,
+          "ANNUAL_HARVEST": 20,
+          "DAYS_HARVEST": 79.2,
+          "HUNTER_SUCCESS": 13.0
+        }
+      ]
+    }
+  ]
+}

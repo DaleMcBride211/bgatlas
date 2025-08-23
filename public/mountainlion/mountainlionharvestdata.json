@@ -1,0 +1,708 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "BEAR LODGE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 108,
+          "ANNUAL_HARVEST": 18,
+          "ANNUAL_DAYS": 754,
+          "DAYS_HARVEST": 41.9,
+          "HUNTER_SUCCESS": 16.7
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 23,
+          "ANNUAL_HARVEST": 4,
+          "ANNUAL_DAYS": 106,
+          "DAYS_HARVEST": 26.5,
+          "HUNTER_SUCCESS": 17.4
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "TETON",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 18,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 659,
+          "DAYS_HARVEST": 659.0,
+          "HUNTER_SUCCESS": 5.6
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_HARVEST": 0,
+          "ANNUAL_DAYS": 21,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "BRIDGER",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 18,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 117,
+          "DAYS_HARVEST": 117.0,
+          "HUNTER_SUCCESS": 5.6
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_HARVEST": 6,
+          "ANNUAL_DAYS": 53,
+          "DAYS_HARVEST": 8.8,
+          "HUNTER_SUCCESS": 66.7
+        }
+      ]
+    },
+    {
+      "Area": 4,
+      "Name": "POPO AGIE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 31,
+          "DAYS_HARVEST": 31.0,
+          "HUNTER_SUCCESS": 11.1
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 30,
+          "DAYS_HARVEST": 30.0,
+          "HUNTER_SUCCESS": 16.7
+        }
+      ]
+    },
+    {
+      "Area": 5,
+      "Name": "IRON MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 87,
+          "ANNUAL_HARVEST": 6,
+          "ANNUAL_DAYS": 475,
+          "DAYS_HARVEST": 79.2,
+          "HUNTER_SUCCESS": 6.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_HARVEST": 3,
+          "ANNUAL_DAYS": 44,
+          "DAYS_HARVEST": 14.7,
+          "HUNTER_SUCCESS": 33.3
+        }
+      ]
+    },
+    {
+      "Area": 6,
+      "Name": "LARAMIE PEAK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 87,
+          "ANNUAL_HARVEST": 15,
+          "ANNUAL_DAYS": 854,
+          "DAYS_HARVEST": 56.9,
+          "HUNTER_SUCCESS": 17.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 12,
+          "ANNUAL_HARVEST": 3,
+          "ANNUAL_DAYS": 90,
+          "DAYS_HARVEST": 30.0,
+          "HUNTER_SUCCESS": 25.0
+        }
+      ]
+    },
+    {
+      "Area": 7,
+      "Name": "SOUTH SNOWY RANGE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 69,
+          "ANNUAL_HARVEST": 8,
+          "ANNUAL_DAYS": 1310,
+          "DAYS_HARVEST": 163.8,
+          "HUNTER_SUCCESS": 11.6
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 6,
+          "ANNUAL_DAYS": 23,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_SUCCESS": 100.0
+        }
+      ]
+    },
+    {
+      "Area": 8,
+      "Name": "SEMINOE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 100,
+          "ANNUAL_HARVEST": 8,
+          "ANNUAL_DAYS": 1177,
+          "DAYS_HARVEST": 147.1,
+          "HUNTER_SUCCESS": 8.0
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_HARVEST": 2,
+          "ANNUAL_DAYS": 18,
+          "DAYS_HARVEST": 9.0,
+          "HUNTER_SUCCESS": 22.2
+        }
+      ]
+    },
+    {
+      "Area": 9,
+      "Name": "SIERRA MADRE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 74,
+          "ANNUAL_HARVEST": 8,
+          "ANNUAL_DAYS": 1482,
+          "DAYS_HARVEST": 185.2,
+          "HUNTER_SUCCESS": 10.8
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 4,
+          "ANNUAL_DAYS": 18,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_SUCCESS": 66.7
+        }
+      ]
+    },
+    {
+      "Area": 10,
+      "Name": "HAYSTACKS",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 35,
+          "ANNUAL_HARVEST": 4,
+          "ANNUAL_DAYS": 143,
+          "DAYS_HARVEST": 35.8,
+          "HUNTER_SUCCESS": 11.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 3,
+          "ANNUAL_HARVEST": 5,
+          "ANNUAL_DAYS": 12,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_SUCCESS": 166.7
+        }
+      ]
+    },
+    {
+      "Area": 11,
+      "Name": "RED DESERT",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 22,
+          "ANNUAL_HARVEST": 3,
+          "ANNUAL_DAYS": 95,
+          "DAYS_HARVEST": 31.7,
+          "HUNTER_SUCCESS": 13.6
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 15,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 44,
+          "DAYS_HARVEST": 44.0,
+          "HUNTER_SUCCESS": 6.7
+        }
+      ]
+    },
+    {
+      "Area": 12,
+      "Name": "FLAMING GORGE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 26,
+          "ANNUAL_HARVEST": 5,
+          "ANNUAL_DAYS": 195,
+          "DAYS_HARVEST": 39.0,
+          "HUNTER_SUCCESS": 19.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 15,
+          "ANNUAL_HARVEST": 2,
+          "ANNUAL_DAYS": 78,
+          "DAYS_HARVEST": 39.0,
+          "HUNTER_SUCCESS": 13.3
+        }
+      ]
+    },
+    {
+      "Area": 13,
+      "Name": "WASATCH",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 22,
+          "ANNUAL_HARVEST": 5,
+          "ANNUAL_DAYS": 453,
+          "DAYS_HARVEST": 90.6,
+          "HUNTER_SUCCESS": 22.7
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_HARVEST": 0,
+          "ANNUAL_DAYS": 18,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        }
+      ]
+    },
+    {
+      "Area": 14,
+      "Name": "LINCOLN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 74,
+          "ANNUAL_HARVEST": 12,
+          "ANNUAL_DAYS": 638,
+          "DAYS_HARVEST": 53.2,
+          "HUNTER_SUCCESS": 16.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 23,
+          "ANNUAL_HARVEST": 12,
+          "ANNUAL_DAYS": 67,
+          "DAYS_HARVEST": 5.6,
+          "HUNTER_SUCCESS": 52.2
+        }
+      ]
+    },
+    {
+      "Area": 15,
+      "Name": "KAYCEE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 74,
+          "ANNUAL_HARVEST": 15,
+          "ANNUAL_DAYS": 604,
+          "DAYS_HARVEST": 40.3,
+          "HUNTER_SUCCESS": 20.3
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 3,
+          "ANNUAL_DAYS": 58,
+          "DAYS_HARVEST": 19.3,
+          "HUNTER_SUCCESS": 50.0
+        }
+      ]
+    },
+    {
+      "Area": 16,
+      "Name": "GAS HILLS",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 48,
+          "ANNUAL_HARVEST": 3,
+          "ANNUAL_DAYS": 250,
+          "DAYS_HARVEST": 83.3,
+          "HUNTER_SUCCESS": 6.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 3,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 15,
+          "DAYS_HARVEST": 15.0,
+          "HUNTER_SUCCESS": 33.3
+        }
+      ]
+    },
+    {
+      "Area": 17,
+      "Name": "PINEY",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 35,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 229,
+          "DAYS_HARVEST": 229.0,
+          "HUNTER_SUCCESS": 2.9
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 7,
+          "ANNUAL_DAYS": 15,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_SUCCESS": 116.7
+        }
+      ]
+    },
+    {
+      "Area": 18,
+      "Name": "WIND RIVER",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 18,
+          "ANNUAL_HARVEST": 4,
+          "ANNUAL_DAYS": 134,
+          "DAYS_HARVEST": 33.5,
+          "HUNTER_SUCCESS": 22.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 21,
+          "DAYS_HARVEST": 21.0,
+          "HUNTER_SUCCESS": 16.7
+        }
+      ]
+    },
+    {
+      "Area": 19,
+      "Name": "NORTHWEST",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 95,
+          "ANNUAL_HARVEST": 11,
+          "ANNUAL_DAYS": 2016,
+          "DAYS_HARVEST": 183.3,
+          "HUNTER_SUCCESS": 11.6
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 7,
+          "ANNUAL_DAYS": 36,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_SUCCESS": 116.7
+        }
+      ]
+    },
+    {
+      "Area": 20,
+      "Name": "OWL CREEK/ BIGHORN BASIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 44,
+          "ANNUAL_HARVEST": 6,
+          "ANNUAL_DAYS": 393,
+          "DAYS_HARVEST": 65.5,
+          "HUNTER_SUCCESS": 13.6
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 15,
+          "ANNUAL_HARVEST": 5,
+          "ANNUAL_DAYS": 30,
+          "DAYS_HARVEST": 6.0,
+          "HUNTER_SUCCESS": 33.3
+        }
+      ]
+    },
+    {
+      "Area": 21,
+      "Name": "SHELL",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 56,
+          "ANNUAL_HARVEST": 7,
+          "ANNUAL_DAYS": 388,
+          "DAYS_HARVEST": 55.4,
+          "HUNTER_SUCCESS": 12.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 38,
+          "ANNUAL_HARVEST": 14,
+          "ANNUAL_DAYS": 198,
+          "DAYS_HARVEST": 14.1,
+          "HUNTER_SUCCESS": 36.8
+        }
+      ]
+    },
+    {
+      "Area": 22,
+      "Name": "TEN SLEEP",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 74,
+          "ANNUAL_HARVEST": 10,
+          "ANNUAL_DAYS": 673,
+          "DAYS_HARVEST": 67.3,
+          "HUNTER_SUCCESS": 13.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 26,
+          "ANNUAL_HARVEST": 7,
+          "ANNUAL_DAYS": 153,
+          "DAYS_HARVEST": 21.9,
+          "HUNTER_SUCCESS": 26.9
+        }
+      ]
+    },
+    {
+      "Area": 23,
+      "Name": "SHERIDAN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 78,
+          "ANNUAL_HARVEST": 9,
+          "ANNUAL_DAYS": 600,
+          "DAYS_HARVEST": 66.7,
+          "HUNTER_SUCCESS": 11.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 26,
+          "ANNUAL_HARVEST": 9,
+          "ANNUAL_DAYS": 84,
+          "DAYS_HARVEST": 9.3,
+          "HUNTER_SUCCESS": 34.6
+        }
+      ]
+    },
+    {
+      "Area": 24,
+      "Name": "ROCHELLE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 52,
+          "ANNUAL_HARVEST": 7,
+          "ANNUAL_DAYS": 712,
+          "DAYS_HARVEST": 101.7,
+          "HUNTER_SUCCESS": 13.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 2,
+          "ANNUAL_DAYS": 12,
+          "DAYS_HARVEST": 6.0,
+          "HUNTER_SUCCESS": 33.3
+        }
+      ]
+    },
+    {
+      "Area": 25,
+      "Name": "HARTVILLE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 35,
+          "ANNUAL_HARVEST": 4,
+          "ANNUAL_DAYS": 341,
+          "DAYS_HARVEST": 85.2,
+          "HUNTER_SUCCESS": 11.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 0,
+          "ANNUAL_HARVEST": 0,
+          "ANNUAL_DAYS": 0,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        }
+      ]
+    },
+    {
+      "Area": 26,
+      "Name": "GREYS RIVER",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 69,
+          "ANNUAL_HARVEST": 16,
+          "ANNUAL_DAYS": 771,
+          "DAYS_HARVEST": 48.2,
+          "HUNTER_SUCCESS": 23.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 3,
+          "ANNUAL_HARVEST": 7,
+          "ANNUAL_DAYS": 12,
+          "DAYS_HARVEST": 1.7,
+          "HUNTER_SUCCESS": 233.3
+        }
+      ]
+    },
+    {
+      "Area": 27,
+      "Name": "CASPER MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 22,
+          "ANNUAL_HARVEST": 6,
+          "ANNUAL_DAYS": 242,
+          "DAYS_HARVEST": 40.3,
+          "HUNTER_SUCCESS": 27.3
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 0,
+          "ANNUAL_HARVEST": 1,
+          "ANNUAL_DAYS": 0,
+          "DAYS_HARVEST": 0.0,
+          "HUNTER_SUCCESS": 0.0
+        }
+      ]
+    },
+    {
+      "Area": 28,
+      "Name": "CROWHEART BUTTE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 18,
+          "ANNUAL_HARVEST": 2,
+          "ANNUAL_DAYS": 78,
+          "DAYS_HARVEST": 39.0,
+          "HUNTER_SUCCESS": 11.1
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 0,
+          "ANNUAL_DAYS": 21,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        }
+      ]
+    },
+    {
+      "Area": 29,
+      "Name": "HOBACK",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 65,
+          "ANNUAL_HARVEST": 6,
+          "ANNUAL_DAYS": 755,
+          "DAYS_HARVEST": 125.8,
+          "HUNTER_SUCCESS": 9.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 0,
+          "ANNUAL_HARVEST": 3,
+          "ANNUAL_DAYS": 0,
+          "DAYS_HARVEST": 0.0,
+          "HUNTER_SUCCESS": 0.0
+        }
+      ]
+    },
+    {
+      "Area": 30,
+      "Name": "NEWCASTLE",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 35,
+          "ANNUAL_HARVEST": 4,
+          "ANNUAL_DAYS": 345,
+          "DAYS_HARVEST": 86.2,
+          "HUNTER_SUCCESS": 11.4
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 9,
+          "ANNUAL_HARVEST": 0,
+          "ANNUAL_DAYS": 33,
+          "DAYS_HARVEST": null,
+          "HUNTER_SUCCESS": 0.0
+        }
+      ]
+    },
+    {
+      "Area": 31,
+      "Name": "ELK MOUNTAIN",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 26,
+          "ANNUAL_HARVEST": 3,
+          "ANNUAL_DAYS": 255,
+          "DAYS_HARVEST": 85.0,
+          "HUNTER_SUCCESS": 11.5
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 6,
+          "ANNUAL_HARVEST": 2,
+          "ANNUAL_DAYS": 18,
+          "DAYS_HARVEST": 9.0,
+          "HUNTER_SUCCESS": 33.3
+        }
+      ]
+    },
+    {
+      "Area": 32,
+      "Name": "HULETT",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ANNUAL_HUNTERS": 69,
+          "ANNUAL_HARVEST": 16,
+          "ANNUAL_DAYS": 771,
+          "DAYS_HARVEST": 48.2,
+          "HUNTER_SUCCESS": 23.2
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ANNUAL_HUNTERS": 66,
+          "ANNUAL_HARVEST": 4,
+          "ANNUAL_DAYS": 439,
+          "DAYS_HARVEST": 109.8,
+          "HUNTER_SUCCESS": 6.1
+        }
+      ]
+    }
+  ]
+}

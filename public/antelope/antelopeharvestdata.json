@@ -1,0 +1,5917 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "Crook",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 272,
+          "BUCK": 227,
+          "DOE": 13,
+          "FAWN": 3,
+          "TOTAL": 243,
+          "HUNTER_SUCCESS": 89.3,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 1029
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 68,
+          "BUCK": 0,
+          "DOE": 53,
+          "FAWN": 0,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 77.9,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 244
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 313,
+          "BUCK": 227,
+          "DOE": 66,
+          "FAWN": 3,
+          "TOTAL": 296,
+          "HUNTER_SUCCESS": 94.6,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 1273
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 121,
+          "BUCK": 67,
+          "DOE": 51,
+          "FAWN": 0,
+          "TOTAL": 118,
+          "HUNTER_SUCCESS": 97.5,
+          "DAYS_HARVEST": 5.9,
+          "HUNTER_DAYS": 693
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 192,
+          "BUCK": 160,
+          "DOE": 15,
+          "FAWN": 3,
+          "TOTAL": 178,
+          "HUNTER_SUCCESS": 92.7,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 580
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "Bearlodge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 115,
+          "BUCK": 83,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 88,
+          "HUNTER_SUCCESS": 76.5,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 354
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 116,
+          "BUCK": 83,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 88,
+          "HUNTER_SUCCESS": 75.9,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 354
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 33,
+          "BUCK": 12,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 36.4,
+          "DAYS_HARVEST": 9.8,
+          "HUNTER_DAYS": 118
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 83,
+          "BUCK": 71,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 76,
+          "HUNTER_SUCCESS": 91.6,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 236
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "Keyhole",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 214,
+          "BUCK": 176,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 176,
+          "HUNTER_SUCCESS": 82.2,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 675
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 0,
+          "DOE": 16,
+          "FAWN": null,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 72.7,
+          "DAYS_HARVEST": 6.2,
+          "HUNTER_DAYS": 99
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 231,
+          "BUCK": 176,
+          "DOE": 16,
+          "FAWN": 0,
+          "TOTAL": 192,
+          "HUNTER_SUCCESS": 83.1,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 774
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 90,
+          "BUCK": 51,
+          "DOE": 11,
+          "FAWN": 0,
+          "TOTAL": 62,
+          "HUNTER_SUCCESS": 68.9,
+          "DAYS_HARVEST": 7.3,
+          "HUNTER_DAYS": 451
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 141,
+          "BUCK": 125,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 130,
+          "HUNTER_SUCCESS": 92.2,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 323
+        }
+      ]
+    },
+    {
+      "Area": 4,
+      "Name": "Arch Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 85,
+          "BUCK": 59,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 63,
+          "HUNTER_SUCCESS": 74.1,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 198
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 85,
+          "BUCK": 59,
+          "DOE": 0,
+          "FAWN": 4,
+          "TOTAL": 63,
+          "HUNTER_SUCCESS": 74.1,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 198
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 65,
+          "BUCK": 39,
+          "DOE": 0,
+          "FAWN": 4,
+          "TOTAL": 43,
+          "HUNTER_SUCCESS": 66.2,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 173
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 20,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.2,
+          "HUNTER_DAYS": 25
+        }
+      ]
+    },
+    {
+      "Area": 5,
+      "Name": "Inyan Kara",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 107,
+          "BUCK": 82,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 82,
+          "HUNTER_SUCCESS": 76.6,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 342
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 108,
+          "BUCK": 82,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 82,
+          "HUNTER_SUCCESS": 75.9,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 342
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 81,
+          "BUCK": 58,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 58,
+          "HUNTER_SUCCESS": 71.6,
+          "DAYS_HARVEST": 4.9,
+          "HUNTER_DAYS": 284
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 27,
+          "BUCK": 24,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 24,
+          "HUNTER_SUCCESS": 88.9,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 58
+        }
+      ]
+    },
+    {
+      "Area": 6,
+      "Name": "South Newcastle",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 114,
+          "BUCK": 92,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 99,
+          "HUNTER_SUCCESS": 86.8,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 388
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 114,
+          "BUCK": 92,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 99,
+          "HUNTER_SUCCESS": 86.8,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 388
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 84,
+          "BUCK": 62,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 69,
+          "HUNTER_SUCCESS": 82.1,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 327
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 30,
+          "BUCK": 30,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 61
+        }
+      ]
+    },
+    {
+      "Area": 7,
+      "Name": "South Upton",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 314,
+          "BUCK": 273,
+          "DOE": 14,
+          "FAWN": 0,
+          "TOTAL": 287,
+          "HUNTER_SUCCESS": 91.4,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 867
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 314,
+          "BUCK": 273,
+          "DOE": 14,
+          "FAWN": 0,
+          "TOTAL": 287,
+          "HUNTER_SUCCESS": 91.4,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 867
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 247,
+          "BUCK": 206,
+          "DOE": 14,
+          "FAWN": 0,
+          "TOTAL": 220,
+          "HUNTER_SUCCESS": 89.1,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 728
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 67,
+          "BUCK": 67,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 67,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 139
+        }
+      ]
+    },
+    {
+      "Area": 8,
+      "Name": "Niobrara",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 215,
+          "BUCK": 196,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 201,
+          "HUNTER_SUCCESS": 93.5,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 602
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 215,
+          "BUCK": 196,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 201,
+          "HUNTER_SUCCESS": 93.5,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 602
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 59,
+          "BUCK": 49,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 49,
+          "HUNTER_SUCCESS": 83.1,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 202
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 156,
+          "BUCK": 147,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 152,
+          "HUNTER_SUCCESS": 97.4,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 400
+        }
+      ]
+    },
+    {
+      "Area": 9,
+      "Name": "Lance Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 270,
+          "BUCK": 217,
+          "DOE": 13,
+          "FAWN": 0,
+          "TOTAL": 230,
+          "HUNTER_SUCCESS": 85.2,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 820
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 269,
+          "BUCK": 217,
+          "DOE": 13,
+          "FAWN": 0,
+          "TOTAL": 230,
+          "HUNTER_SUCCESS": 85.5,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 820
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 173,
+          "BUCK": 123,
+          "DOE": 11,
+          "FAWN": 0,
+          "TOTAL": 134,
+          "HUNTER_SUCCESS": 77.5,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 571
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 96,
+          "BUCK": 94,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 96,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 249
+        }
+      ]
+    },
+    {
+      "Area": 10,
+      "Name": "Lake De Smet",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 110,
+          "BUCK": 105,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 105,
+          "HUNTER_SUCCESS": 95.5,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 420
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 119,
+          "BUCK": 0,
+          "DOE": 76,
+          "FAWN": 9,
+          "TOTAL": 85,
+          "HUNTER_SUCCESS": 71.4,
+          "DAYS_HARVEST": 4.8,
+          "HUNTER_DAYS": 412
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 198,
+          "BUCK": 105,
+          "DOE": 76,
+          "FAWN": 9,
+          "TOTAL": 190,
+          "HUNTER_SUCCESS": 96.0,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 832
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 60,
+          "BUCK": 40,
+          "DOE": 14,
+          "FAWN": 0,
+          "TOTAL": 54,
+          "HUNTER_SUCCESS": 90.0,
+          "DAYS_HARVEST": 6.0,
+          "HUNTER_DAYS": 323
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 138,
+          "BUCK": 65,
+          "DOE": 62,
+          "FAWN": 9,
+          "TOTAL": 136,
+          "HUNTER_SUCCESS": 98.6,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 509
+        }
+      ]
+    },
+    {
+      "Area": 11,
+      "Name": "Rawhide Butte",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 423,
+          "BUCK": 275,
+          "DOE": 30,
+          "FAWN": 0,
+          "TOTAL": 305,
+          "HUNTER_SUCCESS": 72.1,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 1428
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 45,
+          "BUCK": 0,
+          "DOE": 34,
+          "FAWN": 2,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 80.0,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 109
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 460,
+          "BUCK": 275,
+          "DOE": 64,
+          "FAWN": 2,
+          "TOTAL": 341,
+          "HUNTER_SUCCESS": 74.1,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 1537
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 353,
+          "BUCK": 193,
+          "DOE": 59,
+          "FAWN": 2,
+          "TOTAL": 254,
+          "HUNTER_SUCCESS": 72.0,
+          "DAYS_HARVEST": 5.2,
+          "HUNTER_DAYS": 1330
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 107,
+          "BUCK": 82,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 87,
+          "HUNTER_SUCCESS": 81.3,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 207
+        }
+      ]
+    },
+    {
+      "Area": 15,
+      "Name": "Clearmont",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 291,
+          "BUCK": 195,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 201,
+          "HUNTER_SUCCESS": 69.1,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 953
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 118,
+          "BUCK": 0,
+          "DOE": 47,
+          "FAWN": 15,
+          "TOTAL": 62,
+          "HUNTER_SUCCESS": 52.5,
+          "DAYS_HARVEST": 7.4,
+          "HUNTER_DAYS": 457
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 392,
+          "BUCK": 195,
+          "DOE": 53,
+          "FAWN": 15,
+          "TOTAL": 263,
+          "HUNTER_SUCCESS": 67.1,
+          "DAYS_HARVEST": 5.4,
+          "HUNTER_DAYS": 1410
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 189,
+          "BUCK": 62,
+          "DOE": 13,
+          "FAWN": 6,
+          "TOTAL": 81,
+          "HUNTER_SUCCESS": 42.9,
+          "DAYS_HARVEST": 8.4,
+          "HUNTER_DAYS": 683
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 203,
+          "BUCK": 133,
+          "DOE": 40,
+          "FAWN": 9,
+          "TOTAL": 182,
+          "HUNTER_SUCCESS": 89.7,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 727
+        }
+      ]
+    },
+    {
+      "Area": 16,
+      "Name": "Ucross",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 183,
+          "BUCK": 126,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 132,
+          "HUNTER_SUCCESS": 72.1,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 534
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 44,
+          "BUCK": 0,
+          "DOE": 30,
+          "FAWN": 2,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 72.7,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 119
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 211,
+          "BUCK": 126,
+          "DOE": 36,
+          "FAWN": 2,
+          "TOTAL": 164,
+          "HUNTER_SUCCESS": 77.7,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 653
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 133,
+          "BUCK": 62,
+          "DOE": 27,
+          "FAWN": 0,
+          "TOTAL": 89,
+          "HUNTER_SUCCESS": 66.9,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 406
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 78,
+          "BUCK": 64,
+          "DOE": 9,
+          "FAWN": 2,
+          "TOTAL": 75,
+          "HUNTER_SUCCESS": 96.2,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 247
+        }
+      ]
+    },
+    {
+      "Area": 17,
+      "Name": "Gillette",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 453,
+          "BUCK": 326,
+          "DOE": 29,
+          "FAWN": 0,
+          "TOTAL": 355,
+          "HUNTER_SUCCESS": 78.4,
+          "DAYS_HARVEST": 5.4,
+          "HUNTER_DAYS": 1929
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 0,
+          "DOE": 12,
+          "FAWN": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 60.0,
+          "DAYS_HARVEST": 6.7,
+          "HUNTER_DAYS": 80
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 471,
+          "BUCK": 326,
+          "DOE": 41,
+          "FAWN": 0,
+          "TOTAL": 367,
+          "HUNTER_SUCCESS": 77.9,
+          "DAYS_HARVEST": 5.5,
+          "HUNTER_DAYS": 2009
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 364,
+          "BUCK": 240,
+          "DOE": 29,
+          "FAWN": 0,
+          "TOTAL": 269,
+          "HUNTER_SUCCESS": 73.9,
+          "DAYS_HARVEST": 6.2,
+          "HUNTER_DAYS": 1661
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 107,
+          "BUCK": 86,
+          "DOE": 12,
+          "FAWN": 0,
+          "TOTAL": 98,
+          "HUNTER_SUCCESS": 91.6,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 348
+        }
+      ]
+    },
+    {
+      "Area": 18,
+      "Name": "Rockypoint",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 172,
+          "BUCK": 142,
+          "DOE": 15,
+          "FAWN": 0,
+          "TOTAL": 157,
+          "HUNTER_SUCCESS": 91.3,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 465
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 0,
+          "DOE": 21,
+          "FAWN": 1,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 91.7,
+          "DAYS_HARVEST": 5.4,
+          "HUNTER_DAYS": 118
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 15,
+          "BUCK": 0,
+          "DOE": 10,
+          "FAWN": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 66.7,
+          "DAYS_HARVEST": 5.6,
+          "HUNTER_DAYS": 56
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 205,
+          "BUCK": 142,
+          "DOE": 46,
+          "FAWN": 1,
+          "TOTAL": 189,
+          "HUNTER_SUCCESS": 92.2,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 639
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 151,
+          "BUCK": 104,
+          "DOE": 32,
+          "FAWN": 0,
+          "TOTAL": 136,
+          "HUNTER_SUCCESS": 90.1,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 467
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 54,
+          "BUCK": 38,
+          "DOE": 14,
+          "FAWN": 1,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 98.1,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 172
+        }
+      ]
+    },
+    {
+      "Area": 19,
+      "Name": "Rozet",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 225,
+          "BUCK": 176,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 183,
+          "HUNTER_SUCCESS": 81.3,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 760
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 43,
+          "BUCK": 0,
+          "DOE": 38,
+          "FAWN": 4,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 97.7,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 125
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 254,
+          "BUCK": 176,
+          "DOE": 45,
+          "FAWN": 4,
+          "TOTAL": 225,
+          "HUNTER_SUCCESS": 88.6,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 885
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 62,
+          "BUCK": 30,
+          "DOE": 10,
+          "FAWN": 0,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 64.5,
+          "DAYS_HARVEST": 5.7,
+          "HUNTER_DAYS": 226
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 192,
+          "BUCK": 146,
+          "DOE": 35,
+          "FAWN": 4,
+          "TOTAL": 185,
+          "HUNTER_SUCCESS": 96.4,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 659
+        }
+      ]
+    },
+    {
+      "Area": 20,
+      "Name": "Upper Powder River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 312,
+          "BUCK": 162,
+          "DOE": 25,
+          "FAWN": 0,
+          "TOTAL": 187,
+          "HUNTER_SUCCESS": 59.9,
+          "DAYS_HARVEST": 8.0,
+          "HUNTER_DAYS": 1491
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 131,
+          "BUCK": 0,
+          "DOE": 54,
+          "FAWN": 12,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 50.4,
+          "DAYS_HARVEST": 8.7,
+          "HUNTER_DAYS": 573
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 405,
+          "BUCK": 162,
+          "DOE": 79,
+          "FAWN": 12,
+          "TOTAL": 253,
+          "HUNTER_SUCCESS": 62.5,
+          "DAYS_HARVEST": 8.2,
+          "HUNTER_DAYS": 2064
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 109,
+          "BUCK": 24,
+          "DOE": 23,
+          "FAWN": 2,
+          "TOTAL": 49,
+          "HUNTER_SUCCESS": 45.0,
+          "DAYS_HARVEST": 17.9,
+          "HUNTER_DAYS": 877
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 296,
+          "BUCK": 138,
+          "DOE": 56,
+          "FAWN": 10,
+          "TOTAL": 204,
+          "HUNTER_SUCCESS": 68.9,
+          "DAYS_HARVEST": 5.8,
+          "HUNTER_DAYS": 1187
+        }
+      ]
+    },
+    {
+      "Area": 21,
+      "Name": "Middle Fork",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 360,
+          "BUCK": 197,
+          "DOE": 39,
+          "FAWN": 10,
+          "TOTAL": 246,
+          "HUNTER_SUCCESS": 68.3,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 1138
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 46,
+          "BUCK": 0,
+          "DOE": 24,
+          "FAWN": 0,
+          "TOTAL": 24,
+          "HUNTER_SUCCESS": 52.2,
+          "DAYS_HARVEST": 5.4,
+          "HUNTER_DAYS": 130
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 395,
+          "BUCK": 197,
+          "DOE": 63,
+          "FAWN": 10,
+          "TOTAL": 270,
+          "HUNTER_SUCCESS": 68.4,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 1268
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 299,
+          "BUCK": 122,
+          "DOE": 49,
+          "FAWN": 7,
+          "TOTAL": 178,
+          "HUNTER_SUCCESS": 59.5,
+          "DAYS_HARVEST": 5.3,
+          "HUNTER_DAYS": 948
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 96,
+          "BUCK": 75,
+          "DOE": 14,
+          "FAWN": 3,
+          "TOTAL": 92,
+          "HUNTER_SUCCESS": 95.8,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 320
+        }
+      ]
+    },
+    {
+      "Area": 22,
+      "Name": "Crazy Woman",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 580,
+          "BUCK": 438,
+          "DOE": 20,
+          "FAWN": 0,
+          "TOTAL": 458,
+          "HUNTER_SUCCESS": 79.0,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 2355
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 175,
+          "BUCK": 0,
+          "DOE": 101,
+          "FAWN": 21,
+          "TOTAL": 122,
+          "HUNTER_SUCCESS": 69.7,
+          "DAYS_HARVEST": 7.2,
+          "HUNTER_DAYS": 876
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 706,
+          "BUCK": 438,
+          "DOE": 121,
+          "FAWN": 21,
+          "TOTAL": 580,
+          "HUNTER_SUCCESS": 82.2,
+          "DAYS_HARVEST": 5.6,
+          "HUNTER_DAYS": 3231
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 226,
+          "BUCK": 92,
+          "DOE": 40,
+          "FAWN": 12,
+          "TOTAL": 144,
+          "HUNTER_SUCCESS": 63.7,
+          "DAYS_HARVEST": 9.1,
+          "HUNTER_DAYS": 1309
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 480,
+          "BUCK": 346,
+          "DOE": 81,
+          "FAWN": 9,
+          "TOTAL": 436,
+          "HUNTER_SUCCESS": 90.8,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 1922
+        }
+      ]
+    },
+    {
+      "Area": 23,
+      "Name": "Pumpkin Buttes",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 515,
+          "BUCK": 369,
+          "DOE": 29,
+          "FAWN": 4,
+          "TOTAL": 402,
+          "HUNTER_SUCCESS": 78.1,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 1813
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 1145,
+          "BUCK": 914,
+          "DOE": 65,
+          "FAWN": 23,
+          "TOTAL": 1002,
+          "HUNTER_SUCCESS": 87.5,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 3393
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 268,
+          "BUCK": 0,
+          "DOE": 168,
+          "FAWN": 38,
+          "TOTAL": 206,
+          "HUNTER_SUCCESS": 76.9,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 870
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 477,
+          "BUCK": 0,
+          "DOE": 335,
+          "FAWN": 52,
+          "TOTAL": 387,
+          "HUNTER_SUCCESS": 81.1,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 1243
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 2157,
+          "BUCK": 1283,
+          "DOE": 597,
+          "FAWN": 117,
+          "TOTAL": 1997,
+          "HUNTER_SUCCESS": 92.6,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 7319
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 578,
+          "BUCK": 282,
+          "DOE": 130,
+          "FAWN": 33,
+          "TOTAL": 445,
+          "HUNTER_SUCCESS": 77.0,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 2048
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 1579,
+          "BUCK": 1001,
+          "DOE": 467,
+          "FAWN": 84,
+          "TOTAL": 1552,
+          "HUNTER_SUCCESS": 98.3,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 5271
+        }
+      ]
+    },
+    {
+      "Area": 24,
+      "Name": "Thunder Basin",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 175,
+          "BUCK": 136,
+          "DOE": 12,
+          "FAWN": 0,
+          "TOTAL": 148,
+          "HUNTER_SUCCESS": 84.6,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 603
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 354,
+          "BUCK": 325,
+          "DOE": 14,
+          "FAWN": 0,
+          "TOTAL": 339,
+          "HUNTER_SUCCESS": 95.8,
+          "DAYS_HARVEST": 2.2,
+          "HUNTER_DAYS": 730
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 0,
+          "DOE": 15,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 68.2,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 52
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 23,
+          "BUCK": 0,
+          "DOE": 20,
+          "FAWN": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 87.0,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 47
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 565,
+          "BUCK": 461,
+          "DOE": 61,
+          "FAWN": 0,
+          "TOTAL": 522,
+          "HUNTER_SUCCESS": 92.4,
+          "DAYS_HARVEST": 2.7,
+          "HUNTER_DAYS": 1432
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 186,
+          "BUCK": 115,
+          "DOE": 45,
+          "FAWN": 0,
+          "TOTAL": 160,
+          "HUNTER_SUCCESS": 86.0,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 619
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 379,
+          "BUCK": 346,
+          "DOE": 16,
+          "FAWN": 0,
+          "TOTAL": 362,
+          "HUNTER_SUCCESS": 95.5,
+          "DAYS_HARVEST": 2.2,
+          "HUNTER_DAYS": 813
+        }
+      ]
+    },
+    {
+      "Area": 25,
+      "Name": "Ormsby",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 494,
+          "BUCK": 345,
+          "DOE": 26,
+          "FAWN": 9,
+          "TOTAL": 380,
+          "HUNTER_SUCCESS": 76.9,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 1684
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 494,
+          "BUCK": 345,
+          "DOE": 26,
+          "FAWN": 9,
+          "TOTAL": 380,
+          "HUNTER_SUCCESS": 76.9,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 1684
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 348,
+          "BUCK": 210,
+          "DOE": 21,
+          "FAWN": 9,
+          "TOTAL": 240,
+          "HUNTER_SUCCESS": 69.0,
+          "DAYS_HARVEST": 5.8,
+          "HUNTER_DAYS": 1397
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 146,
+          "BUCK": 135,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 140,
+          "HUNTER_SUCCESS": 95.9,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 287
+        }
+      ]
+    },
+    {
+      "Area": 26,
+      "Name": "Bear Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 914,
+          "BUCK": 813,
+          "DOE": 30,
+          "FAWN": 0,
+          "TOTAL": 843,
+          "HUNTER_SUCCESS": 92.2,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 2883
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 46,
+          "BUCK": 0,
+          "DOE": 36,
+          "FAWN": 5,
+          "TOTAL": 41,
+          "HUNTER_SUCCESS": 89.1,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 86
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 949,
+          "BUCK": 813,
+          "DOE": 66,
+          "FAWN": 5,
+          "TOTAL": 884,
+          "HUNTER_SUCCESS": 93.2,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 2969
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 278,
+          "BUCK": 172,
+          "DOE": 58,
+          "FAWN": 4,
+          "TOTAL": 234,
+          "HUNTER_SUCCESS": 84.2,
+          "DAYS_HARVEST": 5.0,
+          "HUNTER_DAYS": 1178
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 671,
+          "BUCK": 641,
+          "DOE": 8,
+          "FAWN": 1,
+          "TOTAL": 650,
+          "HUNTER_SUCCESS": 96.9,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 1791
+        }
+      ]
+    },
+    {
+      "Area": 27,
+      "Name": "Bill",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 115,
+          "BUCK": 109,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 109,
+          "HUNTER_SUCCESS": 94.8,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 326
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 116,
+          "BUCK": 109,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 109,
+          "HUNTER_SUCCESS": 94.0,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 326
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 88,
+          "BUCK": 81,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 81,
+          "HUNTER_SUCCESS": 92.0,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 276
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 28,
+          "BUCK": 28,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.8,
+          "HUNTER_DAYS": 50
+        }
+      ]
+    },
+    {
+      "Area": 29,
+      "Name": "Shawneee.",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 71,
+          "BUCK": 65,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 68,
+          "HUNTER_SUCCESS": 95.8,
+          "DAYS_HARVEST": 2.3,
+          "HUNTER_DAYS": 154
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 269,
+          "BUCK": 239,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 242,
+          "HUNTER_SUCCESS": 90.0,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 939
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 34,
+          "BUCK": 0,
+          "DOE": 31,
+          "FAWN": 1,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 94.1,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 112
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 367,
+          "BUCK": 304,
+          "DOE": 37,
+          "FAWN": 1,
+          "TOTAL": 342,
+          "HUNTER_SUCCESS": 93.2,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 1205
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 134,
+          "BUCK": 88,
+          "DOE": 30,
+          "FAWN": 0,
+          "TOTAL": 118,
+          "HUNTER_SUCCESS": 88.1,
+          "DAYS_HARVEST": 4.9,
+          "HUNTER_DAYS": 577
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 233,
+          "BUCK": 216,
+          "DOE": 7,
+          "FAWN": 1,
+          "TOTAL": 224,
+          "HUNTER_SUCCESS": 96.1,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 628
+        }
+      ]
+    },
+    {
+      "Area": 30,
+      "Name": "LaPrele",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 375,
+          "BUCK": 331,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 337,
+          "HUNTER_SUCCESS": 89.9,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 1098
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 0,
+          "DOE": 29,
+          "FAWN": 0,
+          "TOTAL": 29,
+          "HUNTER_SUCCESS": 60.4,
+          "DAYS_HARVEST": 5.2,
+          "HUNTER_DAYS": 152
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 412,
+          "BUCK": 331,
+          "DOE": 35,
+          "FAWN": 0,
+          "TOTAL": 366,
+          "HUNTER_SUCCESS": 88.8,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 1250
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 319,
+          "BUCK": 257,
+          "DOE": 26,
+          "FAWN": 0,
+          "TOTAL": 283,
+          "HUNTER_SUCCESS": 88.7,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 1040
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 93,
+          "BUCK": 74,
+          "DOE": 9,
+          "FAWN": 0,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 89.2,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 210
+        }
+      ]
+    },
+    {
+      "Area": 31,
+      "Name": "Hat Six",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 63,
+          "BUCK": 50,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 87.3,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 183
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 63,
+          "BUCK": 50,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 87.3,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 183
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 35,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 83.3,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 166
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 15,
+          "BUCK": 15,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.1,
+          "HUNTER_DAYS": 17
+        }
+      ]
+    },
+    {
+      "Area": 32,
+      "Name": "Bates Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 662,
+          "BUCK": 566,
+          "DOE": 8,
+          "FAWN": 5,
+          "TOTAL": 579,
+          "HUNTER_SUCCESS": 87.5,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 2082
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 435,
+          "BUCK": 0,
+          "DOE": 359,
+          "FAWN": 43,
+          "TOTAL": 402,
+          "HUNTER_SUCCESS": 92.4,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 979
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 75,
+          "BUCK": 0,
+          "DOE": 60,
+          "FAWN": 3,
+          "TOTAL": 63,
+          "HUNTER_SUCCESS": 84.0,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 133
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 1037,
+          "BUCK": 566,
+          "DOE": 427,
+          "FAWN": 51,
+          "TOTAL": 1044,
+          "HUNTER_SUCCESS": 100.7,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 3194
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 810,
+          "BUCK": 431,
+          "DOE": 314,
+          "FAWN": 35,
+          "TOTAL": 780,
+          "HUNTER_SUCCESS": 96.3,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 2439
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 227,
+          "BUCK": 135,
+          "DOE": 113,
+          "FAWN": 16,
+          "TOTAL": 264,
+          "HUNTER_SUCCESS": 116.3,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 755
+        }
+      ]
+    },
+    {
+      "Area": 34,
+      "Name": "Goshen Hole",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 536,
+          "BUCK": 422,
+          "DOE": 28,
+          "FAWN": 0,
+          "TOTAL": 450,
+          "HUNTER_SUCCESS": 84.0,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 1956
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 0,
+          "DOE": 13,
+          "FAWN": 0,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 65.0,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 46
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 554,
+          "BUCK": 422,
+          "DOE": 41,
+          "FAWN": 0,
+          "TOTAL": 463,
+          "HUNTER_SUCCESS": 83.6,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 2002
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 433,
+          "BUCK": 325,
+          "DOE": 24,
+          "FAWN": 0,
+          "TOTAL": 349,
+          "HUNTER_SUCCESS": 80.6,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 1624
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 121,
+          "BUCK": 97,
+          "DOE": 17,
+          "FAWN": 0,
+          "TOTAL": 114,
+          "HUNTER_SUCCESS": 94.2,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 378
+        }
+      ]
+    },
+    {
+      "Area": 37,
+      "Name": "Harriman",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 366,
+          "BUCK": 251,
+          "DOE": 37,
+          "FAWN": 0,
+          "TOTAL": 288,
+          "HUNTER_SUCCESS": 78.7,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 1282
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 90,
+          "BUCK": 0,
+          "DOE": 53,
+          "FAWN": 2,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 61.1,
+          "DAYS_HARVEST": 5.3,
+          "HUNTER_DAYS": 294
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 443,
+          "BUCK": 251,
+          "DOE": 90,
+          "FAWN": 2,
+          "TOTAL": 343,
+          "HUNTER_SUCCESS": 77.4,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 1576
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 310,
+          "BUCK": 164,
+          "DOE": 70,
+          "FAWN": 0,
+          "TOTAL": 234,
+          "HUNTER_SUCCESS": 75.5,
+          "DAYS_HARVEST": 5.5,
+          "HUNTER_DAYS": 1276
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 133,
+          "BUCK": 87,
+          "DOE": 20,
+          "FAWN": 2,
+          "TOTAL": 109,
+          "HUNTER_SUCCESS": 82.0,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 300
+        }
+      ]
+    },
+    {
+      "Area": 38,
+      "Name": "Iron Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 358,
+          "BUCK": 272,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 291,
+          "HUNTER_SUCCESS": 81.3,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 1124
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 256,
+          "BUCK": 219,
+          "DOE": 4,
+          "FAWN": 0,
+          "TOTAL": 223,
+          "HUNTER_SUCCESS": 87.1,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 1058
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 12,
+          "BUCK": 0,
+          "DOE": 5,
+          "FAWN": 1,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 50.0,
+          "DAYS_HARVEST": 15.5,
+          "HUNTER_DAYS": 93
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 625,
+          "BUCK": 491,
+          "DOE": 28,
+          "FAWN": 1,
+          "TOTAL": 520,
+          "HUNTER_SUCCESS": 83.2,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 2275
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 465,
+          "BUCK": 356,
+          "DOE": 27,
+          "FAWN": 0,
+          "TOTAL": 383,
+          "HUNTER_SUCCESS": 82.4,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 1799
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 160,
+          "BUCK": 135,
+          "DOE": 1,
+          "FAWN": 1,
+          "TOTAL": 137,
+          "HUNTER_SUCCESS": 85.6,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 476
+        }
+      ]
+    },
+    {
+      "Area": 42,
+      "Name": "Laramie Plains",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 194,
+          "BUCK": 157,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 163,
+          "HUNTER_SUCCESS": 84.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 546
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 42,
+          "BUCK": 0,
+          "DOE": 34,
+          "FAWN": 3,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 88.1,
+          "DAYS_HARVEST": 6.1,
+          "HUNTER_DAYS": 225
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 228,
+          "BUCK": 157,
+          "DOE": 40,
+          "FAWN": 3,
+          "TOTAL": 200,
+          "HUNTER_SUCCESS": 87.7,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 771
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 172,
+          "BUCK": 116,
+          "DOE": 32,
+          "FAWN": 2,
+          "TOTAL": 150,
+          "HUNTER_SUCCESS": 87.2,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 638
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 56,
+          "BUCK": 41,
+          "DOE": 8,
+          "FAWN": 1,
+          "TOTAL": 50,
+          "HUNTER_SUCCESS": 89.3,
+          "DAYS_HARVEST": 2.7,
+          "HUNTER_DAYS": 133
+        }
+      ]
+    },
+    {
+      "Area": 43,
+      "Name": "Cooper Lake",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 237,
+          "BUCK": 201,
+          "DOE": 16,
+          "FAWN": 0,
+          "TOTAL": 217,
+          "HUNTER_SUCCESS": 91.6,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 761
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 237,
+          "BUCK": 201,
+          "DOE": 16,
+          "FAWN": 0,
+          "TOTAL": 217,
+          "HUNTER_SUCCESS": 91.6,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 761
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 185,
+          "BUCK": 149,
+          "DOE": 16,
+          "FAWN": 0,
+          "TOTAL": 165,
+          "HUNTER_SUCCESS": 89.2,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 631
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 52,
+          "BUCK": 52,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 52,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 130
+        }
+      ]
+    },
+    {
+      "Area": 44,
+      "Name": "South Laramie",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 72,
+          "BUCK": 67,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 67,
+          "HUNTER_SUCCESS": 93.1,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 193
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 72,
+          "BUCK": 67,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 67,
+          "HUNTER_SUCCESS": 93.1,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 193
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 56,
+          "BUCK": 53,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 94.6,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 134
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 16,
+          "BUCK": 14,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 87.5,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 59
+        }
+      ]
+    },
+    {
+      "Area": 45,
+      "Name": "West Laramie",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 538,
+          "BUCK": 417,
+          "DOE": 17,
+          "FAWN": null,
+          "TOTAL": 443,
+          "HUNTER_SUCCESS": 82.3,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 1637
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 50,
+          "BUCK": 0,
+          "DOE": 37,
+          "FAWN": 5,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 84.0,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 88
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 575,
+          "BUCK": 417,
+          "DOE": 54,
+          "FAWN": 14,
+          "TOTAL": 485,
+          "HUNTER_SUCCESS": 84.3,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 1725
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 458,
+          "BUCK": 308,
+          "DOE": 48,
+          "FAWN": 12,
+          "TOTAL": 368,
+          "HUNTER_SUCCESS": 80.3,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 1427
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 117,
+          "BUCK": 109,
+          "DOE": 6,
+          "FAWN": 2,
+          "TOTAL": 117,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 298
+        }
+      ]
+    },
+    {
+      "Area": 46,
+      "Name": "Kyle",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 81,
+          "BUCK": 67,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 67,
+          "HUNTER_SUCCESS": 82.7,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 237
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 27,
+          "BUCK": 21,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 85.2,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 57
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 108,
+          "BUCK": 88,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 90,
+          "HUNTER_SUCCESS": 83.3,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 294
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 80,
+          "BUCK": 60,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 62,
+          "HUNTER_SUCCESS": 77.5,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 232
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 28,
+          "BUCK": 28,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.2,
+          "HUNTER_DAYS": 62
+        }
+      ]
+    },
+    {
+      "Area": 47,
+      "Name": "Shirley Basin",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 487,
+          "BUCK": 432,
+          "DOE": 27,
+          "FAWN": 5,
+          "TOTAL": 464,
+          "HUNTER_SUCCESS": 95.3,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 1398
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 460,
+          "BUCK": 409,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 409,
+          "HUNTER_SUCCESS": 88.9,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 1069
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 429,
+          "BUCK": 0,
+          "DOE": 314,
+          "FAWN": 27,
+          "TOTAL": 341,
+          "HUNTER_SUCCESS": 79.5,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 899
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 1262,
+          "BUCK": 841,
+          "DOE": 341,
+          "FAWN": 32,
+          "TOTAL": 1214,
+          "HUNTER_SUCCESS": 96.2,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 3366
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 1000,
+          "BUCK": 649,
+          "DOE": 269,
+          "FAWN": 24,
+          "TOTAL": 942,
+          "HUNTER_SUCCESS": 94.2,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 2710
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 262,
+          "BUCK": 192,
+          "DOE": 72,
+          "FAWN": 8,
+          "TOTAL": 272,
+          "HUNTER_SUCCESS": 103.8,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 656
+        }
+      ]
+    },
+    {
+      "Area": 48,
+      "Name": "Leo-Hanna",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 129,
+          "BUCK": 113,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 113,
+          "HUNTER_SUCCESS": 87.6,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 349
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 136,
+          "BUCK": 122,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 122,
+          "HUNTER_SUCCESS": 89.7,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 459
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 52,
+          "BUCK": 0,
+          "DOE": 33,
+          "FAWN": 9,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 80.8,
+          "DAYS_HARVEST": 2.3,
+          "HUNTER_DAYS": 96
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 310,
+          "BUCK": 235,
+          "DOE": 33,
+          "FAWN": 9,
+          "TOTAL": 277,
+          "HUNTER_SUCCESS": 89.4,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 904
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 239,
+          "BUCK": 177,
+          "DOE": 29,
+          "FAWN": 5,
+          "TOTAL": 211,
+          "HUNTER_SUCCESS": 88.3,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 714
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 71,
+          "BUCK": 58,
+          "DOE": 4,
+          "FAWN": 4,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 93.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 190
+        }
+      ]
+    },
+    {
+      "Area": 50,
+      "Name": "Elk Mountain",
+      "data": [
+        {
+          "TYPE": "Full 0",
+          "ACTIVE_LICS_HTRS": 51,
+          "BUCK": 40,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 82.4,
+          "DAYS_HARVEST": 2.7,
+          "HUNTER_DAYS": 113
+        },
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 291,
+          "BUCK": 254,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 257,
+          "HUNTER_SUCCESS": 88.3,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 1065
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 84,
+          "BUCK": 0,
+          "DOE": 51,
+          "FAWN": 15,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 78.6,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 287
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 398,
+          "BUCK": 294,
+          "DOE": 56,
+          "FAWN": 15,
+          "TOTAL": 365,
+          "HUNTER_SUCCESS": 91.7,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 1465
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 309,
+          "BUCK": 225,
+          "DOE": 36,
+          "FAWN": 10,
+          "TOTAL": 271,
+          "HUNTER_SUCCESS": 87.7,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 1163
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 89,
+          "BUCK": 69,
+          "DOE": 20,
+          "FAWN": 5,
+          "TOTAL": 94,
+          "HUNTER_SUCCESS": 105.6,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 302
+        }
+      ]
+    },
+    {
+      "Area": 51,
+      "Name": "Big Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 97,
+          "BUCK": 80,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 85.6,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 348
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 19,
+          "BUCK": 0,
+          "DOE": 11,
+          "FAWN": 2,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 68.4,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 66
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 114,
+          "BUCK": 80,
+          "DOE": 14,
+          "FAWN": null,
+          "TOTAL": 96,
+          "HUNTER_SUCCESS": 84.2,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 414
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 89,
+          "BUCK": 58,
+          "DOE": 12,
+          "FAWN": 0,
+          "TOTAL": 70,
+          "HUNTER_SUCCESS": 78.7,
+          "DAYS_HARVEST": 4.8,
+          "HUNTER_DAYS": 339
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 22,
+          "DOE": 2,
+          "FAWN": 2,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 104.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 75
+        }
+      ]
+    },
+    {
+      "Area": 52,
+      "Name": "Spring Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 73,
+          "BUCK": 42,
+          "DOE": 9,
+          "FAWN": 0,
+          "TOTAL": 51,
+          "HUNTER_SUCCESS": 69.9,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 199
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 75,
+          "BUCK": 72,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 72,
+          "HUNTER_SUCCESS": 96.0,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 171
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 148,
+          "BUCK": 114,
+          "DOE": 9,
+          "FAWN": null,
+          "TOTAL": 123,
+          "HUNTER_SUCCESS": 83.1,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 370
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 114,
+          "BUCK": 80,
+          "DOE": 9,
+          "FAWN": null,
+          "TOTAL": 89,
+          "HUNTER_SUCCESS": 78.1,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 268
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 34,
+          "BUCK": 34,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 102
+        }
+      ]
+    },
+    {
+      "Area": 53,
+      "Name": "Baggs",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 21,
+          "BUCK": 13,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 61.9,
+          "DAYS_HARVEST": 5.5,
+          "HUNTER_DAYS": 71
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 15,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 46.7,
+          "DAYS_HARVEST": 3,
+          "HUNTER_DAYS": 21
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 32,
+          "BUCK": 13,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": 62.5,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 92
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 21,
+          "BUCK": 5,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": 38.1,
+          "DAYS_HARVEST": 8.4,
+          "HUNTER_DAYS": 67
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 11,
+          "BUCK": 8,
+          "DOE": 4,
+          "FAWN": null,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": 109.1,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 25
+        }
+      ]
+    },
+    {
+      "Area": 55,
+      "Name": "Red Rim",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 39,
+          "BUCK": 29,
+          "DOE": 1,
+          "FAWN": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 76.9,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 71
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 39,
+          "BUCK": 29,
+          "DOE": 1,
+          "FAWN": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 76.9,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 71
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 30,
+          "BUCK": 22,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 73.3,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 52
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 9,
+          "BUCK": 7,
+          "DOE": 1,
+          "FAWN": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 88.9,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 19
+        }
+      ]
+    },
+    {
+      "Area": 56,
+      "Name": "Iron Springs",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 23,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 72
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 23,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 72
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 15,
+          "BUCK": 13,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 38
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 10,
+          "BUCK": 10,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 34
+        }
+      ]
+    },
+    {
+      "Area": 57,
+      "Name": "South Wamsutter",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 167,
+          "BUCK": 142,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 142,
+          "HUNTER_SUCCESS": 85.0,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 553
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 31,
+          "BUCK": 26,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 83.9,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 54
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 5,
+          "BUCK": 0,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 40.0,
+          "DAYS_HARVEST": 8.0,
+          "HUNTER_DAYS": 16
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 202,
+          "BUCK": 168,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 170,
+          "HUNTER_SUCCESS": 84.2,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 623
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 160,
+          "BUCK": 132,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 132,
+          "HUNTER_SUCCESS": 82.5,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 523
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 42,
+          "BUCK": 36,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 90.5,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 100
+        }
+      ]
+    },
+    {
+      "Area": 58,
+      "Name": "Black Butte-Kenny Rim",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 37,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 77.1,
+          "DAYS_HARVEST": 6.1,
+          "HUNTER_DAYS": 225
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 37,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 77.1,
+          "DAYS_HARVEST": 6.1,
+          "HUNTER_DAYS": 225
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 37,
+          "BUCK": 30,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 81.1,
+          "DAYS_HARVEST": 6.1,
+          "HUNTER_DAYS": 182
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 11,
+          "BUCK": 7,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 7,
+          "HUNTER_SUCCESS": 63.6,
+          "DAYS_HARVEST": 6.1,
+          "HUNTER_DAYS": 43
+        }
+      ]
+    },
+    {
+      "Area": 59,
+      "Name": "Aspen Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 122,
+          "BUCK": 101,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 104,
+          "HUNTER_SUCCESS": 85.2,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 470
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 122,
+          "BUCK": 101,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 104,
+          "HUNTER_SUCCESS": 85.2,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 470
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 97,
+          "BUCK": 76,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 79,
+          "HUNTER_SUCCESS": 81.4,
+          "DAYS_HARVEST": 5.0,
+          "HUNTER_DAYS": 394
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 25,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 76
+        }
+      ]
+    },
+    {
+      "Area": 60,
+      "Name": "Table Rock",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 53,
+          "BUCK": 35,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 66.0,
+          "DAYS_HARVEST": 6.4,
+          "HUNTER_DAYS": 225
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 53,
+          "BUCK": 35,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 66.0,
+          "DAYS_HARVEST": 6.4,
+          "HUNTER_DAYS": 225
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 33,
+          "BUCK": 18,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 54.5,
+          "DAYS_HARVEST": 8.7,
+          "HUNTER_DAYS": 156
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 17,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 85.0,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 69
+        }
+      ]
+    },
+    {
+      "Area": 61,
+      "Name": "Chain Lakes",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 50,
+          "BUCK": 36,
+          "DOE": 4,
+          "FAWN": null,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 80.0,
+          "DAYS_HARVEST": 5.5,
+          "HUNTER_DAYS": 221
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 50,
+          "BUCK": 36,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 80.0,
+          "DAYS_HARVEST": 5.5,
+          "HUNTER_DAYS": 221
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 39,
+          "BUCK": 25,
+          "DOE": 4,
+          "FAWN": null,
+          "TOTAL": 29,
+          "HUNTER_SUCCESS": 74.4,
+          "DAYS_HARVEST": 6.5,
+          "HUNTER_DAYS": 189
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 11,
+          "BUCK": 11,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 32
+        }
+      ]
+    },
+    {
+      "Area": 62,
+      "Name": "South Ferris",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 16,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 66.7,
+          "DAYS_HARVEST": 6.9,
+          "HUNTER_DAYS": 111
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 16,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 66.7,
+          "DAYS_HARVEST": 6.9,
+          "HUNTER_DAYS": 111
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 19,
+          "BUCK": 11,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 57.9,
+          "DAYS_HARVEST": 7.3,
+          "HUNTER_DAYS": 80
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 5,
+          "BUCK": 5,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 6.2,
+          "HUNTER_DAYS": 31
+        }
+      ]
+    },
+    {
+      "Area": 63,
+      "Name": "North Ferris",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 50,
+          "BUCK": 39,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 78.0,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 117
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 47,
+          "BUCK": 33,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 74.5,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 101
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 97,
+          "BUCK": 72,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 74,
+          "HUNTER_SUCCESS": 76.3,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 218
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 76,
+          "BUCK": 51,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 69.7,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 167
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 21,
+          "BUCK": 21,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 51
+        }
+      ]
+    },
+    {
+      "Area": 64,
+      "Name": "Bison Basin",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 93,
+          "BUCK": 70,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 70,
+          "HUNTER_SUCCESS": 75.3,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 326
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 93,
+          "BUCK": 70,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 70,
+          "HUNTER_SUCCESS": 75.3,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 326
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 73,
+          "BUCK": 51,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 51,
+          "HUNTER_SUCCESS": 69.9,
+          "DAYS_HARVEST": 5.0,
+          "HUNTER_DAYS": 255
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 19,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 19,
+          "HUNTER_SUCCESS": 95.0,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 71
+        }
+      ]
+    },
+    {
+      "Area": 65,
+      "Name": "South Pass",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 107,
+          "BUCK": 80,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 77.6,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 290
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 43,
+          "BUCK": 0,
+          "DOE": 30,
+          "FAWN": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 69.8,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 139
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 137,
+          "BUCK": 80,
+          "DOE": 33,
+          "FAWN": 0,
+          "TOTAL": 113,
+          "HUNTER_SUCCESS": 82.5,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 429
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 102,
+          "BUCK": 54,
+          "DOE": 26,
+          "FAWN": 0,
+          "TOTAL": 80,
+          "HUNTER_SUCCESS": 78.4,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 352
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 35,
+          "BUCK": 26,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 33,
+          "HUNTER_SUCCESS": 94.3,
+          "DAYS_HARVEST": 2.3,
+          "HUNTER_DAYS": 77
+        }
+      ]
+    },
+    {
+      "Area": 66,
+      "Name": "Lander",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 108,
+          "BUCK": 87,
+          "DOE": 3,
+          "FAWN": 2,
+          "TOTAL": 92,
+          "HUNTER_SUCCESS": 85.2,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 333
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 10,
+          "BUCK": 0,
+          "DOE": 2,
+          "FAWN": 2,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 20.0,
+          "DAYS_HARVEST": 11.5,
+          "HUNTER_DAYS": 23
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 114,
+          "BUCK": 87,
+          "DOE": 5,
+          "FAWN": 2,
+          "TOTAL": 94,
+          "HUNTER_SUCCESS": 82.5,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 356
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 82,
+          "BUCK": 57,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 62,
+          "HUNTER_SUCCESS": 75.6,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 292
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 32,
+          "BUCK": 30,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 64
+        }
+      ]
+    },
+    {
+      "Area": 67,
+      "Name": "Sand Draw",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 183,
+          "BUCK": 161,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 161,
+          "HUNTER_SUCCESS": 88.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 534
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 183,
+          "BUCK": 161,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 161,
+          "HUNTER_SUCCESS": 88.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 534
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 127,
+          "BUCK": 108,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 108,
+          "HUNTER_SUCCESS": 85.0,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 371
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 56,
+          "BUCK": 53,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 94.6,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 163
+        }
+      ]
+    },
+    {
+      "Area": 68,
+      "Name": "Split Rock",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 207,
+          "BUCK": 197,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 197,
+          "HUNTER_SUCCESS": 95.2,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 764
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 208,
+          "BUCK": 197,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 197,
+          "HUNTER_SUCCESS": 94.7,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 764
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 144,
+          "BUCK": 133,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 133,
+          "HUNTER_SUCCESS": 92.4,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 591
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 64,
+          "BUCK": 64,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 64,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.7,
+          "HUNTER_DAYS": 173
+        }
+      ]
+    },
+    {
+      "Area": 69,
+      "Name": "South Rattlesnake",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 73,
+          "BUCK": 65,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 89.0,
+          "DAYS_HARVEST": 5.0,
+          "HUNTER_DAYS": 325
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 73,
+          "BUCK": 65,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 89.0,
+          "DAYS_HARVEST": 5.0,
+          "HUNTER_DAYS": 325
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 54,
+          "BUCK": 46,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 46,
+          "HUNTER_SUCCESS": 85.2,
+          "DAYS_HARVEST": 6.0,
+          "HUNTER_DAYS": 277
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 19,
+          "BUCK": 19,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 19,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 48
+        }
+      ]
+    },
+    {
+      "Area": 70,
+      "Name": "Kendrick",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 94,
+          "BUCK": 74,
+          "DOE": 10,
+          "FAWN": 0,
+          "TOTAL": 84,
+          "HUNTER_SUCCESS": 89.4,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 341
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 15,
+          "BUCK": 0,
+          "DOE": 13,
+          "FAWN": 0,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 86.7,
+          "DAYS_HARVEST": 1.6,
+          "HUNTER_DAYS": 21
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 108,
+          "BUCK": 74,
+          "DOE": 23,
+          "FAWN": 0,
+          "TOTAL": 97,
+          "HUNTER_SUCCESS": 89.8,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 362
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 82,
+          "BUCK": 50,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 69,
+          "HUNTER_SUCCESS": 84.1,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 281
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 26,
+          "BUCK": 24,
+          "DOE": 4,
+          "FAWN": 0,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 107.7,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 81
+        }
+      ]
+    },
+    {
+      "Area": 71,
+      "Name": "East Poison Spider",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 70,
+          "BUCK": 47,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 75.7,
+          "DAYS_HARVEST": 6.6,
+          "HUNTER_DAYS": 348
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 26,
+          "BUCK": 0,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 23.1,
+          "DAYS_HARVEST": 14.2,
+          "HUNTER_DAYS": 85
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 85,
+          "BUCK": 47,
+          "DOE": 12,
+          "FAWN": 0,
+          "TOTAL": 59,
+          "HUNTER_SUCCESS": 69.4,
+          "DAYS_HARVEST": 7.3,
+          "HUNTER_DAYS": 433
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 64,
+          "BUCK": 31,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 57.8,
+          "DAYS_HARVEST": 10.2,
+          "HUNTER_DAYS": 376
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 21,
+          "BUCK": 16,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 104.8,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 57
+        }
+      ]
+    },
+    {
+      "Area": 72,
+      "Name": "West Poison Spider",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 725,
+          "BUCK": 608,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 627,
+          "HUNTER_SUCCESS": 86.5,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 2339
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 256,
+          "BUCK": 0,
+          "DOE": 197,
+          "FAWN": 8,
+          "TOTAL": 205,
+          "HUNTER_SUCCESS": 80.1,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 759
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 902,
+          "BUCK": 608,
+          "DOE": 216,
+          "FAWN": 8,
+          "TOTAL": 832,
+          "HUNTER_SUCCESS": 92.2,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 3098
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 710,
+          "BUCK": 452,
+          "DOE": 168,
+          "FAWN": 4,
+          "TOTAL": 624,
+          "HUNTER_SUCCESS": 87.9,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 2576
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 192,
+          "BUCK": 156,
+          "DOE": 48,
+          "FAWN": 4,
+          "TOTAL": 208,
+          "HUNTER_SUCCESS": 108.3,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 522
+        }
+      ]
+    },
+    {
+      "Area": 73,
+      "Name": "North Natrona",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 368,
+          "BUCK": 298,
+          "DOE": 15,
+          "FAWN": 0,
+          "TOTAL": 313,
+          "HUNTER_SUCCESS": 85.1,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 990
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 14,
+          "BUCK": 0,
+          "DOE": 12,
+          "FAWN": 2,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.0,
+          "HUNTER_DAYS": 14
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 382,
+          "BUCK": 298,
+          "DOE": 27,
+          "FAWN": 2,
+          "TOTAL": 327,
+          "HUNTER_SUCCESS": 85.6,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 1004
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 296,
+          "BUCK": 214,
+          "DOE": 27,
+          "FAWN": 0,
+          "TOTAL": 241,
+          "HUNTER_SUCCESS": 81.4,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 750
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 86,
+          "BUCK": 84,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 86,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 254
+        }
+      ]
+    },
+    {
+      "Area": 74,
+      "Name": "Deer Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 144,
+          "BUCK": 133,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 133,
+          "HUNTER_SUCCESS": 92.4,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 269
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 144,
+          "BUCK": 133,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 133,
+          "HUNTER_SUCCESS": 92.4,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 269
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 108,
+          "BUCK": 97,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 97,
+          "HUNTER_SUCCESS": 89.8,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 194
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 36,
+          "BUCK": 36,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 75
+        }
+      ]
+    },
+    {
+      "Area": 75,
+      "Name": "Badwater",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 224,
+          "BUCK": 185,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 190,
+          "HUNTER_SUCCESS": 84.8,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 651
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 42,
+          "BUCK": 0,
+          "DOE": 36,
+          "FAWN": 0,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 85.7,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 87
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 254,
+          "BUCK": 185,
+          "DOE": 41,
+          "FAWN": 0,
+          "TOTAL": 226,
+          "HUNTER_SUCCESS": 89.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 738
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 182,
+          "BUCK": 125,
+          "DOE": 29,
+          "FAWN": 0,
+          "TOTAL": 154,
+          "HUNTER_SUCCESS": 84.6,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 535
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 72,
+          "BUCK": 60,
+          "DOE": 12,
+          "FAWN": 0,
+          "TOTAL": 72,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 203
+        }
+      ]
+    },
+    {
+      "Area": 76,
+      "Name": "Copper Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 93,
+          "BUCK": 76,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 82,
+          "HUNTER_SUCCESS": 88.2,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 268
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 93,
+          "BUCK": 76,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 82,
+          "HUNTER_SUCCESS": 88.2,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 268
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 63,
+          "BUCK": 46,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 52,
+          "HUNTER_SUCCESS": 82.5,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 157
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 30,
+          "BUCK": 30,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 111
+        }
+      ]
+    },
+    {
+      "Area": 77,
+      "Name": "Fifteen Mile Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 115,
+          "BUCK": 100,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 100,
+          "HUNTER_SUCCESS": 87.0,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 343
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 0,
+          "DOE": 18,
+          "FAWN": 1,
+          "TOTAL": 19,
+          "HUNTER_SUCCESS": 86.4,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 38
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 136,
+          "BUCK": 100,
+          "DOE": 18,
+          "FAWN": 1,
+          "TOTAL": 119,
+          "HUNTER_SUCCESS": 87.5,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 381
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 110,
+          "BUCK": 75,
+          "DOE": 17,
+          "FAWN": 0,
+          "TOTAL": 92,
+          "HUNTER_SUCCESS": 83.6,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 304
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 26,
+          "BUCK": 25,
+          "DOE": 1,
+          "FAWN": 1,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 103.8,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 77
+        }
+      ]
+    },
+    {
+      "Area": 78,
+      "Name": "McCullough Peaks",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 99,
+          "BUCK": 89,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 92,
+          "HUNTER_SUCCESS": 92.9,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 392
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 82,
+          "BUCK": 0,
+          "DOE": 73,
+          "FAWN": 5,
+          "TOTAL": 78,
+          "HUNTER_SUCCESS": 95.1,
+          "DAYS_HARVEST": 2.2,
+          "HUNTER_DAYS": 174
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 153,
+          "BUCK": 89,
+          "DOE": 76,
+          "FAWN": 5,
+          "TOTAL": 170,
+          "HUNTER_SUCCESS": 111.1,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 566
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 119,
+          "BUCK": 65,
+          "DOE": 63,
+          "FAWN": 0,
+          "TOTAL": 128,
+          "HUNTER_SUCCESS": 107.6,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 455
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 34,
+          "BUCK": 24,
+          "DOE": 13,
+          "FAWN": 5,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 123.5,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 111
+        }
+      ]
+    },
+    {
+      "Area": 79,
+      "Name": "Big Horn",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 16,
+          "DOE": 3,
+          "FAWN": 3,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 88.0,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 74
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 63,
+          "BUCK": 0,
+          "DOE": 44,
+          "FAWN": 0,
+          "TOTAL": 44,
+          "HUNTER_SUCCESS": 69.8,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 127
+        },
+        {
+          "TYPE": "Full 9",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 34,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 70.8,
+          "DAYS_HARVEST": 9.5,
+          "HUNTER_DAYS": 324
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 124,
+          "BUCK": 50,
+          "DOE": 47,
+          "FAWN": 3,
+          "TOTAL": 100,
+          "HUNTER_SUCCESS": 80.6,
+          "DAYS_HARVEST": 5.2,
+          "HUNTER_DAYS": 525
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 99,
+          "BUCK": 35,
+          "DOE": 37,
+          "FAWN": 3,
+          "TOTAL": 75,
+          "HUNTER_SUCCESS": 75.8,
+          "DAYS_HARVEST": 6.1,
+          "HUNTER_DAYS": 454
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 15,
+          "DOE": 10,
+          "FAWN": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 71
+        }
+      ]
+    },
+    {
+      "Area": 80,
+      "Name": "Badger Basin",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 98,
+          "BUCK": 86,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 88,
+          "HUNTER_SUCCESS": 89.8,
+          "DAYS_HARVEST": 4.9,
+          "HUNTER_DAYS": 429
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 23,
+          "BUCK": 23,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 66
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 63,
+          "BUCK": 0,
+          "DOE": 28,
+          "FAWN": 6,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 54.0,
+          "DAYS_HARVEST": 13.9,
+          "HUNTER_DAYS": 472
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 60,
+          "BUCK": 0,
+          "DOE": 42,
+          "FAWN": 3,
+          "TOTAL": 45,
+          "HUNTER_SUCCESS": 75.0,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 159
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 209,
+          "BUCK": 109,
+          "DOE": 72,
+          "FAWN": 9,
+          "TOTAL": 190,
+          "HUNTER_SUCCESS": 90.9,
+          "DAYS_HARVEST": 5.9,
+          "HUNTER_DAYS": 1126
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 170,
+          "BUCK": 80,
+          "DOE": 56,
+          "FAWN": 7,
+          "TOTAL": 143,
+          "HUNTER_SUCCESS": 84.1,
+          "DAYS_HARVEST": 6.8,
+          "HUNTER_DAYS": 974
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 39,
+          "BUCK": 29,
+          "DOE": 16,
+          "FAWN": 2,
+          "TOTAL": 47,
+          "HUNTER_SUCCESS": 120.5,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 152
+        }
+      ]
+    },
+    {
+      "Area": 81,
+      "Name": "South Fork",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 173,
+          "BUCK": 151,
+          "DOE": 4,
+          "FAWN": 0,
+          "TOTAL": 155,
+          "HUNTER_SUCCESS": 89.6,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 507
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 143,
+          "BUCK": 0,
+          "DOE": 128,
+          "FAWN": 12,
+          "TOTAL": 140,
+          "HUNTER_SUCCESS": 97.9,
+          "DAYS_HARVEST": 2.3,
+          "HUNTER_DAYS": 323
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 282,
+          "BUCK": 151,
+          "DOE": 132,
+          "FAWN": 12,
+          "TOTAL": 295,
+          "HUNTER_SUCCESS": 104.6,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 830
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 220,
+          "BUCK": 109,
+          "DOE": 102,
+          "FAWN": 12,
+          "TOTAL": 223,
+          "HUNTER_SUCCESS": 101.4,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 644
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 62,
+          "BUCK": 42,
+          "DOE": 30,
+          "FAWN": 0,
+          "TOTAL": 72,
+          "HUNTER_SUCCESS": 116.1,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 186
+        }
+      ]
+    },
+    {
+      "Area": 82,
+      "Name": "North Greybull River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 169,
+          "BUCK": 144,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 144,
+          "HUNTER_SUCCESS": 85.2,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 452
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 98,
+          "BUCK": 84,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 89,
+          "HUNTER_SUCCESS": 90.8,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 416
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 151,
+          "BUCK": 0,
+          "DOE": 130,
+          "FAWN": 5,
+          "TOTAL": 135,
+          "HUNTER_SUCCESS": 89.4,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 324
+        },
+        {
+          "TYPE": "Reduced 8",
+          "ACTIVE_LICS_HTRS": 42,
+          "BUCK": 0,
+          "DOE": 20,
+          "FAWN": 6,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 61.9,
+          "DAYS_HARVEST": 8.2,
+          "HUNTER_DAYS": 214
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 423,
+          "BUCK": 228,
+          "DOE": 155,
+          "FAWN": 11,
+          "TOTAL": 394,
+          "HUNTER_SUCCESS": 93.1,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 1406
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 336,
+          "BUCK": 172,
+          "DOE": 120,
+          "FAWN": 6,
+          "TOTAL": 298,
+          "HUNTER_SUCCESS": 88.7,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 1174
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 87,
+          "BUCK": 56,
+          "DOE": 35,
+          "FAWN": 5,
+          "TOTAL": 96,
+          "HUNTER_SUCCESS": 110.3,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 232
+        }
+      ]
+    },
+    {
+      "Area": 83,
+      "Name": "Owl Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 183,
+          "BUCK": 150,
+          "DOE": 4,
+          "FAWN": 0,
+          "TOTAL": 154,
+          "HUNTER_SUCCESS": 84.2,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 677
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 0,
+          "DOE": 20,
+          "FAWN": 1,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 87.5,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 50
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 202,
+          "BUCK": 150,
+          "DOE": 24,
+          "FAWN": 1,
+          "TOTAL": 175,
+          "HUNTER_SUCCESS": 86.6,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 727
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 149,
+          "BUCK": 104,
+          "DOE": 18,
+          "FAWN": 1,
+          "TOTAL": 123,
+          "HUNTER_SUCCESS": 82.6,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 555
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 53,
+          "BUCK": 46,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 52,
+          "HUNTER_SUCCESS": 98.1,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 172
+        }
+      ]
+    },
+    {
+      "Area": 84,
+      "Name": "Wind River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 143,
+          "BUCK": 124,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 129,
+          "HUNTER_SUCCESS": 90.2,
+          "DAYS_HARVEST": 4.2,
+          "HUNTER_DAYS": 539
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 0,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 19,
+          "HUNTER_SUCCESS": 95.0,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 61
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 160,
+          "BUCK": 124,
+          "DOE": 24,
+          "FAWN": 0,
+          "TOTAL": 148,
+          "HUNTER_SUCCESS": 92.5,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 600
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 124,
+          "BUCK": 94,
+          "DOE": 18,
+          "FAWN": 0,
+          "TOTAL": 112,
+          "HUNTER_SUCCESS": 90.3,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 481
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 36,
+          "BUCK": 30,
+          "DOE": 6,
+          "FAWN": 0,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 119
+        }
+      ]
+    },
+    {
+      "Area": 87,
+      "Name": "Pinedale",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 19,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 19,
+          "HUNTER_SUCCESS": 86.4,
+          "DAYS_HARVEST": 2.0,
+          "HUNTER_DAYS": 38
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 13,
+          "BUCK": 11,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 84.6,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 26
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 35,
+          "BUCK": 30,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 85.7,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 64
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 26,
+          "BUCK": 21,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 80.8,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 52
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 9,
+          "BUCK": 9,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 9,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.3,
+          "HUNTER_DAYS": 12
+        }
+      ]
+    },
+    {
+      "Area": 88,
+      "Name": "Beaver",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 29,
+          "BUCK": 20,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 69.0,
+          "DAYS_HARVEST": 9.0,
+          "HUNTER_DAYS": 180
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 30,
+          "BUCK": 20,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 66.7,
+          "DAYS_HARVEST": 9.0,
+          "HUNTER_DAYS": 180
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 12,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 54.5,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 134
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 8,
+          "BUCK": 8,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 5.8,
+          "HUNTER_DAYS": 46
+        }
+      ]
+    },
+    {
+      "Area": 89,
+      "Name": "Piney",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 18,
+          "BUCK": 15,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 44
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 15,
+          "BUCK": 10,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 66.7,
+          "DAYS_HARVEST": 7.0,
+          "HUNTER_DAYS": 70
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 32,
+          "BUCK": 25,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 87.5,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 114
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 17,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 83.3,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 81
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 8,
+          "BUCK": 8,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 33
+        }
+      ]
+    },
+    {
+      "Area": 90,
+      "Name": "Square Top",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 35,
+          "BUCK": 27,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 77.1,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 89
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 35,
+          "BUCK": 27,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 77.1,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 89
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 29,
+          "BUCK": 21,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 72.4,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 79
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 6,
+          "BUCK": 6,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.7,
+          "HUNTER_DAYS": 10
+        }
+      ]
+    },
+    {
+      "Area": 91,
+      "Name": "Dry Sandy",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 75,
+          "BUCK": 70,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 70,
+          "HUNTER_SUCCESS": 93.3,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 181
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 75,
+          "BUCK": 70,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 70,
+          "HUNTER_SUCCESS": 93.3,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 181
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 60,
+          "BUCK": 55,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 91.7,
+          "DAYS_HARVEST": 2.7,
+          "HUNTER_DAYS": 146
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 15,
+          "BUCK": 15,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.3,
+          "HUNTER_DAYS": 35
+        }
+      ]
+    },
+    {
+      "Area": 92,
+      "Name": "Steamboat",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 145,
+          "BUCK": 130,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 130,
+          "HUNTER_SUCCESS": 89.7,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 450
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 145,
+          "BUCK": 130,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 130,
+          "HUNTER_SUCCESS": 89.7,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 450
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 112,
+          "BUCK": 99,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 99,
+          "HUNTER_SUCCESS": 88.4,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 354
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 33,
+          "BUCK": 31,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 31,
+          "HUNTER_SUCCESS": 93.9,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 96
+        }
+      ]
+    },
+    {
+      "Area": 93,
+      "Name": "West Green River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 303,
+          "BUCK": 238,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 257,
+          "HUNTER_SUCCESS": 84.8,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 844
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 303,
+          "BUCK": 238,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 257,
+          "HUNTER_SUCCESS": 84.8,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 844
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 236,
+          "BUCK": 176,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 195,
+          "HUNTER_SUCCESS": 82.6,
+          "DAYS_HARVEST": 3.4,
+          "HUNTER_DAYS": 658
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 67,
+          "BUCK": 62,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 62,
+          "HUNTER_SUCCESS": 92.5,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 186
+        }
+      ]
+    },
+    {
+      "Area": 94,
+      "Name": "Carter Lease",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 399,
+          "BUCK": 312,
+          "DOE": 18,
+          "FAWN": 9,
+          "TOTAL": 339,
+          "HUNTER_SUCCESS": 85.0,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 1347
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 399,
+          "BUCK": 312,
+          "DOE": 18,
+          "FAWN": 9,
+          "TOTAL": 339,
+          "HUNTER_SUCCESS": 85.0,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 1347
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 315,
+          "BUCK": 247,
+          "DOE": 14,
+          "FAWN": 9,
+          "TOTAL": 270,
+          "HUNTER_SUCCESS": 85.7,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 1061
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 84,
+          "BUCK": 65,
+          "DOE": 4,
+          "FAWN": 0,
+          "TOTAL": 69,
+          "HUNTER_SUCCESS": 82.1,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 286
+        }
+      ]
+    },
+    {
+      "Area": 95,
+      "Name": "Cedar Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 301,
+          "BUCK": 232,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 237,
+          "HUNTER_SUCCESS": 78.7,
+          "DAYS_HARVEST": 6.9,
+          "HUNTER_DAYS": 1644
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 21,
+          "BUCK": 0,
+          "DOE": 19,
+          "FAWN": 2,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.7,
+          "HUNTER_DAYS": 35
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 315,
+          "BUCK": 232,
+          "DOE": 24,
+          "FAWN": 2,
+          "TOTAL": 258,
+          "HUNTER_SUCCESS": 81.9,
+          "DAYS_HARVEST": 6.5,
+          "HUNTER_DAYS": 1679
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 246,
+          "BUCK": 167,
+          "DOE": 14,
+          "FAWN": 2,
+          "TOTAL": 183,
+          "HUNTER_SUCCESS": 74.4,
+          "DAYS_HARVEST": 7.8,
+          "HUNTER_DAYS": 1420
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 69,
+          "BUCK": 65,
+          "DOE": 10,
+          "FAWN": 0,
+          "TOTAL": 75,
+          "HUNTER_SUCCESS": 108.7,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 259
+        }
+      ]
+    },
+    {
+      "Area": 96,
+      "Name": "West Farson",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 78,
+          "BUCK": 64,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 64,
+          "HUNTER_SUCCESS": 82.1,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 239
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 78,
+          "BUCK": 64,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 64,
+          "HUNTER_SUCCESS": 82.1,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 239
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 60,
+          "BUCK": 46,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 46,
+          "HUNTER_SUCCESS": 76.7,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 187
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 18,
+          "BUCK": 18,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 52
+        }
+      ]
+    },
+    {
+      "Area": 97,
+      "Name": "Boysen",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 77,
+          "BUCK": 57,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 60,
+          "HUNTER_SUCCESS": 77.9,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 267
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 28,
+          "BUCK": 21,
+          "DOE": 3,
+          "FAWN": 0,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 75.0,
+          "DAYS_HARVEST": 2.4,
+          "HUNTER_DAYS": 51
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 12,
+          "BUCK": 0,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 33
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 111,
+          "BUCK": 78,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 93,
+          "HUNTER_SUCCESS": 83.8,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 351
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 74,
+          "BUCK": 48,
+          "DOE": 14,
+          "FAWN": 0,
+          "TOTAL": 56,
+          "HUNTER_SUCCESS": 75.7,
+          "DAYS_HARVEST": 4.8,
+          "HUNTER_DAYS": 269
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 37,
+          "BUCK": 30,
+          "DOE": null,
+          "FAWN": 1,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.2,
+          "HUNTER_DAYS": 82
+        }
+      ]
+    },
+    {
+      "Area": 98,
+      "Name": "Sage",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 45,
+          "BUCK": 36,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 82.2,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 133
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 45,
+          "BUCK": 36,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 82.2,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 133
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 38,
+          "BUCK": 31,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 31,
+          "HUNTER_SUCCESS": 81.6,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 116
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 7,
+          "BUCK": 5,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 85.7,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 17
+        }
+      ]
+    },
+    {
+      "Area": 99,
+      "Name": "Uinta",
+      "data": [
+        {
+          "TYPE": "Full 0",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 25,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 83
+        },
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 116,
+          "BUCK": 93,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 97,
+          "HUNTER_SUCCESS": 83.6,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 397
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 23,
+          "BUCK": 15,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 65.2,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 77
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 164,
+          "BUCK": 133,
+          "DOE": null,
+          "FAWN": 4,
+          "TOTAL": 137,
+          "HUNTER_SUCCESS": 83.5,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 557
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 128,
+          "BUCK": 101,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 105,
+          "HUNTER_SUCCESS": 82.0,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 455
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 36,
+          "BUCK": 32,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 88.9,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 102
+        }
+      ]
+    },
+    {
+      "Area": 100,
+      "Name": "Bear River Divide",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 103,
+          "BUCK": 74,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 74,
+          "HUNTER_SUCCESS": 71.8,
+          "DAYS_HARVEST": 7.9,
+          "HUNTER_DAYS": 583
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 103,
+          "BUCK": 74,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 74,
+          "HUNTER_SUCCESS": 71.8,
+          "DAYS_HARVEST": 7.9,
+          "HUNTER_DAYS": 583
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 81,
+          "BUCK": 53,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 65.4,
+          "DAYS_HARVEST": 10.1,
+          "HUNTER_DAYS": 536
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 21,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 95.5,
+          "DAYS_HARVEST": 2.2,
+          "HUNTER_DAYS": 47
+        }
+      ]
+    },
+    {
+      "Area": 101,
+      "Name": "Yellow Point",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 31,
+          "BUCK": 23,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 74.2,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 103
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 31,
+          "BUCK": 23,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 74.2,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 103
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 17,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 70.8,
+          "DAYS_HARVEST": 5.0,
+          "HUNTER_DAYS": 85
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 7,
+          "BUCK": 6,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 85.7,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 18
+        }
+      ]
+    },
+    {
+      "Area": 102,
+      "Name": "Buffalo",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 309,
+          "BUCK": 158,
+          "DOE": 27,
+          "FAWN": 0,
+          "TOTAL": 185,
+          "HUNTER_SUCCESS": 59.9,
+          "DAYS_HARVEST": 7.0,
+          "HUNTER_DAYS": 1303
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 231,
+          "BUCK": 0,
+          "DOE": 104,
+          "FAWN": 3,
+          "TOTAL": 107,
+          "HUNTER_SUCCESS": 46.3,
+          "DAYS_HARVEST": 8.3,
+          "HUNTER_DAYS": 885
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 488,
+          "BUCK": 158,
+          "DOE": 131,
+          "FAWN": 3,
+          "TOTAL": 292,
+          "HUNTER_SUCCESS": 59.8,
+          "DAYS_HARVEST": 7.5,
+          "HUNTER_DAYS": 2188
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 196,
+          "BUCK": 59,
+          "DOE": 43,
+          "FAWN": 0,
+          "TOTAL": 102,
+          "HUNTER_SUCCESS": 52.0,
+          "DAYS_HARVEST": 10.2,
+          "HUNTER_DAYS": 1039
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 292,
+          "BUCK": 99,
+          "DOE": 88,
+          "FAWN": 3,
+          "TOTAL": 190,
+          "HUNTER_SUCCESS": 65.1,
+          "DAYS_HARVEST": 6.0,
+          "HUNTER_DAYS": 1149
+        }
+      ]
+    },
+    {
+      "Area": 103,
+      "Name": "Dwyer",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 247,
+          "BUCK": 183,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 188,
+          "HUNTER_SUCCESS": 76.1,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 746
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 0,
+          "DOE": 15,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 68.2,
+          "DAYS_HARVEST": 5.3,
+          "HUNTER_DAYS": 80
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 265,
+          "BUCK": 183,
+          "DOE": 20,
+          "FAWN": 0,
+          "TOTAL": 203,
+          "HUNTER_SUCCESS": 76.6,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 826
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 201,
+          "BUCK": 144,
+          "DOE": 20,
+          "FAWN": 0,
+          "TOTAL": 164,
+          "HUNTER_SUCCESS": 81.6,
+          "DAYS_HARVEST": 4.0,
+          "HUNTER_DAYS": 649
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 64,
+          "BUCK": 39,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 39,
+          "HUNTER_SUCCESS": 60.9,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 177
+        }
+      ]
+    },
+    {
+      "Area": 106,
+      "Name": "Long Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 108,
+          "BUCK": 85,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 85,
+          "HUNTER_SUCCESS": 78.7,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 261
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 108,
+          "BUCK": 85,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 85,
+          "HUNTER_SUCCESS": 78.7,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 261
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 73,
+          "BUCK": 56,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 56,
+          "HUNTER_SUCCESS": 76.7,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 175
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 35,
+          "BUCK": 29,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 29,
+          "HUNTER_SUCCESS": 82.9,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 86
+        }
+      ]
+    },
+    {
+      "Area": 107,
+      "Name": "Upper Sweetwater",
+      "data": [
+        {
+          "TYPE": "Full 0",
+          "ACTIVE_LICS_HTRS": 27,
+          "BUCK": 16,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 66.7,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 91
+        },
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 76,
+          "BUCK": 65,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 85.5,
+          "DAYS_HARVEST": 3.1,
+          "HUNTER_DAYS": 199
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 103,
+          "BUCK": 81,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 83,
+          "HUNTER_SUCCESS": 80.6,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 290
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 78,
+          "BUCK": 58,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 60,
+          "HUNTER_SUCCESS": 76.9,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 214
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 25,
+          "BUCK": 23,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 92.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 76
+        }
+      ]
+    },
+    {
+      "Area": 108,
+      "Name": "Bridger Pass",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 22,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 91.7,
+          "DAYS_HARVEST": 7.9,
+          "HUNTER_DAYS": 173
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 24,
+          "BUCK": 22,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 91.7,
+          "DAYS_HARVEST": 7.9,
+          "HUNTER_DAYS": 173
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 18,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 90.0,
+          "DAYS_HARVEST": 9.0,
+          "HUNTER_DAYS": 162
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 4,
+          "BUCK": 4,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 11
+        }
+      ]
+    },
+    {
+      "Area": 109,
+      "Name": "Beckton",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 160,
+          "BUCK": 64,
+          "DOE": 18,
+          "FAWN": 0,
+          "TOTAL": 82,
+          "HUNTER_SUCCESS": 51.2,
+          "DAYS_HARVEST": 9.6,
+          "HUNTER_DAYS": 785
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 127,
+          "BUCK": 0,
+          "DOE": 47,
+          "FAWN": 6,
+          "TOTAL": 53,
+          "HUNTER_SUCCESS": 41.7,
+          "DAYS_HARVEST": 13.2,
+          "HUNTER_DAYS": 698
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 266,
+          "BUCK": 64,
+          "DOE": 65,
+          "FAWN": 6,
+          "TOTAL": 135,
+          "HUNTER_SUCCESS": 50.8,
+          "DAYS_HARVEST": 11.0,
+          "HUNTER_DAYS": 1483
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 140,
+          "BUCK": 25,
+          "DOE": 34,
+          "FAWN": 6,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 46.4,
+          "DAYS_HARVEST": 15.2,
+          "HUNTER_DAYS": 988
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 126,
+          "BUCK": 39,
+          "DOE": 31,
+          "FAWN": 0,
+          "TOTAL": 70,
+          "HUNTER_SUCCESS": 55.6,
+          "DAYS_HARVEST": 7.1,
+          "HUNTER_DAYS": 495
+        }
+      ]
+    },
+    {
+      "Area": 110,
+      "Name": "South Greybull River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 152,
+          "BUCK": 130,
+          "DOE": 5,
+          "FAWN": 0,
+          "TOTAL": 135,
+          "HUNTER_SUCCESS": 88.8,
+          "DAYS_HARVEST": 3.0,
+          "HUNTER_DAYS": 401
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 61,
+          "BUCK": 0,
+          "DOE": 53,
+          "FAWN": 2,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 90.2,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 137
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 192,
+          "BUCK": 130,
+          "DOE": 58,
+          "FAWN": 2,
+          "TOTAL": 190,
+          "HUNTER_SUCCESS": 99.0,
+          "DAYS_HARVEST": 2.8,
+          "HUNTER_DAYS": 538
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 145,
+          "BUCK": 93,
+          "DOE": 45,
+          "FAWN": 2,
+          "TOTAL": 140,
+          "HUNTER_SUCCESS": 96.6,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 407
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 47,
+          "BUCK": 37,
+          "DOE": 13,
+          "FAWN": 0,
+          "TOTAL": 50,
+          "HUNTER_SUCCESS": 106.4,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 131
+        }
+      ]
+    },
+    {
+      "Area": 111,
+      "Name": "Chalk Bluffs",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 138,
+          "BUCK": 96,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 96,
+          "HUNTER_SUCCESS": 69.6,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 444
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 37,
+          "BUCK": 0,
+          "DOE": 23,
+          "FAWN": 7,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 81.1,
+          "DAYS_HARVEST": 2.6,
+          "HUNTER_DAYS": 77
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 165,
+          "BUCK": 96,
+          "DOE": 23,
+          "FAWN": 7,
+          "TOTAL": 126,
+          "HUNTER_SUCCESS": 76.4,
+          "DAYS_HARVEST": 4.1,
+          "HUNTER_DAYS": 521
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 127,
+          "BUCK": 67,
+          "DOE": 14,
+          "FAWN": 7,
+          "TOTAL": 88,
+          "HUNTER_SUCCESS": 69.3,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 412
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 38,
+          "BUCK": 29,
+          "DOE": 9,
+          "FAWN": 0,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 2.9,
+          "HUNTER_DAYS": 109
+        }
+      ]
+    },
+    {
+      "Area": 112,
+      "Name": "Pine Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 42,
+          "BUCK": 26,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 61.9,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 94
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 42,
+          "BUCK": 26,
+          "DOE": null,
+          "FAWN": null,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 61.9,
+          "DAYS_HARVEST": 3.6,
+          "HUNTER_DAYS": 94
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 32,
+          "BUCK": 16,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 50.0,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 61
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 10,
+          "BUCK": 10,
+          "DOE": 0,
+          "FAWN": null,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 3.3,
+          "HUNTER_DAYS": 33
+        }
+      ]
+    },
+    {
+      "Area": 113,
+      "Name": "Salt Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 91,
+          "BUCK": 39,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 46,
+          "HUNTER_SUCCESS": 50.5,
+          "DAYS_HARVEST": 7.4,
+          "HUNTER_DAYS": 340
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 99,
+          "BUCK": 43,
+          "DOE": 21,
+          "FAWN": 4,
+          "TOTAL": 68,
+          "HUNTER_SUCCESS": 68.7,
+          "DAYS_HARVEST": 4.7,
+          "HUNTER_DAYS": 322
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 21,
+          "BUCK": 0,
+          "DOE": 12,
+          "FAWN": null,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 57.1,
+          "DAYS_HARVEST": 11.1,
+          "HUNTER_DAYS": 133
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 209,
+          "BUCK": 82,
+          "DOE": 40,
+          "FAWN": null,
+          "TOTAL": 126,
+          "HUNTER_SUCCESS": 60.3,
+          "DAYS_HARVEST": 6.3,
+          "HUNTER_DAYS": 795
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 84,
+          "BUCK": 20,
+          "DOE": 14,
+          "FAWN": 0,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 40.5,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 380
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 125,
+          "BUCK": 62,
+          "DOE": 26,
+          "FAWN": 4,
+          "TOTAL": 92,
+          "HUNTER_SUCCESS": 73.6,
+          "DAYS_HARVEST": 4.5,
+          "HUNTER_DAYS": 415
+        }
+      ]
+    },
+    {
+      "Area": 114,
+      "Name": "Nowater",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 50,
+          "BUCK": 33,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 33,
+          "HUNTER_SUCCESS": 66.0,
+          "DAYS_HARVEST": 5.3,
+          "HUNTER_DAYS": 174
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 26,
+          "BUCK": 0,
+          "DOE": 26,
+          "FAWN": 0,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.8,
+          "HUNTER_DAYS": 48
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 74,
+          "BUCK": 33,
+          "DOE": 26,
+          "FAWN": 0,
+          "TOTAL": 59,
+          "HUNTER_SUCCESS": 79.7,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 222
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 58,
+          "BUCK": 23,
+          "DOE": 19,
+          "FAWN": 0,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 72.4,
+          "DAYS_HARVEST": 3.7,
+          "HUNTER_DAYS": 157
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 16,
+          "BUCK": 10,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 106.2,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 65
+        }
+      ]
+    },
+    {
+      "Area": 115,
+      "Name": "Upper Nowood",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 131,
+          "BUCK": 104,
+          "DOE": 7,
+          "FAWN": 0,
+          "TOTAL": 111,
+          "HUNTER_SUCCESS": 84.7,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 562
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 46,
+          "BUCK": 0,
+          "DOE": 32,
+          "FAWN": null,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 73.9,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 108
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 161,
+          "BUCK": 104,
+          "DOE": 39,
+          "FAWN": 2,
+          "TOTAL": 145,
+          "HUNTER_SUCCESS": 90.1,
+          "DAYS_HARVEST": 4.6,
+          "HUNTER_DAYS": 670
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 117,
+          "BUCK": 72,
+          "DOE": 37,
+          "FAWN": 0,
+          "TOTAL": 109,
+          "HUNTER_SUCCESS": 93.2,
+          "DAYS_HARVEST": 4.9,
+          "HUNTER_DAYS": 533
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 44,
+          "BUCK": 32,
+          "DOE": 2,
+          "FAWN": 2,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 81.8,
+          "DAYS_HARVEST": 3.8,
+          "HUNTER_DAYS": 137
+        }
+      ]
+    },
+    {
+      "Area": 117,
+      "Name": "Crowheart Butte",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 3,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0.0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 3
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 0,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0.0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 2,
+          "BUCK": 0,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 100.0,
+          "DAYS_HARVEST": 1.0,
+          "HUNTER_DAYS": 2
+        },
+        {
+          "TYPE": "Pooled Total",
+          "ACTIVE_LICS_HTRS": 6,
+          "BUCK": 0,
+          "DOE": 2,
+          "FAWN": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 33.3,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 5
+        },
+        {
+          "TYPE": "Pooled Resident",
+          "ACTIVE_LICS_HTRS": 6,
+          "BUCK": 0,
+          "DOE": null,
+          "FAWN": 0,
+          "TOTAL": null,
+          "HUNTER_SUCCESS": 33.3,
+          "DAYS_HARVEST": 2.5,
+          "HUNTER_DAYS": 5
+        },
+        {
+          "TYPE": "Pooled Nonresident",
+          "ACTIVE_LICS_HTRS": 0,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0.0,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0
+        }
+      ]
+    }
+  ]
+}

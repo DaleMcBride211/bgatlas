@@ -1,0 +1,77 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "ABSAROKA",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 2,
+          "BULL": 2,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 100,
+          "DAYS_HARVEST": 4,
+          "HUNTER_DAYS": 8
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 0,
+          "BULL": 0,
+          "COW": 0,
+          "CALF": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": null,
+          "DAYS_HARVEST": null,
+          "HUNTER_DAYS": 0
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "JACKSON",
+      "data": [
+        {
+          "TYPE": "RESIDENT",
+          "ACTIVE_LICS_HTRS": 58,
+          "BULL": 36,
+          "COW": 19,
+          "CALF": 0,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 94.8,
+          "DAYS_HARVEST": 10.2,
+          "HUNTER_DAYS": 563
+        },
+        {
+          "TYPE": "NONRESIDENT",
+          "ACTIVE_LICS_HTRS": 8,
+          "BULL": 7,
+          "COW": 0,
+          "CALF": 1,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 100,
+          "DAYS_HARVEST": 5.4,
+          "HUNTER_DAYS": 43
+        }
+      ]
+    },
+    {
+      "Area": "TOTAL",
+      "Name": "ALL",
+      "data": [
+        {
+          "TYPE": "TOTAL",
+          "ACTIVE_LICS_HTRS": 68,
+          "BULL": 45,
+          "COW": 20,
+          "CALF": 0,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 95.6,
+          "DAYS_HARVEST": 9.4,
+          "HUNTER_DAYS": 614
+        }
+      ]
+    }
+  ]
+}
