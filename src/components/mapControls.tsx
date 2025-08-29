@@ -1,4 +1,3 @@
-// src/components/MapControls.tsx
 'use client';
 
 import {
@@ -7,23 +6,30 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select"
+} from "@/components/ui/select";
 
-export const MapControls = () => {
+interface MapControlsProps {
+  animalChange: (value: string) => void;
+}
+
+export const MapControls = ({ animalChange }: MapControlsProps) => {
+
+  const defaultAnimal = "Antelope";
+
   return (
-    <div className="fixed top-4 right-4 z-10">
-      <Select>
-        <SelectTrigger className="w-[120px]">
-          <SelectValue placeholder="Species" />
+    <div className="fixed top-4 right-12 z-10">
+      <Select onValueChange={animalChange} defaultValue={defaultAnimal}>
+        <SelectTrigger className="w-[120px] bg-white border-2 border-slate-700 text-slate-800 font-semibold shadow-lg hover:bg-slate-50">
+          <SelectValue />
         </SelectTrigger>
-        <SelectContent>
+        <SelectContent className="bg-white border-2 border-slate-700 text-slate-800 shadow-lg">
           <SelectItem value="Antelope">Antelope</SelectItem>
           <SelectItem value="Bighorn Sheep">Bighorn Sheep</SelectItem>
           <SelectItem value="Bison">Bison</SelectItem>
           <SelectItem value="Black Bear">Black Bear</SelectItem>
           <SelectItem value="Deer">Deer</SelectItem>
           <SelectItem value="Elk">Elk</SelectItem>
-          <SelectItem value="Gray Wolf">Gray Wolf</SelectItem>
+          <SelectItem value="Gray Wolf">Wolf</SelectItem>
           <SelectItem value="Grizzly Bear">Grizzly Bear</SelectItem>
           <SelectItem value="Moose">Moose</SelectItem>
           <SelectItem value="Mountain Goat">Mountain Goat</SelectItem>
