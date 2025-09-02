@@ -22,7 +22,8 @@ interface MapPopupContentProps {
     HUNTNAME: string;
     HERDNAME: string;
     [key: string]: any; // Allow for other properties
-  };
+  },
+  animalName: string;
 }
 
 interface HarvestData {
@@ -39,7 +40,7 @@ interface HarvestData {
   "LICENSES_SOLD_(CROSS_HUNT_INCL)": number;
 }
 
-export function MapPopupContent({ properties }: MapPopupContentProps) {
+export function MapPopupContent({ properties, animalName }: MapPopupContentProps) {
   const [elkHarvestData, setElkHarvestData] = useState(null);
   const [error, setError] = useState<string | null>(null);
 
@@ -54,7 +55,8 @@ export function MapPopupContent({ properties }: MapPopupContentProps) {
   useEffect(() => {
     const fetchElkData = async () => {
       try {
-        const response = await fetch('/elk/elkharvestdata2024.json');
+        console.log('Popup', animalName);
+        const response = await fetch(`/${animalName}/${animalName}harvestdata.json`);
 
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
