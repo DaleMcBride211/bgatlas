@@ -27,7 +27,8 @@ export const MapControls = ({ animalChange }: MapControlsProps) => {
           <SelectItem value="Bighorn Sheep">Bighorn Sheep</SelectItem>
           <SelectItem value="Bison">Bison</SelectItem>
           <SelectItem value="Black Bear">Black Bear</SelectItem>
-          <SelectItem value="Deer">Deer</SelectItem>
+          <SelectItem value="Mule Deer">Mule Deer</SelectItem>
+          <SelectItem value="Whitetail">Whitetail</SelectItem>
           <SelectItem value="Elk">Elk</SelectItem>
           <SelectItem value="Gray Wolf">Wolf</SelectItem>
           <SelectItem value="Grizzly Bear">Grizzly Bear</SelectItem>

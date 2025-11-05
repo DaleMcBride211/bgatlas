@@ -129,10 +129,6 @@ export const MapContainer = ({ animalName }: { animalName: string }) => {
       const coordinates = e.lngLat;
       const properties = features.properties;
 
-      if (!properties || !properties.HUNTAREA || !properties.HUNTNAME || !properties.HERDNAME) {
-        console.error('Clicked feature is missing required properties for the popup.');
-        return;
-      }
 
       const typedProperties = properties as {
         [key: string]: any;

@@ -1,0 +1,2604 @@
+{
+  "areas": [
+    {
+      "Area": 1,
+      "Name": "Crook",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 850,
+          "BUCK": 344,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 344,
+          "HUNTER_SUCCESS": 0.405,
+          "DAYS_HARVEST": 6.5,
+          "HUNTER_DAYS": 2219
+        }
+      ]
+    },
+    {
+      "Area": 2,
+      "Name": "Bearlodge",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 999,
+          "BUCK": 236,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 236,
+          "HUNTER_SUCCESS": 0.236,
+          "DAYS_HARVEST": 8.4,
+          "HUNTER_DAYS": 1980
+        }
+      ]
+    },
+    {
+      "Area": 3,
+      "Name": "Keyhole",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 346,
+          "BUCK": 141,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 141,
+          "HUNTER_SUCCESS": 0.408,
+          "DAYS_HARVEST": 7.4,
+          "HUNTER_DAYS": 1050
+        }
+      ]
+    },
+    {
+      "Area": 4,
+      "Name": "Sand Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 502,
+          "BUCK": 96,
+          "DOE": 0,
+          "FAWN": 3,
+          "TOTAL": 99,
+          "HUNTER_SUCCESS": 0.197,
+          "DAYS_HARVEST": 12.9,
+          "HUNTER_DAYS": 1280
+        }
+      ]
+    },
+    {
+      "Area": 5,
+      "Name": "Inyan Kara",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 266,
+          "BUCK": 113,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 113,
+          "HUNTER_SUCCESS": 0.425,
+          "DAYS_HARVEST": 8.6,
+          "HUNTER_DAYS": 974
+        }
+      ]
+    },
+    {
+      "Area": 6,
+      "Name": "Skull Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 582,
+          "BUCK": 257,
+          "DOE": 0,
+          "FAWN": 5,
+          "TOTAL": 262,
+          "HUNTER_SUCCESS": 0.45,
+          "DAYS_HARVEST": 7.6,
+          "HUNTER_DAYS": 1992
+        }
+      ]
+    },
+    {
+      "Area": 7,
+      "Name": "South Osage",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 166,
+          "BUCK": 66,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 0.398,
+          "DAYS_HARVEST": 9.5,
+          "HUNTER_DAYS": 627
+        }
+      ]
+    },
+    {
+      "Area": 8,
+      "Name": "Upton-Four Horse",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 253,
+          "BUCK": 103,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 103,
+          "HUNTER_SUCCESS": 0.407,
+          "DAYS_HARVEST": 10.8,
+          "HUNTER_DAYS": 1114
+        }
+      ]
+    },
+    {
+      "Area": 9,
+      "Name": "Blacktail Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 206,
+          "BUCK": 101,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 101,
+          "HUNTER_SUCCESS": 0.49,
+          "DAYS_HARVEST": 8,
+          "HUNTER_DAYS": 804
+        }
+      ]
+    },
+    {
+      "Area": 10,
+      "Name": "Rochelle Hills",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 75,
+          "BUCK": 34,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 34,
+          "HUNTER_SUCCESS": 0.453,
+          "DAYS_HARVEST": 13.2,
+          "HUNTER_DAYS": 449,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        }
+      ]
+    },
+    {
+      "Area": 11,
+      "Name": "Mule Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 256,
+          "BUCK": 134,
+          "DOE": 0,
+          "FAWN": 5,
+          "TOTAL": 139,
+          "HUNTER_SUCCESS": 0.543,
+          "DAYS_HARVEST": 7.9,
+          "HUNTER_DAYS": 1098
+        }
+      ]
+    },
+    {
+      "Area": 12,
+      "Name": "Hat Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 183,
+          "BUCK": 86,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 86,
+          "HUNTER_SUCCESS": 0.47,
+          "DAYS_HARVEST": 7.8,
+          "HUNTER_DAYS": 669
+        }
+      ]
+    },
+    {
+      "Area": 13,
+      "Name": "Lusk",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 347,
+          "BUCK": 138,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 138,
+          "HUNTER_SUCCESS": 0.398,
+          "DAYS_HARVEST": 9.3,
+          "HUNTER_DAYS": 1284
+        }
+      ]
+    },
+    {
+      "Area": 14,
+      "Name": "Twenty Mile",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 208,
+          "BUCK": 95,
+          "DOE": 4,
+          "FAWN": 0,
+          "TOTAL": 99,
+          "HUNTER_SUCCESS": 0.476,
+          "DAYS_HARVEST": 11.8,
+          "HUNTER_DAYS": 1168
+        }
+      ]
+    },
+    {
+      "Area": 15,
+      "Name": "Southeast Wyoming",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 119,
+          "BUCK": 0,
+          "DOE": 91,
+          "FAWN": 10,
+          "TOTAL": 101,
+          "HUNTER_SUCCESS": 0.849,
+          "DAYS_HARVEST": 5.1,
+          "HUNTER_DAYS": 514,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 151
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1369,
+          "BUCK": 548,
+          "DOE": 7,
+          "FAWN": 3,
+          "TOTAL": 558,
+          "HUNTER_SUCCESS": 0.408,
+          "DAYS_HARVEST": 12.1,
+          "HUNTER_DAYS": 6758
+        }
+      ]
+    },
+    {
+      "Area": 17,
+      "Name": "Northwest Gillette",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1200,
+          "BUCK": 530,
+          "DOE": 10,
+          "FAWN": 0,
+          "TOTAL": 540,
+          "HUNTER_SUCCESS": 0.45,
+          "DAYS_HARVEST": 9.1,
+          "HUNTER_DAYS": 4896
+        }
+      ]
+    },
+    {
+      "Area": 18,
+      "Name": "Campbell",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 798,
+          "BUCK": 342,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 342,
+          "HUNTER_SUCCESS": 0.429,
+          "DAYS_HARVEST": 8.9,
+          "HUNTER_DAYS": 3034
+        }
+      ]
+    },
+    {
+      "Area": 19,
+      "Name": "Pumpkin Buttes",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 476,
+          "BUCK": 232,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 232,
+          "HUNTER_SUCCESS": 0.487,
+          "DAYS_HARVEST": 9.6,
+          "HUNTER_DAYS": 2220
+        }
+      ]
+    },
+    {
+      "Area": 21,
+      "Name": "Thunder Basin",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 223,
+          "BUCK": 114,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 114,
+          "HUNTER_SUCCESS": 0.511,
+          "DAYS_HARVEST": 8.9,
+          "HUNTER_DAYS": 1018
+        }
+      ]
+    },
+    {
+      "Area": 22,
+      "Name": "Douglas",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 139,
+          "BUCK": 84,
+          "DOE": 0,
+          "FAWN": 3,
+          "TOTAL": 87,
+          "HUNTER_SUCCESS": 0.626,
+          "DAYS_HARVEST": 8.4,
+          "HUNTER_DAYS": 727,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 157
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 133,
+          "BUCK": 91,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 93,
+          "HUNTER_SUCCESS": 0.699,
+          "DAYS_HARVEST": 3.5,
+          "HUNTER_DAYS": 329,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 179
+        }
+      ]
+    },
+    {
+      "Area": 23,
+      "Name": "Clearmont",
+      "data": [
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 13,
+          "BUCK": 0,
+          "DOE": 11,
+          "FAWN": 0,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.846,
+          "DAYS_HARVEST": 14.7,
+          "HUNTER_DAYS": 162,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 988,
+          "BUCK": 561,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 561,
+          "HUNTER_SUCCESS": 0.568,
+          "DAYS_HARVEST": 7.2,
+          "HUNTER_DAYS": 4014
+        }
+      ]
+    },
+    {
+      "Area": 24,
+      "Name": "Sheridan",
+      "data": [
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 16,
+          "BUCK": 0,
+          "DOE": 12,
+          "FAWN": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.75,
+          "DAYS_HARVEST": 5.2,
+          "HUNTER_DAYS": 63,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 26
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 637,
+          "BUCK": 247,
+          "DOE": 0,
+          "FAWN": 5,
+          "TOTAL": 252,
+          "HUNTER_SUCCESS": 0.396,
+          "DAYS_HARVEST": 10.3,
+          "HUNTER_DAYS": 2589
+        }
+      ]
+    },
+    {
+      "Area": 25,
+      "Name": "Tongue-Goose",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 415,
+          "BUCK": 119,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 119,
+          "HUNTER_SUCCESS": 0.287,
+          "DAYS_HARVEST": 17.8,
+          "HUNTER_DAYS": 2118
+        }
+      ]
+    },
+    {
+      "Area": 26,
+      "Name": "Ucross",
+      "data": [
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 0,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": "NA",
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 442,
+          "BUCK": 232,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 232,
+          "HUNTER_SUCCESS": 0.525,
+          "DAYS_HARVEST": 6.7,
+          "HUNTER_DAYS": 1560
+        }
+      ]
+    },
+    {
+      "Area": 27,
+      "Name": "Buffalo",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 373,
+          "BUCK": 60,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 60,
+          "HUNTER_SUCCESS": 0.161,
+          "DAYS_HARVEST": 27.6,
+          "HUNTER_DAYS": 1655
+        }
+      ]
+    },
+    {
+      "Area": 28,
+      "Name": "Hunter Mesa",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 414,
+          "BUCK": 89,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 89,
+          "HUNTER_SUCCESS": 0.215,
+          "DAYS_HARVEST": 32.8,
+          "HUNTER_DAYS": 2917
+        }
+      ]
+    },
+    {
+      "Area": 29,
+      "Name": "Johnson",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 278,
+          "BUCK": 143,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 143,
+          "HUNTER_SUCCESS": 0.514,
+          "DAYS_HARVEST": 8.5,
+          "HUNTER_DAYS": 1213
+        }
+      ]
+    },
+    {
+      "Area": 30,
+      "Name": "Upper Powder River",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 265,
+          "BUCK": 55,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 0.208,
+          "DAYS_HARVEST": 22.8,
+          "HUNTER_DAYS": 1252
+        }
+      ]
+    },
+    {
+      "Area": 31,
+      "Name": "Salt Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 98,
+          "BUCK": 33,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 33,
+          "HUNTER_SUCCESS": 0.337,
+          "DAYS_HARVEST": 8,
+          "HUNTER_DAYS": 265
+        }
+      ]
+    },
+    {
+      "Area": 32,
+      "Name": "Beartrap Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 67,
+          "BUCK": 23,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 23,
+          "HUNTER_SUCCESS": 0.343,
+          "DAYS_HARVEST": 14.3,
+          "HUNTER_DAYS": 328
+        }
+      ]
+    },
+    {
+      "Area": 33,
+      "Name": "Red Fork",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 604,
+          "BUCK": 275,
+          "DOE": 3,
+          "FAWN": 3,
+          "TOTAL": 281,
+          "HUNTER_SUCCESS": 0.465,
+          "DAYS_HARVEST": 8.7,
+          "HUNTER_DAYS": 2434
+        }
+      ]
+    },
+    {
+      "Area": 34,
+      "Name": "North Natrona",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 119,
+          "BUCK": 80,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 80,
+          "HUNTER_SUCCESS": 0.672,
+          "DAYS_HARVEST": 8.2,
+          "HUNTER_DAYS": 653,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 127
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 17,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 1,
+          "TOTAL": 1,
+          "HUNTER_SUCCESS": 0.059,
+          "DAYS_HARVEST": 57,
+          "HUNTER_DAYS": 57,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 35,
+      "Name": "Upper Nowood",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 119,
+          "BUCK": 41,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 41,
+          "HUNTER_SUCCESS": 0.345,
+          "DAYS_HARVEST": 11.4,
+          "HUNTER_DAYS": 467
+        }
+      ]
+    },
+    {
+      "Area": 36,
+      "Name": "Badwater",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 60,
+          "BUCK": 31,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 33,
+          "HUNTER_SUCCESS": 0.55,
+          "DAYS_HARVEST": 5.8,
+          "HUNTER_DAYS": 191,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 75
+        }
+      ]
+    },
+    {
+      "Area": 37,
+      "Name": "Copper Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 43,
+          "BUCK": 25,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 0.581,
+          "DAYS_HARVEST": 5.5,
+          "HUNTER_DAYS": 137,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 57
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 14,
+          "BUCK": 0,
+          "DOE": 13,
+          "FAWN": 2,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 1.071,
+          "DAYS_HARVEST": 2.1,
+          "HUNTER_DAYS": 31,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 39,
+      "Name": "Bates Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 141,
+          "BUCK": 62,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 62,
+          "HUNTER_SUCCESS": 0.44,
+          "DAYS_HARVEST": 11,
+          "HUNTER_DAYS": 685
+        }
+      ]
+    },
+    {
+      "Area": 40,
+      "Name": "Buffalo Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 42,
+          "BUCK": 0,
+          "DOE": 24,
+          "FAWN": 5,
+          "TOTAL": 29,
+          "HUNTER_SUCCESS": 0.69,
+          "DAYS_HARVEST": 5,
+          "HUNTER_DAYS": 145,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 425,
+          "BUCK": 195,
+          "DOE": 0,
+          "FAWN": 6,
+          "TOTAL": 201,
+          "HUNTER_SUCCESS": 0.473,
+          "DAYS_HARVEST": 9.2,
+          "HUNTER_DAYS": 1857
+        }
+      ]
+    },
+    {
+      "Area": 41,
+      "Name": "Lower Nowood",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 83,
+          "BUCK": 0,
+          "DOE": 43,
+          "FAWN": 8,
+          "TOTAL": 51,
+          "HUNTER_SUCCESS": 0.614,
+          "DAYS_HARVEST": 4.3,
+          "HUNTER_DAYS": 218,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 541,
+          "BUCK": 152,
+          "DOE": 0,
+          "FAWN": 44,
+          "TOTAL": 196,
+          "HUNTER_SUCCESS": 0.362,
+          "DAYS_HARVEST": 11.9,
+          "HUNTER_DAYS": 2333
+        }
+      ]
+    },
+    {
+      "Area": 46,
+      "Name": "Cloud Peak",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 369,
+          "BUCK": 93,
+          "DOE": 0,
+          "FAWN": 3,
+          "TOTAL": 96,
+          "HUNTER_SUCCESS": 0.26,
+          "DAYS_HARVEST": 17.2,
+          "HUNTER_DAYS": 1654
+        }
+      ]
+    },
+    {
+      "Area": 47,
+      "Name": "Webber Canyon",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 0,
+          "DOE": 21,
+          "FAWN": 5,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 0.542,
+          "DAYS_HARVEST": 5.2,
+          "HUNTER_DAYS": 136,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 518,
+          "BUCK": 132,
+          "DOE": 0,
+          "FAWN": 34,
+          "TOTAL": 166,
+          "HUNTER_SUCCESS": 0.32,
+          "DAYS_HARVEST": 12.6,
+          "HUNTER_DAYS": 2094
+        }
+      ]
+    },
+    {
+      "Area": 50,
+      "Name": "Upper Shell-Beaver Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 198,
+          "BUCK": 38,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 0.192,
+          "DAYS_HARVEST": 21.7,
+          "HUNTER_DAYS": 825
+        }
+      ]
+    },
+    {
+      "Area": 51,
+      "Name": "Beaver Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 93,
+          "BUCK": 0,
+          "DOE": 52,
+          "FAWN": 14,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 0.71,
+          "DAYS_HARVEST": 6.4,
+          "HUNTER_DAYS": 424,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 148
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 184,
+          "BUCK": 43,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 43,
+          "HUNTER_SUCCESS": 0.234,
+          "DAYS_HARVEST": 18.8,
+          "HUNTER_DAYS": 809
+        }
+      ]
+    },
+    {
+      "Area": 52,
+      "Name": "Crystal Creek",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 17,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 4,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 0.235,
+          "DAYS_HARVEST": 25.2,
+          "HUNTER_DAYS": 101,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 26
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 132,
+          "BUCK": 35,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.265,
+          "DAYS_HARVEST": 15.3,
+          "HUNTER_DAYS": 537
+        }
+      ]
+    },
+    {
+      "Area": 53,
+      "Name": "Devils Canyon",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 254,
+          "BUCK": 66,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 66,
+          "HUNTER_SUCCESS": 0.26,
+          "DAYS_HARVEST": 16.2,
+          "HUNTER_DAYS": 1068
+        }
+      ]
+    },
+    {
+      "Area": 59,
+      "Name": "South Laramie Mountains",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 57,
+          "BUCK": 0,
+          "DOE": 36,
+          "FAWN": 2,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 0.667,
+          "DAYS_HARVEST": 7.3,
+          "HUNTER_DAYS": 279,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 452,
+          "BUCK": 237,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 237,
+          "HUNTER_SUCCESS": 0.524,
+          "DAYS_HARVEST": 8.2,
+          "HUNTER_DAYS": 1949
+        }
+      ]
+    },
+    {
+      "Area": 60,
+      "Name": "Pole Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 87,
+          "BUCK": 57,
+          "DOE": 3,
+          "FAWN": 5,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 0.747,
+          "DAYS_HARVEST": 7,
+          "HUNTER_DAYS": 458,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 102
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 178,
+          "BUCK": 90,
+          "DOE": 0,
+          "FAWN": 36,
+          "TOTAL": 126,
+          "HUNTER_SUCCESS": 0.708,
+          "DAYS_HARVEST": 6.5,
+          "HUNTER_DAYS": 822,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 201
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 43,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 26,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 0.605,
+          "DAYS_HARVEST": 3.2,
+          "HUNTER_DAYS": 84,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 51
+        }
+      ]
+    },
+    {
+      "Area": 61,
+      "Name": "Harriman",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 132,
+          "BUCK": 44,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 44,
+          "HUNTER_SUCCESS": 0.333,
+          "DAYS_HARVEST": 19.4,
+          "HUNTER_DAYS": 853
+        }
+      ]
+    },
+    {
+      "Area": 64,
+      "Name": "Laramie Peak",
+      "data": [
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 70,
+          "BUCK": 26,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 26,
+          "HUNTER_SUCCESS": 0.371,
+          "DAYS_HARVEST": 13.9,
+          "HUNTER_DAYS": 362,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 102
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 5,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 3,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.6,
+          "DAYS_HARVEST": 2.7,
+          "HUNTER_DAYS": 8,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 997,
+          "BUCK": 346,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 346,
+          "HUNTER_SUCCESS": 0.347,
+          "DAYS_HARVEST": 14.4,
+          "HUNTER_DAYS": 4998
+        }
+      ]
+    },
+    {
+      "Area": 65,
+      "Name": "South Converse",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 792,
+          "BUCK": 331,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 331,
+          "HUNTER_SUCCESS": 0.418,
+          "DAYS_HARVEST": 10.4,
+          "HUNTER_DAYS": 3436
+        }
+      ]
+    },
+    {
+      "Area": 66,
+      "Name": "Bates Hole-Hat Six",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 871,
+          "BUCK": 318,
+          "DOE": 5,
+          "FAWN": 5,
+          "TOTAL": 328,
+          "HUNTER_SUCCESS": 0.377,
+          "DAYS_HARVEST": 8.1,
+          "HUNTER_DAYS": 2642
+        }
+      ]
+    },
+    {
+      "Area": 70,
+      "Name": "Shirley Mountain",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 587,
+          "BUCK": 211,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 211,
+          "HUNTER_SUCCESS": 0.359,
+          "DAYS_HARVEST": 11.6,
+          "HUNTER_DAYS": 2443
+        }
+      ]
+    },
+    {
+      "Area": 74,
+      "Name": "Kyle",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 111,
+          "BUCK": 22,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.198,
+          "DAYS_HARVEST": 23.8,
+          "HUNTER_DAYS": 524
+        }
+      ]
+    },
+    {
+      "Area": 75,
+      "Name": "Four Mile",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 533,
+          "BUCK": 102,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 102,
+          "HUNTER_SUCCESS": 0.191,
+          "DAYS_HARVEST": 26.5,
+          "HUNTER_DAYS": 2705
+        }
+      ]
+    },
+    {
+      "Area": 76,
+      "Name": "Sheep Mountain",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 901,
+          "BUCK": 204,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 204,
+          "HUNTER_SUCCESS": 0.226,
+          "DAYS_HARVEST": 24.5,
+          "HUNTER_DAYS": 5001
+        }
+      ]
+    },
+    {
+      "Area": 77,
+      "Name": "Boulder Ridge",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 134,
+          "BUCK": 13,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 13,
+          "HUNTER_SUCCESS": 0.097,
+          "DAYS_HARVEST": 54.7,
+          "HUNTER_DAYS": 711
+        }
+      ]
+    },
+    {
+      "Area": 78,
+      "Name": "French Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 226,
+          "BUCK": 78,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 78,
+          "HUNTER_SUCCESS": 0.345,
+          "DAYS_HARVEST": 20.2,
+          "HUNTER_DAYS": 1579,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 255
+        }
+      ]
+    },
+    {
+      "Area": 79,
+      "Name": "Kennaday Peak",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 226,
+          "BUCK": 100,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 100,
+          "HUNTER_SUCCESS": 0.442,
+          "DAYS_HARVEST": 14.2,
+          "HUNTER_DAYS": 1418,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 252
+        }
+      ]
+    },
+    {
+      "Area": 80,
+      "Name": "Spring Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 124,
+          "BUCK": 60,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 60,
+          "HUNTER_SUCCESS": 0.484,
+          "DAYS_HARVEST": 14.9,
+          "HUNTER_DAYS": 894,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 149
+        }
+      ]
+    },
+    {
+      "Area": 81,
+      "Name": "Blackhall",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 159,
+          "BUCK": 48,
+          "DOE": 0,
+          "FAWN": 1,
+          "TOTAL": 49,
+          "HUNTER_SUCCESS": 0.308,
+          "DAYS_HARVEST": 20,
+          "HUNTER_DAYS": 979,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 178
+        }
+      ]
+    },
+    {
+      "Area": 82,
+      "Name": "Baggs",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1691,
+          "BUCK": 597,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 597,
+          "HUNTER_SUCCESS": 0.353,
+          "DAYS_HARVEST": 14.2,
+          "HUNTER_DAYS": 8483
+        }
+      ]
+    },
+    {
+      "Area": 84,
+      "Name": "Atlantic Rim",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 3,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 3,
+          "HUNTER_SUCCESS": 0.136,
+          "DAYS_HARVEST": 48,
+          "HUNTER_DAYS": 144,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 87,
+      "Name": "Ferris",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 45,
+          "BUCK": 29,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 31,
+          "HUNTER_SUCCESS": 0.689,
+          "DAYS_HARVEST": 7.1,
+          "HUNTER_DAYS": 220,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        }
+      ]
+    },
+    {
+      "Area": 88,
+      "Name": "Kendrick",
+      "data": [
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 0,
+          "DOE": 9,
+          "FAWN": 28,
+          "TOTAL": 37,
+          "HUNTER_SUCCESS": 0.771,
+          "DAYS_HARVEST": 2.2,
+          "HUNTER_DAYS": 83,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 335,
+          "BUCK": 116,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 116,
+          "HUNTER_SUCCESS": 0.346,
+          "DAYS_HARVEST": 8.2,
+          "HUNTER_DAYS": 957
+        }
+      ]
+    },
+    {
+      "Area": 89,
+      "Name": "Rattlesnake",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 119,
+          "BUCK": 71,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 71,
+          "HUNTER_SUCCESS": 0.597,
+          "DAYS_HARVEST": 8.6,
+          "HUNTER_DAYS": 611,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 127
+        }
+      ]
+    },
+    {
+      "Area": 90,
+      "Name": "Muskrat",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 49,
+          "BUCK": 25,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 0.551,
+          "DAYS_HARVEST": 11.8,
+          "HUNTER_DAYS": 318,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 51
+        }
+      ]
+    },
+    {
+      "Area": 92,
+      "Name": "Table Mountain",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 543,
+          "BUCK": 148,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 148,
+          "HUNTER_SUCCESS": 0.273,
+          "DAYS_HARVEST": 16.3,
+          "HUNTER_DAYS": 2408
+        }
+      ]
+    },
+    {
+      "Area": 94,
+      "Name": "Twin Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 250,
+          "BUCK": 87,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 87,
+          "HUNTER_SUCCESS": 0.348,
+          "DAYS_HARVEST": 11.2,
+          "HUNTER_DAYS": 977
+        }
+      ]
+    },
+    {
+      "Area": 96,
+      "Name": "Green Mountain",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 368,
+          "BUCK": 166,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 166,
+          "HUNTER_SUCCESS": 0.451,
+          "DAYS_HARVEST": 8.5,
+          "HUNTER_DAYS": 1417
+        }
+      ]
+    },
+    {
+      "Area": 97,
+      "Name": "Sweetwater Rocks",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 208,
+          "BUCK": 78,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 78,
+          "HUNTER_SUCCESS": 0.375,
+          "DAYS_HARVEST": 8.9,
+          "HUNTER_DAYS": 697
+        }
+      ]
+    },
+    {
+      "Area": 98,
+      "Name": "Chain Lakes",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 38,
+          "BUCK": 5,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 5,
+          "HUNTER_SUCCESS": 0.132,
+          "DAYS_HARVEST": 26.4,
+          "HUNTER_DAYS": 132
+        }
+      ]
+    },
+    {
+      "Area": 100,
+      "Name": "South Wamsutter",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 259,
+          "BUCK": 54,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 54,
+          "HUNTER_SUCCESS": 0.208,
+          "DAYS_HARVEST": 22.8,
+          "HUNTER_DAYS": 1232
+        }
+      ]
+    },
+    {
+      "Area": 101,
+      "Name": "Black Butte",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 23,
+          "BUCK": 16,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 16,
+          "HUNTER_SUCCESS": 0.696,
+          "DAYS_HARVEST": 15.4,
+          "HUNTER_DAYS": 246,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 26
+        }
+      ]
+    },
+    {
+      "Area": 102,
+      "Name": "Aspen Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 147,
+          "BUCK": 110,
+          "DOE": 0,
+          "FAWN": 3,
+          "TOTAL": 113,
+          "HUNTER_SUCCESS": 0.769,
+          "DAYS_HARVEST": 10,
+          "HUNTER_DAYS": 1132,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 152
+        }
+      ]
+    },
+    {
+      "Area": 105,
+      "Name": "Beartooth",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 20,
+          "BUCK": 17,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 0.85,
+          "DAYS_HARVEST": 12.2,
+          "HUNTER_DAYS": 208,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 362,
+          "BUCK": 107,
+          "DOE": 15,
+          "FAWN": 0,
+          "TOTAL": 122,
+          "HUNTER_SUCCESS": 0.337,
+          "DAYS_HARVEST": 13,
+          "HUNTER_DAYS": 1580
+        }
+      ]
+    },
+    {
+      "Area": 106,
+      "Name": "Crandall-Sunlight",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 7,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": "NA",
+          "HUNTER_DAYS": 37,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 344,
+          "BUCK": 109,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 109,
+          "HUNTER_SUCCESS": 0.317,
+          "DAYS_HARVEST": 16,
+          "HUNTER_DAYS": 1749
+        }
+      ]
+    },
+    {
+      "Area": 109,
+      "Name": "Bald Ridge",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 18,
+          "BUCK": 8,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 8,
+          "HUNTER_SUCCESS": 0.444,
+          "DAYS_HARVEST": 23.1,
+          "HUNTER_DAYS": 185,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 110,
+      "Name": "Grinnell",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 23,
+          "BUCK": 15,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 0.652,
+          "DAYS_HARVEST": 9.3,
+          "HUNTER_DAYS": 139,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 511,
+          "BUCK": 164,
+          "DOE": 4,
+          "FAWN": 0,
+          "TOTAL": 168,
+          "HUNTER_SUCCESS": 0.329,
+          "DAYS_HARVEST": 13.6,
+          "HUNTER_DAYS": 2281
+        }
+      ]
+    },
+    {
+      "Area": 111,
+      "Name": "Elk Fork",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 9,
+          "BUCK": 2,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.222,
+          "DAYS_HARVEST": 16.5,
+          "HUNTER_DAYS": 33,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 392,
+          "BUCK": 101,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 101,
+          "HUNTER_SUCCESS": 0.258,
+          "DAYS_HARVEST": 16.4,
+          "HUNTER_DAYS": 1653
+        }
+      ]
+    },
+    {
+      "Area": 112,
+      "Name": "Ishawooa",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 23,
+          "BUCK": 21,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 0.913,
+          "DAYS_HARVEST": 8.6,
+          "HUNTER_DAYS": 180,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 405,
+          "BUCK": 122,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 122,
+          "HUNTER_SUCCESS": 0.301,
+          "DAYS_HARVEST": 16.8,
+          "HUNTER_DAYS": 2046
+        }
+      ]
+    },
+    {
+      "Area": 113,
+      "Name": "Boulder",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 10,
+          "BUCK": 2,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.2,
+          "DAYS_HARVEST": 19,
+          "HUNTER_DAYS": 38,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "Reduced 7",
+          "ACTIVE_LICS_HTRS": 63,
+          "BUCK": 0,
+          "DOE": 6,
+          "FAWN": 14,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.317,
+          "DAYS_HARVEST": 13.1,
+          "HUNTER_DAYS": 262,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 98
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 438,
+          "BUCK": 136,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 136,
+          "HUNTER_SUCCESS": 0.311,
+          "DAYS_HARVEST": 15.8,
+          "HUNTER_DAYS": 2142
+        }
+      ]
+    },
+    {
+      "Area": 114,
+      "Name": "Wall Mountain",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 0,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": "NA",
+          "HUNTER_DAYS": 0,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 11,
+          "BUCK": 4,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 0.364,
+          "DAYS_HARVEST": 10,
+          "HUNTER_DAYS": 40
+        }
+      ]
+    },
+    {
+      "Area": 115,
+      "Name": "Thorofare",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 37,
+          "BUCK": 15,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 0.405,
+          "DAYS_HARVEST": 21.3,
+          "HUNTER_DAYS": 320
+        }
+      ]
+    },
+    {
+      "Area": 116,
+      "Name": "Meeteetse",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 56,
+          "BUCK": 26,
+          "DOE": 2,
+          "FAWN": 2,
+          "TOTAL": 30,
+          "HUNTER_SUCCESS": 0.536,
+          "DAYS_HARVEST": 6.6,
+          "HUNTER_DAYS": 197,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 77
+        }
+      ]
+    },
+    {
+      "Area": 117,
+      "Name": "Franc's Peak",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 45,
+          "BUCK": 25,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 25,
+          "HUNTER_SUCCESS": 0.556,
+          "DAYS_HARVEST": 9.9,
+          "HUNTER_DAYS": 248,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        }
+      ]
+    },
+    {
+      "Area": 118,
+      "Name": "Upper Gooseberry Creek",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 22,
+          "BUCK": 11,
+          "DOE": 0,
+          "FAWN": 3,
+          "TOTAL": 14,
+          "HUNTER_SUCCESS": 0.636,
+          "DAYS_HARVEST": 9.3,
+          "HUNTER_DAYS": 130,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 119,
+      "Name": "Anchor",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 40,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 0.833,
+          "DAYS_HARVEST": 6.8,
+          "HUNTER_DAYS": 271,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 51
+        },
+        {
+          "TYPE": "Full 2",
+          "ACTIVE_LICS_HTRS": 41,
+          "BUCK": 18,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 18,
+          "HUNTER_SUCCESS": 0.439,
+          "DAYS_HARVEST": 5.7,
+          "HUNTER_DAYS": 102,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 50
+        }
+      ]
+    },
+    {
+      "Area": 120,
+      "Name": "Hamilton Dome",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 64,
+          "BUCK": 49,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 49,
+          "HUNTER_SUCCESS": 0.766,
+          "DAYS_HARVEST": 3.9,
+          "HUNTER_DAYS": 192,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 81
+        }
+      ]
+    },
+    {
+      "Area": 121,
+      "Name": "Heart Mountain",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 48,
+          "BUCK": 0,
+          "DOE": 15,
+          "FAWN": 0,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 0.312,
+          "DAYS_HARVEST": 12.1,
+          "HUNTER_DAYS": 182,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 295,
+          "BUCK": 61,
+          "DOE": 16,
+          "FAWN": 7,
+          "TOTAL": 84,
+          "HUNTER_SUCCESS": 0.285,
+          "DAYS_HARVEST": 11.5,
+          "HUNTER_DAYS": 964
+        }
+      ]
+    },
+    {
+      "Area": 122,
+      "Name": "Shoshone River",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 35,
+          "BUCK": 0,
+          "DOE": 2,
+          "FAWN": 9,
+          "TOTAL": 11,
+          "HUNTER_SUCCESS": 0.314,
+          "DAYS_HARVEST": 12.4,
+          "HUNTER_DAYS": 136,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 101
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 670,
+          "BUCK": 144,
+          "DOE": 4,
+          "FAWN": 23,
+          "TOTAL": 171,
+          "HUNTER_SUCCESS": 0.255,
+          "DAYS_HARVEST": 12.7,
+          "HUNTER_DAYS": 2177
+        }
+      ]
+    },
+    {
+      "Area": 123,
+      "Name": "Yellowtail",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 6,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 0,
+          "HUNTER_SUCCESS": 0,
+          "DAYS_HARVEST": "NA",
+          "HUNTER_DAYS": 43,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 120,
+          "BUCK": 12,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 12,
+          "HUNTER_SUCCESS": 0.1,
+          "DAYS_HARVEST": 22,
+          "HUNTER_DAYS": 264
+        }
+      ]
+    },
+    {
+      "Area": 124,
+      "Name": "Emblem",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 10,
+          "BUCK": 0,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 2,
+          "HUNTER_SUCCESS": 0.2,
+          "DAYS_HARVEST": 13,
+          "HUNTER_DAYS": 26,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 28
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 365,
+          "BUCK": 64,
+          "DOE": 0,
+          "FAWN": 4,
+          "TOTAL": 68,
+          "HUNTER_SUCCESS": 0.186,
+          "DAYS_HARVEST": 15.8,
+          "HUNTER_DAYS": 1072
+        }
+      ]
+    },
+    {
+      "Area": 125,
+      "Name": "Fifteen Mile",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 73,
+          "BUCK": 46,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 46,
+          "HUNTER_SUCCESS": 0.63,
+          "DAYS_HARVEST": 8.5,
+          "HUNTER_DAYS": 393,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 76
+        }
+      ]
+    },
+    {
+      "Area": 127,
+      "Name": "Cottonwood",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 99,
+          "BUCK": 20,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.202,
+          "DAYS_HARVEST": 15.9,
+          "HUNTER_DAYS": 318
+        }
+      ]
+    },
+    {
+      "Area": 128,
+      "Name": "Wind River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 58,
+          "BUCK": 55,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 55,
+          "HUNTER_SUCCESS": 0.948,
+          "DAYS_HARVEST": 8.3,
+          "HUNTER_DAYS": 457,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 58
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 756,
+          "BUCK": 165,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 165,
+          "HUNTER_SUCCESS": 0.218,
+          "DAYS_HARVEST": 24.3,
+          "HUNTER_DAYS": 4013
+        }
+      ]
+    },
+    {
+      "Area": 130,
+      "Name": "Big Sandy",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 5,
+          "BUCK": 4,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 4,
+          "HUNTER_SUCCESS": 0.8,
+          "DAYS_HARVEST": 15.5,
+          "HUNTER_DAYS": 62,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 5
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 189,
+          "BUCK": 40,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 40,
+          "HUNTER_SUCCESS": 0.212,
+          "DAYS_HARVEST": 19.7,
+          "HUNTER_DAYS": 788
+        }
+      ]
+    },
+    {
+      "Area": 131,
+      "Name": "Steamboat",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 480,
+          "BUCK": 97,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 97,
+          "HUNTER_SUCCESS": 0.202,
+          "DAYS_HARVEST": 20.2,
+          "HUNTER_DAYS": 1959
+        }
+      ]
+    },
+    {
+      "Area": 132,
+      "Name": "Cedar Mountain",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 614,
+          "BUCK": 178,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 178,
+          "HUNTER_SUCCESS": 0.29,
+          "DAYS_HARVEST": 20.5,
+          "HUNTER_DAYS": 3643
+        }
+      ]
+    },
+    {
+      "Area": 133,
+      "Name": "Uinta",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 415,
+          "BUCK": 121,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 121,
+          "HUNTER_SUCCESS": 0.292,
+          "DAYS_HARVEST": 13.5,
+          "HUNTER_DAYS": 1631
+        }
+      ]
+    },
+    {
+      "Area": 134,
+      "Name": "Bear River Divide",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 486,
+          "BUCK": 151,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 151,
+          "HUNTER_SUCCESS": 0.311,
+          "DAYS_HARVEST": 11,
+          "HUNTER_DAYS": 1659
+        }
+      ]
+    },
+    {
+      "Area": 135,
+      "Name": "West Green River",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 1211,
+          "BUCK": 185,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 185,
+          "HUNTER_SUCCESS": 0.153,
+          "DAYS_HARVEST": 31.2,
+          "HUNTER_DAYS": 5773
+        }
+      ]
+    },
+    {
+      "Area": 138,
+      "Name": "Boulder",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 169,
+          "BUCK": 28,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 28,
+          "HUNTER_SUCCESS": 0.166,
+          "DAYS_HARVEST": 27,
+          "HUNTER_DAYS": 755
+        }
+      ]
+    },
+    {
+      "Area": 139,
+      "Name": "Pinedale",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 81,
+          "BUCK": 22,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 22,
+          "HUNTER_SUCCESS": 0.272,
+          "DAYS_HARVEST": 15.5,
+          "HUNTER_DAYS": 341
+        }
+      ]
+    },
+    {
+      "Area": 140,
+      "Name": "New Fork",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 85,
+          "BUCK": 10,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 10,
+          "HUNTER_SUCCESS": 0.118,
+          "DAYS_HARVEST": 43.1,
+          "HUNTER_DAYS": 431
+        }
+      ]
+    },
+    {
+      "Area": 141,
+      "Name": "Green River",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 52,
+          "BUCK": 32,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 32,
+          "HUNTER_SUCCESS": 0.615,
+          "DAYS_HARVEST": 13.5,
+          "HUNTER_DAYS": 432,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 52
+        }
+      ]
+    },
+    {
+      "Area": 142,
+      "Name": "Piney-Horse Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 485,
+          "BUCK": 111,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 111,
+          "HUNTER_SUCCESS": 0.229,
+          "DAYS_HARVEST": 23.8,
+          "HUNTER_DAYS": 2638
+        }
+      ]
+    },
+    {
+      "Area": 143,
+      "Name": "South Piney",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 516,
+          "BUCK": 44,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 44,
+          "HUNTER_SUCCESS": 0.085,
+          "DAYS_HARVEST": 60.6,
+          "HUNTER_DAYS": 2667
+        }
+      ]
+    },
+    {
+      "Area": 144,
+      "Name": "Greys River",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 645,
+          "BUCK": 106,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 106,
+          "HUNTER_SUCCESS": 0.164,
+          "DAYS_HARVEST": 28.9,
+          "HUNTER_DAYS": 3067
+        }
+      ]
+    },
+    {
+      "Area": 145,
+      "Name": "Salt River",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 577,
+          "BUCK": 134,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 134,
+          "HUNTER_SUCCESS": 0.232,
+          "DAYS_HARVEST": 18.9,
+          "HUNTER_DAYS": 2530
+        }
+      ]
+    },
+    {
+      "Area": 146,
+      "Name": "Fish Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 96,
+          "BUCK": 38,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 38,
+          "HUNTER_SUCCESS": 0.396,
+          "DAYS_HARVEST": 9.4,
+          "HUNTER_DAYS": 359
+        }
+      ]
+    },
+    {
+      "Area": 148,
+      "Name": "Teton",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 309,
+          "BUCK": 91,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 91,
+          "HUNTER_SUCCESS": 0.294,
+          "DAYS_HARVEST": 16.7,
+          "HUNTER_DAYS": 1516
+        }
+      ]
+    },
+    {
+      "Area": 149,
+      "Name": "Targhee",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 99,
+          "BUCK": 17,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 0.172,
+          "DAYS_HARVEST": 23.8,
+          "HUNTER_DAYS": 405
+        }
+      ]
+    },
+    {
+      "Area": 150,
+      "Name": "Wilson",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 39,
+          "BUCK": 6,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 6,
+          "HUNTER_SUCCESS": 0.154,
+          "DAYS_HARVEST": 25.3,
+          "HUNTER_DAYS": 152
+        }
+      ]
+    },
+    {
+      "Area": 151,
+      "Name": "Fall Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 177,
+          "BUCK": 27,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 27,
+          "HUNTER_SUCCESS": 0.153,
+          "DAYS_HARVEST": 22.5,
+          "HUNTER_DAYS": 607
+        }
+      ]
+    },
+    {
+      "Area": 152,
+      "Name": "Lower Hoback",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 384,
+          "BUCK": 95,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 95,
+          "HUNTER_SUCCESS": 0.247,
+          "DAYS_HARVEST": 18.9,
+          "HUNTER_DAYS": 1791
+        }
+      ]
+    },
+    {
+      "Area": 153,
+      "Name": "Monument Ridge",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 240,
+          "BUCK": 73,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 73,
+          "HUNTER_SUCCESS": 0.304,
+          "DAYS_HARVEST": 14.4,
+          "HUNTER_DAYS": 1052
+        }
+      ]
+    },
+    {
+      "Area": 154,
+      "Name": "Raspberry Ridge",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 279,
+          "BUCK": 65,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 65,
+          "HUNTER_SUCCESS": 0.233,
+          "DAYS_HARVEST": 21.2,
+          "HUNTER_DAYS": 1381
+        }
+      ]
+    },
+    {
+      "Area": 155,
+      "Name": "Crystal Peak",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 115,
+          "BUCK": 19,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 19,
+          "HUNTER_SUCCESS": 0.165,
+          "DAYS_HARVEST": 23.5,
+          "HUNTER_DAYS": 446
+        }
+      ]
+    },
+    {
+      "Area": 156,
+      "Name": "Spread Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 135,
+          "BUCK": 35,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 35,
+          "HUNTER_SUCCESS": 0.259,
+          "DAYS_HARVEST": 14.8,
+          "HUNTER_DAYS": 518
+        }
+      ]
+    },
+    {
+      "Area": 157,
+      "Name": "Boysen",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 58,
+          "BUCK": 15,
+          "DOE": 0,
+          "FAWN": 2,
+          "TOTAL": 17,
+          "HUNTER_SUCCESS": 0.293,
+          "DAYS_HARVEST": 10.9,
+          "HUNTER_DAYS": 186,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 100
+        },
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 23,
+          "BUCK": 0,
+          "DOE": 2,
+          "FAWN": 13,
+          "TOTAL": 15,
+          "HUNTER_SUCCESS": 0.652,
+          "DAYS_HARVEST": 11.8,
+          "HUNTER_DAYS": 177,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 25
+        }
+      ]
+    },
+    {
+      "Area": 160,
+      "Name": "Beaver Creek",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 148,
+          "BUCK": 42,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 42,
+          "HUNTER_SUCCESS": 0.284,
+          "DAYS_HARVEST": 11.8,
+          "HUNTER_DAYS": 496
+        }
+      ]
+    },
+    {
+      "Area": 163,
+      "Name": "Middle Fork",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 234,
+          "BUCK": 76,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 76,
+          "HUNTER_SUCCESS": 0.325,
+          "DAYS_HARVEST": 12.3,
+          "HUNTER_DAYS": 934
+        }
+      ]
+    },
+    {
+      "Area": 164,
+      "Name": "Nowater",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 58,
+          "BUCK": 0,
+          "DOE": 34,
+          "FAWN": 2,
+          "TOTAL": 36,
+          "HUNTER_SUCCESS": 0.621,
+          "DAYS_HARVEST": 4.4,
+          "HUNTER_DAYS": 158,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 75
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 295,
+          "BUCK": 103,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 103,
+          "HUNTER_SUCCESS": 0.349,
+          "DAYS_HARVEST": 12.5,
+          "HUNTER_DAYS": 1290
+        }
+      ]
+    },
+    {
+      "Area": 165,
+      "Name": "YU Bench",
+      "data": [
+        {
+          "TYPE": "Full 1",
+          "ACTIVE_LICS_HTRS": 40,
+          "BUCK": 20,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.5,
+          "DAYS_HARVEST": 6.9,
+          "HUNTER_DAYS": 138,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 54
+        }
+      ]
+    },
+    {
+      "Area": 168,
+      "Name": "Medicine Butte",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 374,
+          "BUCK": 49,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 49,
+          "HUNTER_SUCCESS": 0.131,
+          "DAYS_HARVEST": 32.2,
+          "HUNTER_DAYS": 1580
+        }
+      ]
+    },
+    {
+      "Area": 169,
+      "Name": "Tisdale Mountain",
+      "data": [
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 156,
+          "BUCK": 58,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 58,
+          "HUNTER_SUCCESS": 0.372,
+          "DAYS_HARVEST": 7.4,
+          "HUNTER_DAYS": 432
+        }
+      ]
+    },
+    {
+      "Area": 171,
+      "Name": "Crowheart Butte",
+      "data": [
+        {
+          "TYPE": "Reduced 6",
+          "ACTIVE_LICS_HTRS": 51,
+          "BUCK": 0,
+          "DOE": 19,
+          "FAWN": 1,
+          "TOTAL": 20,
+          "HUNTER_SUCCESS": 0.392,
+          "DAYS_HARVEST": 17.8,
+          "HUNTER_DAYS": 356,
+          "LICENSES_SOLD_(CROSS_HUNT_INCL)": 236
+        },
+        {
+          "TYPE": "General",
+          "ACTIVE_LICS_HTRS": 55,
+          "BUCK": 21,
+          "DOE": 0,
+          "FAWN": 0,
+          "TOTAL": 21,
+          "HUNTER_SUCCESS": 0.382,
+          "DAYS_HARVEST": 9.9,
+          "HUNTER_DAYS": 207
+        }
+      ]
+    }
+  ]
+}

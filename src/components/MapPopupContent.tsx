@@ -1,4 +1,4 @@
-// components/MapPopupContent.tsx
+// src/components/MapPopupContent.tsx (Revised UI)
 import { useEffect, useState } from 'react';
 import {
   Dialog,
@@ -23,7 +23,7 @@ interface MapPopupContentProps {
     HERDNAME: string;
     [key: string]: any; // Allow for other properties
   },
-  animalName: string;
+  animalName?: string;
 }
 
 interface HarvestData {
@@ -40,31 +40,32 @@ interface HarvestData {
   "LICENSES_SOLD_(CROSS_HUNT_INCL)": number;
 }
 
-export function MapPopupContent({ properties, animalName }: MapPopupContentProps) {
-  const [elkHarvestData, setElkHarvestData] = useState(null);
+export function MapPopupContent({ properties, animalName = 'antelope' }: MapPopupContentProps) {
+  const [harvestData, setHarvestData] = useState<any>(null);
   const [error, setError] = useState<string | null>(null);
-
   const [currentAreaHarvestdata, setCurrentAreaHarvestData] = useState<any>(null);
-  const [ selectedType, setSelectedType ] = useState('');
+  const [selectedType, setSelectedType] = useState('');
 
   const hangleTypeChange = (newValue: string) => {
     setSelectedType(newValue);
-    console.log(newValue);
   }
 
+  
+
   useEffect(() => {
-    const fetchElkData = async () => {
+    const fetchHarvestData = async () => {
       try {
-        console.log('Popup', animalName);
-        const response = await fetch(`/${animalName}/${animalName}harvestdata.json`);
+        let response;
+        
+        response = await fetch(`/${animalName}/${animalName}harvestdata.json`);
 
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
 
         const data = await response.json();
-        setElkHarvestData(data);
-
+        setHarvestData(data);
+        
         const foundArea = data.areas.find((unit: any) => unit.Area === properties.HUNTAREA);
 
         if (foundArea?.data && foundArea.data.length > 0) {
@@ -77,28 +78,28 @@ export function MapPopupContent({ properties, animalName }: MapPopupContentProps
 
       } catch (e) {
         const errorMessage = (e as Error).message;
-        console.error("Failed to fetch elk harvest data:", errorMessage);
+        console.error(`Failed to fetch ${animalName} harvest data:`, errorMessage);
         setError(errorMessage);
       }
     };
 
-    fetchElkData();
-  }, [properties.HUNTAREA]);
+    fetchHarvestData();
+  }, [properties.HUNTAREA, animalName]);
 
   if (error) {
-    return <div>Error: {error}</div>;
+    return <div className="p-4 text-red-600">Error: {error}</div>;
   }
 
-  if (!elkHarvestData) {
-    return <div>Loading...</div>;
+  if (!harvestData) {
+    return <div className="p-4 text-gray-500">Loading...</div>;
   }
-  
+
   const selectedHarvestData = currentAreaHarvestdata?.find((element: HarvestData) => element.TYPE === selectedType);
 
   return (
-    <div className="p-4">
-      <h3 className="text-xl font-extrabold text-gray-800 mb-2">
-        Hunt Area: {properties.HUNTAREA || 'N/A'}
+    <div className="p-5 bg-white rounded-lg shadow-lg max-w-sm">
+      <h3 className="text-2xl font-bold text-gray-900 mb-2">
+        {properties.HUNTAREA || 'N/A'}
       </h3>
       <div className="space-y-1 text-sm text-gray-600">
         <p><span className="font-semibold text-gray-700">Hunt Name:</span> {properties.HUNTNAME || 'N/A'}</p>
@@ -107,48 +108,98 @@ export function MapPopupContent({ properties, animalName }: MapPopupContentProps
 
       <Dialog>
         <DialogTrigger asChild>
-          <button className="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+          <button className="mt-4 w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 transition-colors">
             Show Harvest Details
           </button>
         </DialogTrigger>
-        <DialogContent>
+        <DialogContent className="max-w-xl p-6">
           <DialogHeader>
-            <DialogTitle>{properties.HUNTAREA} Harvest Details</DialogTitle>
-            <DialogDescription>
+            <DialogTitle className="text-2xl font-bold">{properties.HUNTAREA} Harvest Details</DialogTitle>
+            <DialogDescription className="mt-1 text-gray-500">
               Harvest data for the 2024 season.
             </DialogDescription>
           </DialogHeader>
-          
-          {currentAreaHarvestdata ? (
-              <div>
-                  <Select onValueChange={hangleTypeChange} value={selectedType}>
-                      <SelectTrigger className="w-[180px]">
-                          <SelectValue placeholder="TYPE" />
-                      </SelectTrigger>
-                      <SelectContent>
-                          {currentAreaHarvestdata.map((element: HarvestData, index: number) => (
-                                <SelectItem value={element.TYPE} key={index}>{element.TYPE}</SelectItem>
-                          ))}
-                      </SelectContent>
-                  </Select>
 
-                  {selectedHarvestData ? (
-                      <div className="mt-4 space-y-2">
-                          <p><strong>Type:</strong> {selectedHarvestData.TYPE ?? 'N/A'}</p>
+          {currentAreaHarvestdata ? (
+              <div className="mt-4">
+                  <div className="flex items-center space-x-2 mb-4">
+                      <span className="text-sm text-gray-700 font-medium">Select Type:</span>
+                      <Select onValueChange={hangleTypeChange} value={selectedType}>
+                          <SelectTrigger className="w-[200px] border border-gray-300 rounded-md">
+                              <SelectValue placeholder="TYPE" />
+                          </SelectTrigger>
+                          <SelectContent>
+                              {currentAreaHarvestdata.map((element: HarvestData, index: number) => (
+                                  <SelectItem value={element.TYPE} key={index}>{element.TYPE}</SelectItem>
+                              ))}
+                          </SelectContent>
+                      </Select>
+                  </div>
+
+                  {animalName === 'blackbear' || animalName === 'grizzlybear' || animalName === 'mountainlion' || animalName === 'wolf' ? (
+                    <>
                           <p><strong>Total Harvest:</strong> {selectedHarvestData.TOTAL ?? 'N/A'}</p>
                           <p><strong>Days per Harvest:</strong> {selectedHarvestData.DAYS_HARVEST ?? 'N/A'}</p>
-                          <p><strong>Hunter Success:</strong> {(selectedHarvestData.HUNTER_SUCCESS * 100).toFixed(0) ?? 'N/A'}%</p>
-                          <p><strong>Bull:</strong> {selectedHarvestData.BULL ?? 'N/A'}</p>
-                          <p><strong>Spike:</strong> {selectedHarvestData.SPIKE ?? 'N/A'}</p>
-                          <p><strong>Cow:</strong> {selectedHarvestData.COW ?? 'N/A'}</p>
-                          <p><strong>Calf:</strong> {selectedHarvestData.CALF ?? 'N/A'}</p>
+                          <p><strong>Hunter Success:</strong> {selectedHarvestData.HUNTER_SUCCESS ? (selectedHarvestData.HUNTER_SUCCESS * 100).toFixed(0) + '%' : 'N/A'}</p>
+                          <p><strong>Active Licenses:</strong> {selectedHarvestData.ACTIVE_LICS_HTRS ?? 'N/A'}</p>
+                    </>
+                  ) : (
+                    <>
+                    </>
+                  )
+                  
+                  }
+
+                  {selectedHarvestData ? (
+                      <div className="grid grid-cols-2 gap-4 text-sm mt-4">
+                          <p><strong>Total Harvest:</strong> {selectedHarvestData.TOTAL ?? 'N/A'}</p>
+                          <p><strong>Days per Harvest:</strong> {selectedHarvestData.DAYS_HARVEST ?? 'N/A'}</p>
+                          <p><strong>Hunter Success:</strong> {selectedHarvestData.HUNTER_SUCCESS ? (selectedHarvestData.HUNTER_SUCCESS * 100).toFixed(0) + '%' : 'N/A'}</p>
+                          <p><strong>Active Licenses:</strong> {selectedHarvestData.ACTIVE_LICS_HTRS ?? 'N/A'}</p>
+                          {animalName === 'elk' ? (
+                              <>
+                                  <p><strong>Bull:</strong> {selectedHarvestData.BULL ?? 'N/A'}</p>
+                                  <p><strong>Spike:</strong> {selectedHarvestData.SPIKE ?? 'N/A'}</p>
+                                  <p><strong>Cow:</strong> {selectedHarvestData.COW ?? 'N/A'}</p>
+                                  <p><strong>Calf:</strong> {selectedHarvestData.CALF ?? 'N/A'}</p>
+                              </>
+                          ) : animalName === 'whitetail' || animalName === 'muledeer' || animalName === 'antelope' ? (
+                              <>
+                                  <p><strong>Buck:</strong> {selectedHarvestData.BUCK ?? 'N/A'}</p>
+                                  <p><strong>Doe:</strong> {selectedHarvestData.DOE ?? 'N/A'}</p>
+                                  <p><strong>Fawn:</strong> {selectedHarvestData.FAWN ?? 'N/A'}</p>
+                              </>
+                          ) : animalName === 'bighornsheep' ? (
+                              <>
+                                  <p><strong>Ram:</strong> {selectedHarvestData.RAM ?? 'N/A'}</p>
+                                  <p><strong>Ewe:</strong> {selectedHarvestData.EWE ?? 'N/A'}</p>
+                                  <p><strong>Lamb:</strong> {selectedHarvestData.LAMB ?? 'N/A'}</p>
+                              </>
+                          ) : animalName === 'bison' || animalName === 'moose' ? (
+                            <>
+                                  <p><strong>Bull:</strong> {selectedHarvestData.BULL ?? 'N/A'}</p>
+                                  <p><strong>Cow:</strong> {selectedHarvestData.COW ?? 'N/A'}</p>
+                                  <p><strong>Calf:</strong> {selectedHarvestData.CALF ?? 'N/A'}</p>
+                            </>
+                          ) : animalName === 'mountaingoat' ? (
+                            <>
+                                  <p><strong>Billy:</strong> {selectedHarvestData.BILLY ?? 'N/A'}</p>
+                                  <p><strong>Nanny:</strong> {selectedHarvestData.NANNY ?? 'N/A'}</p>
+                                  <p><strong>Kid:</strong> {selectedHarvestData.KID ?? 'N/A'}</p>
+                            </>
+                          ) : (
+                            <>
+                                  <p><strong>No Data Found</strong></p>
+                            </>
+                          )}
+                          
                       </div>
                   ) : (
-                      <p>No data found for the selected type.</p>
+                      <p className="text-gray-500 text-center mt-6">No data found for the selected type.</p>
                   )}
               </div>
           ) : (
-              <p>No harvest data found for this area.</p>
+              <p className="text-gray-500 text-center mt-6">No harvest data found for this area.</p>
           )}
         </DialogContent>
       </Dialog>

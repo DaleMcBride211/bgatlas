@@ -11,7 +11,7 @@ import React, { useState } from 'react';
 
 const AppContent = () => {
   const { user, loading } = useAuth();
-  const [animal, setAnimal] = useState('');
+  const [animal, setAnimal] = useState('antelope');
 
   const handleAnimalChange =  (newAnimal: string) => {
     console.log('New Animal Selected: ', newAnimal);
