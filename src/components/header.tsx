@@ -2,30 +2,30 @@
 'use client';
 
 import React from 'react';
-import { useAuth } from '@/context/AuthContext';
-import { signOut } from 'firebase/auth';
-import { auth } from '@/lib/firebase'; // Make sure this path is correct
+// import { useAuth } from '@/context/AuthContext';
+// import { signOut } from 'firebase/auth';
+// import { auth } from '@/lib/firebase'; // Make sure this path is correct
 import { useRouter } from 'next/navigation';
 // The Header component for the Big Game Atlas application.
 // It displays a logo, navigation links, and a user profile/login area in a vertical sidebar.
 // The design maintains an even skinnier vertical sidebar, tailored to a "Big Game Atlas" feel
 // with earthy colors and a robust presence, using Tailwind CSS.
 function Header() {
-  const { user, loading } = useAuth(); // Get user and loading state from AuthContext
+  // const { user, loading } = useAuth(); // Get user and loading state from AuthContext
   const router = useRouter();
   const handleLoginClick = () => {
     router.push('/auth');
   };
 
   // Handles user logout
-  const handleLogout = async () => {
-    try {
-      await signOut(auth);
-      console.log('User signed out successfully!');
-    } catch (error: any) {
-      console.error('Logout failed:', error.message);
-    }
-  };
+  // const handleLogout = async () => {
+  //   try {
+  //     await signOut(auth);
+  //     console.log('User signed out successfully!');
+  //   } catch (error: any) {
+  //     console.error('Logout failed:', error.message);
+  //   }
+  // };
 
   // Helper to get user's initial for display
   const getUserInitial = (user: { email?: string | null; displayName?: string | null }) => {
@@ -58,7 +58,7 @@ function Header() {
         </div>
 
         {/* User Profile / Login at the bottom */}
-        {loading ? (
+        {/* {loading ? (
           // Show a simple loading indicator while auth state is being determined
           <div className="flex-shrink-0 w-10 h-10 rounded-full bg-green-700 flex items-center justify-center text-white text-lg font-bold">
             ...
@@ -105,7 +105,7 @@ function Header() {
               ></path>
             </svg>
           </button>
-        )}
+        )} */}
       </div>
     </header>
   );

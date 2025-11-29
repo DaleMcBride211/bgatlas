@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Overview
 
-## Getting Started
+I developed a geospatial web application designed to visualize hunting data for the state of Wyoming. Currently, hunters have to cross-reference static PDF harvest reports with separate map files to plan their hunts. This software solves that problem by integrating the two datasets into a single, interactive interface. The application displays vector-based hunt area boundaries for big game species. When a user interacts with a specific area on the map, the application retrieves and displays the specific harvest data (tags issued, harvest success rates, etc.) for that unit.
 
-First, run the development server:
+My purpose for writing this software was to challenge myself to build a full-stack application that handles complex data visualization. I specifically wanted to gain proficiency in integrating third-party mapping APIs (MapTiler) with a modern frontend framework, while also managing secure user authentication. This project allowed me to explore the practical applications of GIS (Geographic Information Systems) within a React-based environment.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[Software Demo Video](https://youtu.be/rDjTTSCBZcw)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Development Environment
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To develop this software, I utilized Visual Studio Code as my primary IDE, utilizing Git for version control. I used Node.js to manage dependencies and run the development server.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Programming Language and Libraries:**
+* **TypeScript:** Used for the core logic to ensure type safety, particularly for the complex shapes of the Hunt Area and Harvest Data objects.
+* **Next.js (React Framework):** Used for the frontend structure, routing, and rendering of the application.
+* **MapTiler SDK:** Used to render the interactive vector maps and handle the geospatial boundary data.
+* **Firebase Authentication:** Implemented to manage user sign-in and security.
+* **CSS/Tailwind:** Used for styling the user interface.
 
-## Learn More
+# Useful Websites
 
-To learn more about Next.js, take a look at the following resources:
+* [MapTiler Documentation](https://docs.maptiler.com/sdk-js/)
+* [Next.js Documentation](https://nextjs.org/docs)
+* [Firebase Auth Documentation](https://firebase.google.com/docs/auth)
+* [Wyoming Game and Fish Department](https://wgfd.wyo.gov/hunting/harvest-reports)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Future Work
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* **Advanced Filtering:** I need to add a sidebar that allows users to filter the map based on specific criteria, such as "Show only areas with > 50% success rate."
+* **Database Integration:** Currently, the harvest data is static. I plan to migrate this to a PostgreSQL database to allow for dynamic updates and historical data tracking.
+* **Mobile Responsiveness:** I need to improve the CSS styling to ensure the map interface is fully usable on mobile devices, as the current layout is optimized for desktop.
